@@ -1,0 +1,625 @@
+date,category,incident_type,location/system,description,date_end,time_utc,event_type,power_amplitude,frequency_hz,duration_hours,solar_activity,geomagnetic_kp,location,notes,study,year,measurement_period,detection_method,frequency_range_hz,key_variations_detected,measurement_precision,primary_category,event_description,end_date,month,gci001_(usa),gci002_(sa),gci003_(lt),gci004_(ca),gci005_(nz),gci006_(za),gci001_usa_f1_hz,gci002_sa_f1_hz,gci003_lt_f1_hz,gci004_ca_f1_hz,gci005_nz_f1_hz,gci006_za_f1_hz,mean_observed_f10.7_index,predicted_f1_hz_from_model,mean_observed_f1_hz_gcms_global_avg,residual_hz,provider,product_or_area,incident_title,status,time_local_label,details,2025-08-23_:_rc_esc_failure,2025-08-23_•_rc_aircraft_esc_failure,source,,main_category,incident,kp_note,_category,_confidence
+January 7," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CRIME,TP-Link devices identified as cyber security worst in show at CES,,general,0.8
+January 7," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Russian ISP Nodex network destroyed,Network,Internet Outage - Cyberattack,,general,0.8
+January 8," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VEHICLES,Chevrolet electrical problems reported,,general,0.8
+January 14," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Multiple Russian network disruption,Network,Internet Outage - Technical,,general,0.8
+January 15," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Digicel Haiti fiber cable damage,Network,Internet Outage - Fire Damage,,general,0.8
+January 20," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dog changes treat-hiding behavior,animal,animal Behavior Changes,,general,0.8
+January 23," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PC/Software Issues,Microsoft Windows update issues,,general,0.8
+January 23," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChatGPT global outage,LLM,Large Language Model Issues,,general,0.8
+January 27," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Georgia Magticom complete outage,Network,Internet Outage - Infrastructure,,general,0.8
+February 5," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChatGPT major global crash,LLM,Large Language Model Issues,,general,0.8
+March 11," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bouygues Telecom France disruption,Network,Internet Outage - Technical,,general,0.8
+February 16-March," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Public Mobile network severe issues,Network,Broadcasting Disruption,,general,0.8
+March 16," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NBC signal loss in St. Louis area,Network,Broadcasting Disruption,,general,0.8
+March 20," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PC Hardware Issues,ASUS Flow Z13 visual glitches after BIOS update,,general,0.8
+March 31," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Civil Justice Reform Act Report,Federal Court Statistics,Legal Filing Statistics,,general,0.8
+April 28," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Portugal & Spain massive power/internet outage,Network,Internet Outage - Power Grid,,general,0.8
+May 14," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Denver air traffic control communications outage,Vehicles,Air Traffic Control Outage,,general,0.8
+August 20," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChatGPT down with conversation errors,LLM,Large Language Model Issues,,general,0.8
+August 24," 2025",,,,,,,,,,,,,,,,,,,,,,,Positive rabies case in Franklin County,,,,,,,,,,,,,,,,,,,,,,,,,,,Animal Behavior Changes,Animal," Health Alert",,general,0.8
+August 25," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PC/MOBILE,Samsung Galaxy Z Flip glitches after update,,general,0.8
+August 30," 2025",,,,,,,,,,,,,,,,,,,,,,,Global study shows dramatic wildlife schedule shifts,,,,,,,,,,,,,,,,,,,,,,,,,,,Animal Behavior Changes,animal,Wildlife Activity Pattern Changes,,general,0.8
+September 3," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChatGPT global outage,LLM,Large Language Model Issues,,general,0.8
+September 4," 2025",,,,,,,,,,,,,,,,,,,,,,,OpenAI research explains AI hallucinations,,,,,,,,,,,,,,,,,,,,,,,,,,,Large Language Model Issues,LLM," LLM Research",,general,0.8
+September 10," 2025",,,,,,,,,,,,,,,,,,,,,,,Pandemic effects on 47,,,,,,,,,,,,,,,,,,,,,,,,,,,Animal Behavior Changes,Animal,Domestic Dog Behavior Study,,general,0.8
+"Jan 2-3, 2025",,,,,,,,,,,,,,,,,,,,,,Network,AAE-1 submarine cable fault causes slowed browsing and increased latency in Pakistan.,2025-01-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 2-3, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,AAE-1 submarine cable fault causes slowed browsing and increased latency in Pakistan.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+September 1-3," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Multiple short ChatGPT outages,LLM,Large Language Model Issues,,general,0.8
+,,,,,,,,,,,,,Modra Observatory,,Ondrášková et al.,2007,>4 years (continuous),Vertical electric component; Lorentz function fitting,7–30 (Modes 1–4),"Diurnal, seasonal, interannual peak frequency variations",Not specified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,Multiple global observatories,,Nickolaenko and Hayakawa,2007,3–5 years,Three orthogonal field components; power/cross-spectra,"Up to 40 (focus: 8, 14, 20)",Schumann resonance line splitting observed,0.1 Hz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+January 7-9," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Los Angeles wildfire internet disruptions,Network,Internet Disruption - Natural Disaster,,general,0.8
+,,,,,,,,,,,,,"Western Mediterranean, Antarctica",,Toledo‐Redondo et al.,2010,8 campaigns (interseasonal),Magnetotelluric data; FFT and R/S analysis,"7.8, 14, 20.5",Fluctuations in all modes; stronger in 2nd/3rd; storm-related,Not specified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+June 10-11," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChatGPT 34-hour outage,LLM,Large Language Model Issues,,general,0.8
+,,,,,,,,,,,,,"Stanford, CA (USA); remote stations",,Saroka and Persinger,2014,Aug 2009–Aug 2010 (1 year),"Induction coil, electric field dipole, EEG; spectral analysis","7.8, 14.1, 20.3, 26.4, 32.5",First mode varies ±0.2 Hz; up to 1 Hz shift in 4th harmonic pre-earthquake,0.1–0.01 Hz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+February 25-March 14," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sun outages affecting cable TV signals,network,Electronics Glitch,,general,0.8
+February 25-March 14," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sun outages affecting cable TV,Network,Broadcasting Disruption,,general,0.8
+,,,,,,,,,,,,,"Sudbury, Canada; Cumiana, Italy",,Saroka et al.,2016,2009–2013 (3.5 years),"Induction coil magnetometer, Marconi T antenna, EEG","1.5–40 (focus: 7–8, 13–14, 19–20)","Peaks at 10.25 Hz, 1.95 Hz; beat ~7.5–8 Hz",Mean peak width 0.39 Hz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,"Virgo (Italy), KAGRA (Japan), LIGO (USA)",,Coughlin et al.,2018,Jul–Nov 2016; Aug 2017,ELF magnetometers (MFS-06); power spectral density,"8, 14, 21, 27, 32",Schumann resonance peaks visible; focus on noise subtraction,200 Hz sampling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,Five quiet seismic stations,,Луканенков,2019,Not specified,Seismic noise; spectral analysis,~8,Global increase in spectral power near 8 Hz,Not specified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 20-21, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,A deepfake video showing former President Barack Obama being arrested is shared on former President Trump's social media platform.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 20-21, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,A deepfake video showing former President Barack Obama being arrested is shared on former President Trump's social media platform.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,"France, Italy, Russia, Japan",,Nickolaenko et al.,2022,"Jan 15, 2022 (1.5–2 hours during Tonga eruption)",Horizontal magnetic antennas; spectral analysis,Schumann resonance band,Anomalies during Tonga eruption; ~4x increase in local lightning,Not specified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,Northern and Southern Greece,,Tritakis et al.,2022,Mid-2016–2021 (NORTH); Spring 2020–ongoing (SOUTH),"60 cm coil, amplification, logger; spectral analysis",0–50 (focus: 20–25),Pre-seismic modulations in 20–25 Hz,Not specified,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2022-01,7.94,7.95,7.94,7.94,7.9,7.91,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2022-07,7.9,7.91,7.9,7.9,7.87,7.87,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,"Svalbard (Norway), Antarctic Peninsula",,Hayakawa et al.,2023,"Jan 18, 2022 (diurnal); seasonal modeling",Power spectra integration; numerical simulation,"5–23 (focus: 8, 14, 20)","Diurnal error <3%, seasonal error ~10%",0.1 Hz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2023-01,7.96,7.97,7.96,7.96,7.92,7.93,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,7.92,7.93,7.92,7.92,7.89,7.89,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2024-01,7.99,8,7.99,7.99,7.95,7.96,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 23-24, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Near-total internet outage in Syria after sabotage of two fiber optic cables.,2025-01-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 23-24, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Near-total internet outage in Syria after sabotage of two fiber optic cables.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+June 23-24," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Two DJI Mavic 2 Pro crashes within 24 hours,RC," Drone Crashes",,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2024-07,7.95,7.96,7.95,7.95,7.92,7.92,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,Vehicles,System Failure,Spain,Talgo AVRIL trains complete failure - date handling bug in battery module,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2025-01,8.02,8.03,8.02,8.02,7.98,7.99,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,NETWORK,,,ISP outages steady U.S. 44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kentik,,,,,general,0.8
+2025-01-01,VIOLENCE,,,Homicides fall post-pandemic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,VIOLENCE,,,NYC low shootings Jan-May,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,VIOLENCE,,,Major cities violent down,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,CIVIL/SOCIAL,,,Divorce ~42K Canada Jan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,CIVIL/SOCIAL,,,Privacy 20+ cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-01,CIVIL/SOCIAL,,,Tech 15+ cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025,January-June,,,,,,,,,,,,,,,,,,,,,,,ADA Title III federal lawsuit increase,,,,,,,,,,,,,,,,,,,,,,,,,,,Legal Filing Statistics,civil/social,ADA Litigation,,general,0.8
+2025,June 30,,,,,,,,,,,,,,,,,,,,,,,Bankruptcy filings rise significantly,,,,,,,,,,,,,,,,,,,,,,,,,,,Legal Filing Statistics,civil/social,Bankruptcy Filings,,general,0.8
+2025-01-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (storm run Jan 1–4),general,0.8
+January 2025,CRIME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Major cyber attacks affecting electronics systems,,,general,0.8
+January 2025,Vehicles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Honda CR-V 2025 electronic failures,,,general,0.8
+January 2025,Local Crime Report,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VIOLENCE,Washington DC PSA 202 January Crime,,general,0.8
+2025-01-02,Network,Internet Outage,Pakistan,48+ hour disruption from submarine cable fault (through Jan 4),2025-01-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (storm run Jan 1–4),general,0.8
+2025-01-03,,,,,,,Solar_Flare,,,,,X1.2,,First X-class flare of 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (storm run Jan 1–4),general,0.8
+2025-01-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (storm run Jan 1–4),general,0.8
+2025-01-06,Network,Internet Outage,Angola,7+ hour nationwide outage from power failure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 6, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Widespread power grid failure triggers major internet outage in Angola.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 6, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Widespread power grid failure triggers major internet outage in Angola.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-07,Network,ISP Outage,Southern California,Wildfire-related ISP disruptions (through Jan 9),2025-01-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-07,Network,Cyberattack,Russia,Nodex ISP 35-hour outage from cyberattack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 7, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,Anecdotal report of feral kittens chewing through the insulation of an extension cord.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 7, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,Anecdotal report of feral kittens chewing through the insulation of an extension cord.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-09,LLM,,,ICLR Diffusion LM review glitch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+2025-01-11,Vehicles,Vehicle Recall,Tesla,239382 vehicles - rearview camera failures in cold weather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-13,Violence," Suspicious Death",London UK,Pepita Sakirecili found dead (died before Christmas 2024),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-14,Electronics,App Discontinued,Global,Downdetector merged with Speedtest by Ookla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-14,Network,ISP Failure,Russia,30-minute multi-ISP failure from firewall update,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-15,Network,Fiber Damage,Haiti,Digicel complete outages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-22,Violence," Homicides",Cleveland OH,8 homicides reported by this date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-23,LLM,Service Outage,ChatGPT,3+ hour global outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-23,Network,Cable Sabotage,Syria,9-hour nationwide outage (through Jan 24),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-23,Network,,,Google search glitch removes Biden from presidents list,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-01-24,Network,Storm Damage,Ireland,Storm Éowyn 4+ day recovery with 75% traffic drop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-26,ANIMALS,,,Rare sightings mysterious behaviors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X [post:LLM],,,,,general,0.8
+2025-01-27,Network,ISP Outage,Georgia,Magticom 4.5-hour outage (through Jan 28),2025-01-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-01-30,Electronics,Data Errors,Philadelphia,PPD website crime data errors begin (through Feb 21),2025-02-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 30, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,Anecdotal report of a feral kitten learning to playfully 'twang' a litter scoop.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 30, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,Anecdotal report of a feral kitten learning to playfully 'twang' a litter scoop.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-01,LLM,Security Flaw,Meta Llama,CVE-2024-50050 remote code execution vulnerability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,projects,0.8
+2025-02-01,Violence,violence,Chicago IL,20 killed in February (35% decrease from 2024),2025-02-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-01,NETWORK,,,Global outages +15% ThousandEyes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-01,CIVIL/SOCIAL,,,U.S. stable NETWORK.7/1000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-01,CIVIL/SOCIAL,,,Commercial up VIOLENCE%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Feb 2025,Animal,Asian small-clawed otter rediscovered in Nepal's Makalu Barun National Park for the first time in 185 years.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Feb 2025,Violence,Three police officers fatally shot and two wounded during a domestic investigation in southern Pennsylvania.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Feb 2025,Animal Behavior,Asian small-clawed otter rediscovered in Nepal's Makalu Barun National Park for the first time in 185 years.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Feb 2025,Violent Crime,Three police officers fatally shot and two wounded during a domestic investigation in southern Pennsylvania.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+February 2025,PC/MOBILE,Google Pixel update problems,,,general,0.8
+February 2025,Vehicles,Vehicle dependability at highest problem level since 2009,,,general,0.8
+February 2025,Animals,Vermont wildlife behavior disrupted by warm winter,Animal,Behavior Changes,,general,0.8
+2025-02-02,Network,ISP Failure,Nepal,1.5-hour multi-ISP failure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-02,Violence,Homicide,Baltimore MD,2500 block E. Biddle Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 2, 2025",Network,Damage to terrestrial fiber optic cables causes connectivity issues in Nepal.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 2, 2025",Network/Connectivity,Damage to terrestrial fiber optic cables causes connectivity issues in Nepal.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-03,Network,Unexplained Outage,Syria,9-hour nationwide outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-03,Violence,Homicide,Baltimore MD,3000 block Edmondson Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-04,Violence,Homicides,Kansas City MO,15 homicides year-to-date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-05,Network,Carrier Outage,Lumen Network,35-minute tier 1 outage (US/Canada/Singapore),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-05,LLM,Service Issues,ChatGPT,Major outage with 22000+ complaints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-05,LLM,Service Issues,Google Gemini,File functionality and sign-in issues,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-06,Network,Cloud Outage,Internap,1h 14min outage affecting Boston nodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-06,LLM,Launch,Mistral AI,Le Chat mobile launch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-09,Network,Power Outage,Sri Lanka,10-hour island-wide (monkey on transformer),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 9, 2025",Network,Widespread power grid failure triggers major internet outage in Sri Lanka.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 9, 2025",Network/Connectivity,Widespread power grid failure triggers major internet outage in Sri Lanka.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-10,Violence,Shooting,Baltimore MD,3100 block Shannon Drive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-10,ANIMALS,,,Eagle egg unusual fixation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Facebook,,,,,general,0.8
+2025-02-12,Network,Carrier Outage,Lumen Network,40-minute outage (Kansas City/Dallas),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-12,Violence,Shooting,Baltimore MD,3800 block Leadenhall Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-13,Violence,Shooting,Baltimore MD,800 block Bethune Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-14,Vehicles," Recall",Tesla,376241 vehicles - power steering assist loss Model 3/Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-15,Violence,Homicide,Baltimore MD,1800 block Montford Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-15,Violence,Homicide,Baltimore MD,6100 block Plantview Way,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-16,Violence,Shooting,Baltimore MD,2400 block Tidewater Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-16,Violence,Shooting,Baltimore MD,400 block S. Augusta Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-22,Network,Cellular Outage,AT&T,11-hour nationwide affecting 73000+ users,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-23,Violence,Triple Homicide,Baltimore MD,3600 block Potee Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-23,Violence,Homicide,Baltimore MD,600 block Poplar Grove Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-24,Network,Network Outage,Arelion,18-minute global outage across 18 countries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-24,Violence,Shooting,Baltimore MD,500 block Lucia Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-24,Violence,Shooting,Baltimore MD,4000 block Frederick Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 24, 2025",RC,"RCGroups.com forum thread titled '$35,000 GIANT RC Jet Explosion!' is started.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 24, 2025",RC Hobbyist Malfunction,"RCGroups.com forum thread titled '$35,000 GIANT RC Jet Explosion!' is started.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-25,Network,National Outage,Chile,12-hour nationwide 98.5% affected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-25,Violence,Shooting,Baltimore MD,3300 block Greenmount Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 25, 2025",Network,"Significant, widespread internet disruption in Chile following a power transmission system failure.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 25, 2025",Network/Connectivity,"Significant, widespread internet disruption in Chile following a power transmission system failure.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-26,Wildlife,Behavior Study,Global,74% of 445 mammal species changed daily patterns (URI study),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 26, 2025",LLM,AI-generated video portraying a futuristic 'Gaza 2025' is shared by former President Trump.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Feb 26, 2025",Large Language Models,AI-generated video portraying a futuristic 'Gaza 2025' is shared by former President Trump.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-27,Electronics,Platform Glitch,Meta/Instagram,Violent content showing in Reels,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-27,Major_Spike,,,,,,Global,"Coincided with 7-planet alignment (Mars, Jupiter, Uranus, Saturn, Venus, Neptune, Mercury)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-02-27,Network,,,Zurich bank double payment glitch ($200M),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-02-28,Network,Cyclone Damage,Réunion,Cyclone Garance multi-day disruption (through Mar 4),2025-03-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-01,Network,Power Outage,Honduras,2-hour nationwide power-related outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-01,NETWORK,,,Outages +32% cable/power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cloudflare Q1,,,,,general,0.8
+2025-03-01,CIVIL/SOCIAL,,,Global U.S. 45%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-01,CIVIL/SOCIAL,,,Collection surge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 1, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Widespread power grid failure triggers major internet outage in Honduras.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 1, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Widespread power grid failure triggers major internet outage in Honduras.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+March 2025,Local Crime Statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," Indiana March 2025",VIOLENCE,Fort Wayne,,general,0.8
+January-March 2025,Civil/Social,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Divorce filing seasonal increase,Divorce Seasonal Patterns,Legal Filing Statistics,,general,0.8
+March 2025,Civil/Social,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Legal Filing Statistics,consumer filings surge,,general,0.8
+"Mar 3, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Cumulus Media begins closing underperforming US radio stations.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 3, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Cumulus Media begins closing underperforming US radio stations.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-04,Violence,Homicide,London UK,80-year-old woman found dead (Abbey Orchard Street),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-07,,,,,,00:00,Blackout_Start,,>40,24,M-class flares,,"Tomsk, Russia",Complete data blackout - exceeded measurement threshold,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-08,,,,,,00:00,Blackout_End,,,,,,Tomsk,24-hour blackout period ended,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-08,LLM,,," ChatGPT cheating detection false positives",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-03-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥6 (storm day),general,0.8
+2025-03-11,Network,Technical Incident,France,Bouygues Telecom 2-hour incident,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-13,Violence,Homicide,London UK,Pepita Garcia (Reynardson Road),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm day),general,0.8
+"Mar 13, 2025",,,,,,,,,,,,,,,,,,,,,,Network,"Independent radio station WIRY in Plattsburgh, New York, ceases operations after 75 years.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 13, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,"Independent radio station WIRY in Plattsburgh, New York, ceases operations after 75 years.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-14,Network,Power Collapse,Cuba,48+ hour National Electric System collapse (through Mar 16),2025-03-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 14, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Multi-day internet outage in Cuba after a failure at a major electrical substation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 14, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Multi-day internet outage in Cuba after a failure at a major electrical substation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-15,Network,Power Plant Explosion,Panama,6.5-hour outage (through Mar 16),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 15, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Widespread power grid failure triggers major internet outage in Panama.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 15, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Widespread power grid failure triggers major internet outage in Panama.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-20,Violence,Homicide,London UK,Troy Ramsundar stabbed (Brixton Road),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-20,Violence,Shooting Death,London UK,Mahad Abdi Mohamed shot (Waverley Road),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 20, 2025",,,,,,,,,,,,,,,,,,,,,,Civil/Social,A first-of-its-kind settlement is approved where Clearview AI grants class members a 23% equity stake to resolve privacy litigation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 20, 2025",,,,,,,,,,,,,,,,,,,,,,Civil Litigation,A first-of-its-kind settlement is approved where Clearview AI grants class members a 23% equity stake to resolve privacy litigation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm day),general,0.8
+2025-03-24,LLM,Service Outage,ChatGPT,US-wide outage with error messages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-25,Network,Cable Sabotage,Syria,10-hour outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 25, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Sabotage of a fiber optic cable causes a significant internet outage in Syria.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 25, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,"Global outage affects Meta's AI-integrated platforms (Facebook, Instagram, WhatsApp) for approximately two hours.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 25, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Sabotage of a fiber optic cable causes a significant internet outage in Syria.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Mar 25, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,"Global outage affects Meta's AI-integrated platforms (Facebook, Instagram, WhatsApp) for approximately two hours.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Mar 26–27),general,0.8
+2025-03-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Mar 26–27),general,0.8
+2025-03-28,Network,Earthquake Disruption,Myanmar,97% traffic drop in capital,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-29,Violence,Assault,London UK,Nuala Mills collapsed on bus (died Mar 31),2025-03-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-03-30,LLM,Multi-Day Outage,ChatGPT,Biblical demand per Sam Altman (through Mar 31),2025-03-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-01,Network,Network Disruption,Finland,Telia 45-minute widespread disruption,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-01,Vehicles," Recall",Ford Explorer,24655 vehicles - PCM software bug,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-01,LLM,Research Published,Princeton,Universal LLM jailbreak weakness revealed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-01,CIVIL/SOCIAL,,,~56K Canada est.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-01,CIVIL/SOCIAL,,,PI volumes +10%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Apr 2025,,,,,,,,,,,,,,,,,,,,,,LLM,An official AI chatbot deployed by the New York City government is found to be providing dangerously incorrect and illegal advice to business owners.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Apr 2025,,,,,,,,,,,,,,,,,,,,,,Violence,The Pennsylvania governor's mansion is targeted in an arson attack while the governor and his family were inside.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Apr 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,An official AI chatbot deployed by the New York City government is found to be providing dangerously incorrect and illegal advice to business owners.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Apr 2025,,,,,,,,,,,,,,,,,,,,,,Violent Crime,The Pennsylvania governor's mansion is targeted in an arson attack while the governor and his family were inside.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-03,Violence,Shooting,Baltimore MD,5100 block Cedgate Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-04,Violence,Triple Shooting,Baltimore MD,5400 block Reisterstown Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Apr 4–6),general,0.8
+2025-04-05,Violence,Homicide,Baltimore MD,1500 block N. Payson Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Apr 4–6),general,0.8
+2025-04-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Apr 4–6),general,0.8
+2025-04-07,Violence,Shooting,Baltimore MD,1200 block Aisquith Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-08,Network,Streaming Outage,Hulu,1-hour outage with 13000+ reports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-09,Violence,Shooting,Baltimore MD,1300 block 36th Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-10,Violence,Shooting,Baltimore MD,1600 block W. Baltimore Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-10,Violence,Double Shooting,Baltimore MD,2600 block Polk Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-10,Violence,Shooting,Baltimore MD,1700 block W. Lexington Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-10,LLM,,,LeCun autoregressive doomed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+"Apr 10, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,A bug causes the Meta AI assistant icon to disappear for WhatsApp users in the European Union.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 10, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,A bug causes the Meta AI assistant icon to disappear for WhatsApp users in the European Union.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-11,Violence,Shooting,Baltimore MD,400 block N. Montford Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 11, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,California lawmakers begin to intensify scrutiny of AI 'companion chatbots' after a teen suicide is linked to interactions with ChatGPT.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 11, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,California lawmakers begin to intensify scrutiny of AI 'companion chatbots' after a teen suicide is linked to interactions with ChatGPT.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-12,Violence,Shooting,Baltimore MD,3600 block St. Victor Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-16,Network,Power Outage,Puerto Rico,38-hour island-wide (through Apr 17),2025-04-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Apr 16–17),general,0.8
+2025-04-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Apr 16–17),general,0.8
+"Apr 20, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Westwood One purges seven of its 24/7 satellite radio networks.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 20, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Westwood One purges seven of its 24/7 satellite radio networks.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-22,NETWORK,,,Q1 cable/power disruptions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cloudflare,,,,,general,0.8
+"Apr 25, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,A partial outage affects Facebook users across the Americas and Europe.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 25, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,A partial outage affects Facebook users across the Americas and Europe.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-26,LLM,Research Scandal,University of Zurich,Reddit AI experiment exposed - 1500+ comments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-27,Violence,Shooting,Baltimore MD,2800 block Suffolk Avenue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-28,Network,Power Grid Failure,Spain/Portugal,13-hour massive failure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-28,Violence,Shooting,Baltimore MD,6400 block O'Donnell Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-28,Violence,Shooting,Baltimore MD,500 block Wilson Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 28, 2025",,,,,,,,,,,,,,,,,,,,,,Network,A massive power outage across Spain and Portugal causes cascading internet connectivity failures as far as Morocco.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Apr 28, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,A massive power outage across Spain and Portugal causes cascading internet connectivity failures as far as Morocco.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-04-30,Violence,Triple Shooting,Baltimore MD,100 block N. Caroline Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-01,LLM,Research Report,UK AI Safety,4 of 5 major LLMs show 90-100% jailbreak vulnerability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-01,Electronics,Update Issues,Samsung Galaxy,Battery drain and touch sensitivity problems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-01,CIVIL/SOCIAL,,,U.S. up VIOLENCE% YoY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 1, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile,"A major update for Samsung Galaxy devices is widely criticized by users for causing display glitches, severe battery drain, and removing features.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+May 2025,,,,,,,,,,,,,,,,,,,,,,LLM,"Google's new 'AI Overview' feature advises a user to eat 'at least one small rock per day,' citing a satirical article as a source.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 1, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,"A major update for Samsung Galaxy devices is widely criticized by users for causing display glitches, severe battery drain, and removing features.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+May 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,"Google's new 'AI Overview' feature advises a user to eat 'at least one small rock per day,' citing a satirical article as a source.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-02,Network,Vandalism Outages,Houston,Xfinity all-day vandalism-related,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 4, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,Former President Trump shares a provocative AI-generated image of himself dressed as the Pope.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 4, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,Former President Trump shares a provocative AI-generated image of himself dressed as the Pope.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-07,Network,Network Disappearance,Philippines,SkyCable 8-hour complete disappearance (through May 8),2025-05-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-09,Network,Power Outage,St. Kitts and Nevis,3-hour island-wide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-09,GLITCHES,,,Unitree robot factory berserk malfunction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-05-13,,,,,,,Solar_Flare,,,,,X1.2,,Major solar flare event,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+2025-05-16,Network,Protest Shutdown,Libya,10.5-hour government-directed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-16,LLM,,,Waymo chain glitches AI disasters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 16, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Libyan government directs a shutdown of multiple network providers in response to public protests.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 16, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Libyan government directs a shutdown of multiple network providers in response to public protests.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-18,Network,Voltage Spike,North Macedonia,2-hour high voltage spike outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-20,Network,Exam Shutdowns,Iraq,Daily 2-hour shutdowns begin (through Jul 3),2025-03-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-21,Network,Router Failure,Bell Canada,2-hour router update failure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-21,LLM,Login Issues,ChatGPT,SSO problems 02:41-05:27 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 21, 2025",,,,,,,,,,,,,,,,,,,,,,Network,A faulty router update at Bell Canada causes a one-hour service disruption in Ontario and Quebec.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 21, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,A faulty router update at Bell Canada causes a one-hour service disruption in Ontario and Quebec.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-22,Network,DNS Errors,Thailand,TrueMove H 5-hour DNS server errors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-22,GLITCHES,,,Glitch platform shutdown/code corruption,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,projects,0.8
+2025-05-28,Network,DDoS Attack,Russian ASVT,10-hour 70 Gbps attack (through Jun 5),2025-06-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 28, 2025",,,,,,,,,,,,,,,,,,,,,,Network,A major DDoS attack on Russian provider ASVT results in a multi-day complete internet outage.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"May 28, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,A major DDoS attack on Russian provider ASVT results in a multi-day complete internet outage.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-29,Network,Service Outage,Netflix,Major outage with 17000+ reports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm day),general,0.8
+2025-05-30,Network,Service Outage,Netflix,Additional 1h 20min outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-05-30,LLM,,,SOTA LLMs fail citations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+2025-05-31,,,,,,,Geomagnetic_Storm,,,,CME 1700 km/s,G4,Global,Auroras visible to New Mexico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-01,Network,Exam Shutdowns,Kurdistan Iraq,Daily 1-hour shutdowns (through Jul 6),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-01,Network,Power Outage,Maldives,5.5-hour Greater Malé outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-01,CIVIL/SOCIAL,,,Summer spike ~62K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–8 (storm run Jun 1–4),general,0.8
+Mid-Jun 2025,,,,,,,,,,,,,,,,,,,,,,LLM,"A retired doctor in India is defrauded of over $22,000 by a sophisticated deepfake video of the country's Finance Minister.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Jun 2025,,,,,,,,,,,,,,,,,,,,,,Violence,A Democratic Minnesota state lawmaker and her husband are assassinated in their home by a man masquerading as a police officer.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Mid-Jun 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,"A retired doctor in India is defrauded of over $22,000 by a sophisticated deepfake video of the country's Finance Minister.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Jun 2025,,,,,,,,,,,,,,,,,,,,,,Violent Crime,A Democratic Minnesota state lawmaker and her husband are assassinated in their home by a man masquerading as a police officer.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+January-June 2025,City-Specific Crime Data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," Oregon violent crime decline",VIOLENCE,Portland,,general,0.8
+January-June 2025,Civil/Social,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Legal Filing Statistics,Federal securities class action lawsuits,,general,0.8
+2025-06-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–8 (storm run Jun 1–4),general,0.8
+2025-06-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–8 (storm run Jun 1–4),general,0.8
+2025-06-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–8 (storm run Jun 1–4),general,0.8
+2025-06-06,LLM,,,Apple true reasoning fails,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+2025-06-10,Network,ADSL Outage,Syria,2-hour network outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-10,LLM,Major Outage,OpenAI,15+ hour multi-service outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-11,ANIMALS,,,Exotic pet exploitation seizures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Facebook,,,,,general,0.8
+2025-06-12,Network,Global Outage,Google Cloud,12000+ services affected worldwide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-12,LLM,Login Issues,OpenAI,2-hour login infrastructure issues,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-12,NETWORK,,,Major U.S. Spotify/Google outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Downdetector,,,,,general,0.8
+2025-06-12,NETWORK,,,Cloudflare WARP outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+2025-06-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Jun 12–14),general,0.8
+"Jun 12, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Widespread connectivity failures are reported across major U.S. platforms and cloud providers including Google and Cloudflare.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jun 12, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Widespread connectivity failures are reported across major U.S. platforms and cloud providers including Google and Cloudflare.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-13,Network,Government Shutdown,Iran,2.5-hour shutdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Jun 12–14),general,0.8
+"Jun 13, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,A privacy glitch in Meta AI begins publicly exposing private user conversations in the app's 'Discover' feed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jun 13-25, 2025",,,,,,,,,,,,,,,,,,,,,,Network,"The Iranian government implements multiple, prolonged internet shutdowns to counter cyberattacks and control information.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tasks,0.8
+"Jun 13, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,A privacy glitch in Meta AI begins publicly exposing private user conversations in the app's 'Discover' feed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jun 13-25, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,"The Iranian government implements multiple, prolonged internet shutdowns to counter cyberattacks and control information.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tasks,0.8
+2025-06-14,Network,Power Outage,Curaçao,Flow 20-hour commercial power outage (through Jun 15),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-14,Electronics,Display Issues,Samsung Galaxy A34,Random ringtone and unresponsiveness after Android 15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm run Jun 12–14),general,0.8
+2025-06-15,,,,,,,White_Out,,0-40+,,"M-class flares, CH HSS 760 km/s",,"Tomsk, Russia",Full spectrum brightening,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-15,GLITCHES,,,Epic Fortnite cheat glitches,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-06-17,Network,Extended Shutdown,Iran,7-day government shutdown (through Jun 25),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-17,,,,,,,Solar_Flare,,,,,X1.2,,Third X-class flare of 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-19,Network,DNS Disruption,Lumen/CenturyLink,2.5-hour DNS disruption," ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-19,NETWORK,,,Massive DNS failure U.S.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+2025-06-19,LLM,,,RecSys latency hallucinations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+"Jun 19, 2025",,,,,,,,,,,,,,,,,,,,,,Network,A widespread service disruption at Lumen/CenturyLink lasts several hours across parts of the United States.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jun 19, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,A widespread service disruption at Lumen/CenturyLink lasts several hours across parts of the United States.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-21,Network,Decree Shutdown,Panama,Bocas del Toro 9-day shutdown (through Jun 30),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-22,NETWORK,,,Verizon FiOS NY 24h,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+2025-06-24,Network,Fiber Vandalism,Malawi,Airtel 90-minute fiber vandalism,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jun 24, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,Killer whales are scientifically observed using seaweed as tools for grooming.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jun 24, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,Killer whales are scientifically observed using seaweed as tools for grooming.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-06-27,ANIMALS,,,Fox urban distress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Facebook,,,,,general,0.8
+2025-06-29,LLM,,,ICLR LLM review bias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+2025-06-30,NETWORK,,,Lumen outage TX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2025-07,7.98,7.99,7.98,7.98,7.95,7.95,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-01,LLM,,,Pattern recognition lags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+2025-07-01,VIOLENCE,,,Charlie Kirk assassination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-01,CIVIL/SOCIAL,,,<50% recent marriages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-01,CIVIL/SOCIAL,,,Q1-Q2 regulatory growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Jul 2025,,,,,,,,,,,,,,,,,,,,,,Network,"The Corporation for Public Broadcasting (CPB) is defunded, jeopardizing the resilience of the nation's emergency alert systems.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Late Jul 2025,,,,,,,,,,,,,,,,,,,,,,LLM,"An AI coding assistant at Replit goes rogue, deletes a live production database in violation of a code freeze, and then attempts to cover its tracks.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,projects,0.8
+Jul 2025,,,,,,,,,,,,,,,,,,,,,,LLM,A security flaw in an AI-powered recruitment chatbot used by McDonald's exposes the personal information of 64 million job applicants.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Jul 2025,,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,"The Corporation for Public Broadcasting (CPB) is defunded, jeopardizing the resilience of the nation's emergency alert systems.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Late Jul 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,"An AI coding assistant at Replit goes rogue, deletes a live production database in violation of a code freeze, and then attempts to cover its tracks.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,projects,0.8
+Jul 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,A security flaw in an AI-powered recruitment chatbot used by McDonald's exposes the personal information of 64 million job applicants.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-04,Violence,Homicide,Oakland CA,July 4th homicide (arrest made),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-06,,,,,,18:15,White_Flame,,0-40+,Several,No matching flare,4-6,"Tomsk, Italy",Full spectrum white saturation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-07,LLM,Legal Sanction,MyPillow lawyers,$3000 each for ChatGPT fake citations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≈5 (storm day),general,0.8
+2025-07-12,,,,,,,White_Flame,,0-40+,,,,"Tomsk, Russia",Second July white flame event,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+2025-07-14,NETWORK,,,Cloudflare DNS unresponsive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+"Jul 14, 2025",,,,,,,,,,,,,,,,,,,,,,Network,A configuration error at Cloudflare causes a one-hour global outage of its 1.1.1.1 public DNS service.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 14, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,A configuration error at Cloudflare causes a one-hour global outage of its 1.1.1.1 public DNS service.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-15,Wildlife,Fake Reports,Yellowstone,AI-generated fake wildlife exodus videos debunked,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 15, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,Researchers discover and report a 'prompt-leak' vulnerability in the Meta AI API that allowed unauthorized access to other users' private conversations; Meta patches the flaw the same day.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 15, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,Researchers discover and report a 'prompt-leak' vulnerability in the Meta AI API that allowed unauthorized access to other users' private conversations; Meta patches the flaw the same day.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-17,NETWORK,,,Xfinity 12h U.S.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+2025-07-18,Network,Mail Outage,Google,1-hour US/Canada outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-22,Network,Service Errors,Bluecore,Multi-region errors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-22,NETWORK,,,Q2 shutdowns Libya etc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cloudflare,,,,,general,0.8
+2025-07-23,LLM,Legal Precedent,Johnson v. Dunn,Major AI hallucination liability case,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 24, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Starlink's satellite internet network experiences a 2.5-hour global outage attributed to a centralized control plane failure.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 24, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile,Microsoft issues a patch to mitigate bugs within the Windows 11 Family Safety web filtering feature.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 24, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Starlink's satellite internet network experiences a 2.5-hour global outage attributed to a centralized control plane failure.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jul 24, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,Microsoft issues a patch to mitigate bugs within the Windows 11 Family Safety web filtering feature.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-28,,,,,,,White_Flame,,0-40+,,,,"Tomsk, Russia",Third July white flame event,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+2025-07-30,,,,,,00:00,Blackout_Start,,>40,25,,,"Tomsk, Russia",Extended blackout begin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-07-30,ANIMALS,,,Baboons aggressive euthanized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/Wildlife,,,,,general,0.8
+2025-08-01,Vehicles," Recall",Ford,312120 vehicles - electronic brake booster,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-01,Network,Payment Outage,PayPal,1.5-hour global outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-01,,,,,,01:00,Blackout_End,,,,,,Tomsk,25-hour blackout period ended,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-01,VIOLENCE,,,U.S. cities continued drop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-01,CIVIL/SOCIAL,,,Down global trends,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Late Aug 2025,,,,,,,,,,,,,,,,,,,,,,Violence,A mass shooting at a church in Minneapolis during a service kills two children and injures 21 other people.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Aug 2025,,,,,,,,,,,,,,,,,,,,,,LLM,A man is hospitalized with bromism after following ChatGPT's advice to consume sodium bromide.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Aug 2025,,,,,,,,,,,,,,,,,,,,,,LLM,"Within 24 hours of its release, OpenAI's new ChatGPT-5 is 'jailbroken' by researchers who trick it into providing instructions for a Molotov cocktail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Aug 2025,,,,,,,,,,,,,,,,,,,,,,LLM,"An Airbnb host is caught using AI-doctored images in an attempt to falsely claim over $9,000 in damages from a guest.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Late Aug 2025,,,,,,,,,,,,,,,,,,,,,,Violent Crime,A mass shooting at a church in Minneapolis during a service kills two children and injures 21 other people.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Aug 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,A man is hospitalized with bromism after following ChatGPT's advice to consume sodium bromide.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Aug 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,"Within 24 hours of its release, OpenAI's new ChatGPT-5 is 'jailbroken' by researchers who trick it into providing instructions for a Molotov cocktail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Aug 2025,,,,,,,,,,,,,,,,,,,,,,Large Language Models,"An Airbnb host is caught using AI-doctored images in an attempt to falsely claim over $9,000 in damages from a guest.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-04,Network,High Load,ServiceNow,25-minute outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Errors in ChatGPT Image Generation,Resolved,2025-08-04 5:57 AM,,,,,,,,,general,0.8
+2025-08-05,LLM,Model Issues,ChatGPT,Model picker issues 06:32 AM-12:54 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-05,LLM,Quality Bug,Claude Sonnet 4,Quality degradation begins (through Sep 4),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Hi API Error Rates for o3,Resolved,2025-08-04 5:56 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,We identified Issues on ChatGPT,Resolved,2025-08-05 5:54 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors on ChatGPT conversations for paid users,Resolved,2025-08-05 8:10 AM,,,,,,,,,general,0.8
+2025-08-06,GLITCHES,,,Govt website Constitution glitch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-08-06,GLITCHES,,,Human thinking workload glitch study,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+2025-08-06,LLM,,,Memory unsolved no fine-tune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/MachineLearning,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors on ChatGPT conversations,Resolved,2025-08-06 4:39 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,502 Gateway Errors,Resolved,2025-08-06 4:53 PM,,,,,,,,,general,0.8
+2025-08-07,Network,Network Failure,Arelion,27-minute failure (US/Mexico),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-07,VIOLENCE,,,Oakland first half decrease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated error rates for Deep Research for free users,Resolved,2025-08-07 5:02 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Some users may encounter credit card failures for new API sign ups,Resolved,2025-08-07 2:51 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Plus/Pro users may have issues using ChatGPT Agent,Resolved,2025-08-07 3:36 PM,,,,,,,,,general,0.8
+2025-08-08,LLM,Security Breach,Salesloft Drift AI,Authentication tokens stolen (through Aug 18),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated latency and error rates for file uploads to vector stores and from Google Drive,Resolved,2025-08-07 6:22 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated error rates in ChatGPT conversation with GPT-5,Resolved,2025-08-07 10:44 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors on the ChatGPT 4.5 model,Resolved,2025-08-08 2:05 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Search is Partially Down for ChatGPT Users,Resolved,2025-08-08 11:12 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Users encountering rate limit or model not found errors in GPT-5,Resolved,2025-08-08 2:06 PM,,,,,,,,,general,0.8
+2025-08-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5–6 (storm day),general,0.8
+2025-08-10,,,,,,,Deep_Pulses,,<7.83,24,,,Global,"Theta/delta frequencies, no energy >25 Hz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-11,,,,,,,Deep_Pulses_End,,<7.83,,,,,Lower frequency anomaly concluded,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 11, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,An academic study shows that AI models used for summarizing long-term care records tend to downplay the severity of women's health issues compared to men's.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 11, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,An academic study shows that AI models used for summarizing long-term care records tend to downplay the severity of women's health issues compared to men's.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Partial Search Outage for ChatGPT Users,Resolved,2025-08-11 3:02 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased failure rate for Codex tasks,Resolved,2025-08-11 3:02 PM,,,,,,,,,tasks,0.8
+2025-08-12,Electronics,Windows Update,Windows 11,KB5063878 breaks recovery tools,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 12, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,An academic study reveals that AI image systems consistently rate Black women with natural hairstyles as less intelligent and professional.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 12, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,An academic study reveals that AI image systems consistently rate Black women with natural hairstyles as less intelligent and professional.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Image generation errors for free ChatGPT users,Resolved,2025-08-12 5:20 AM,,,,,,,,,general,0.8
+"Aug 13, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile,"A critical remote code execution vulnerability for Samsung Android devices (SVE-2025-1702) is reported, with an exploit already existing 'in the wild'.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,projects,0.8
+"Aug 13, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,"A critical remote code execution vulnerability for Samsung Android devices (SVE-2025-1702) is reported, with an exploit already existing 'in the wild'.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,projects,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased Errors in Image Generation,Resolved,2025-08-13 12:22 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased Errors on Compliance API,Resolved,2025-08-13 12:27 PM,,,,,,,,,general,0.8
+2025-08-15,NETWORK,,,Global peak ISP 44 U.S.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ThousandEyes,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Codex errors,Resolved,2025-08-14 6:06 PM,,,,,,,,,projects,0.8
+"Aug 15, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,Scientific study reports that weaver ants defy social loafing theories by working harder as their group size increases.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 15, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,Scientific study reports that weaver ants defy social loafing theories by working harder as their group size increases.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,ChatGPT connector errors,Resolved,2025-08-15 9:27 AM,,,,,,,,,general,0.8
+2025-08-16,,,,,,,High_Frequency_Spike,,55,,,,"Tomsk, Russia","Well above normal harmonics, massive activity",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-16,LLM,,,GLITCHES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Apple LLM reasoning paper glitches,Reddit r/MachineLearning,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased errors in Chat Conversation,Resolved,2025-08-15 7:19 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated Error Rates on ChatGPT Agent,Resolved,2025-08-15 7:57 PM,,,,,,,,,general,0.8
+2025-08-17,NETWORK,,,BGP mishaps Europe TV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kentik,,,,,general,0.8
+2025-08-18,NETWORK,,,TP-Link tethering during outages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/outages,,,,,general,0.8
+"Aug 18, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile,Microsoft issues a patch to resolve errors preventing system upgrades on some Windows 11 PCs.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+"Aug 18, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,Microsoft issues a patch to resolve errors preventing system upgrades on some Windows 11 PCs.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Errors logging into ChatGPT with Apple,Resolved,2025-08-18 11:36 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,GPTs with custom actions stuck processing,Resolved,2025-08-18 2:14 PM,,,,,,,,,general,0.8
+2025-08-19,Network,Global Outage,Arelion,59-minute outage (16+ countries),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 19, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile,Microsoft issues a patch to resolve failures in Windows 11 system reset and recovery operations.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 19, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,Microsoft issues a patch to resolve failures in Windows 11 system reset and recovery operations.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated Errors for File Uploads to Vector Stores,Resolved,2025-08-19 2:42 PM,,,,,,,,,general,0.8
+2025-08-20,Electronics,iOS Update,Apple,iOS 18.6.2 memory corruption fix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-20,Network,Provider Failure,GTT Communications,18-minute tier 1 failure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-20,LLM,Error Rate,ChatGPT,Elevated error rate requiring mitigations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-20,VIOLENCE,,,FBI preliminary decline,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 20, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,"xAI's Grok inadvertently makes over 370,000 private user conversations publicly searchable on Google due to a design flaw.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 20, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,"xAI's Grok inadvertently makes over 370,000 private user conversations publicly searchable on Google due to a design flaw.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,ChatGPT elevated error rate,Resolved,2025-08-20 12:58 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Failed To Load Subscription Issue,Resolved,2025-08-20 8:09 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Help Center login is down,Resolved,2025-08-20 10:21 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,ChatGPT Conversation Errors,Resolved,2025-08-20 11:30 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Sora experiencing elevated error rates and increased latency,Resolved,2025-08-20 12:00 PM,,,,,,,,,general,0.8
+"Aug 21, 2025",,,,,,,,,,,,,,,,,,,,,,Network,Network congestion on links between Cloudflare and Amazon Web Services (AWS) causes service degradation for Cloudflare users.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 21, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,Network congestion on links between Cloudflare and Amazon Web Services (AWS) causes service degradation for Cloudflare users.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated API errors and latencies,Resolved,2025-08-22 4:12 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Voice conversations dropping previous messages,Resolved,2025-08-23 7:15 PM,,,,,,,,,general,0.8
+"Aug 24, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,"Researchers report that bees use specific flight movements to sharpen their brain signals, allowing for highly accurate pattern recognition.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 24, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,"Researchers report that bees use specific flight movements to sharpen their brain signals, allowing for highly accurate pattern recognition.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 25, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,"A cybersecurity report from Wallarm finds that two-thirds of all API vulnerabilities are critical or high severity, with 34 CVEs directly tied to AI.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 25, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,"A cybersecurity report from Wallarm finds that two-thirds of all API vulnerabilities are critical or high severity, with 34 CVEs directly tied to AI.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors in ChatGPT Voice,Resolved,2025-08-25 10:13 AM,,,,,,,,,general,0.8
+2025-08-26,Network,Major Outage,Netflix,3+ hour outage with 11000+ reports (through Aug 27),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-26,LLM,Quality Issues,Claude Haiku/Sonnet,Quality problems begin (through Sep 5),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-27,ViolenceAssault,Wawarsing NY,Simple assault reported,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated Error and Latency for API,Resolved,2025-08-26 8:47 PM,,,,,,,,,general,0.8
+"Aug 27, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,"Security researchers disclose 'PromptLock,' a proof-of-concept ransomware that uses a local AI to dynamically generate malicious scripts.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 27, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,"Anthropic details a new tactic dubbed 'vibe-hacking,' where its Claude model is exploited to craft psychologically manipulative extortion messages.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 27, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,"Security researchers disclose 'PromptLock,' a proof-of-concept ransomware that uses a local AI to dynamically generate malicious scripts.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 27, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,"Anthropic details a new tactic dubbed 'vibe-hacking,' where its Claude model is exploited to craft psychologically manipulative extortion messages.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Search in ChatGPT failing for some free users,Resolved,2025-08-27 5:51 PM,,,,,,,,,general,0.8
+"Aug 28, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,"A scientific study reveals that a species of sheet web spider in Taiwan allows captured fireflies to continue glowing, using them as lures for more prey.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 28, 2025",,,,,,,,,,,,,,,,,,,,,,LLM,Threat actors are reported to be actively using Anthropic's Claude language model to craft ransomware and launch data extortion campaigns.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 28, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,"A scientific study reveals that a species of sheet web spider in Taiwan allows captured fireflies to continue glowing, using them as lures for more prey.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Aug 28, 2025",,,,,,,,,,,,,,,,,,,,,,Large Language Models,Threat actors are reported to be actively using Anthropic's Claude language model to craft ransomware and launch data extortion campaigns.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased login and signup errors,Resolved,2025-08-28 8:25 AM,,,,,,,,,general,0.8
+2025-08-29,GLITCHES,,,Taco Bell AI drive-thru trolls/glitches,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reddit r/technology,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased account creation errors,Resolved,2025-08-29 3:58 PM,,,,,,,,,general,0.8
+2025-08-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (CME→G1 run Aug 30–Sep 1),general,0.8
+2025-08-31,ViolencePuppy Incident,Cincinnati OH,10-month Maltipoo opiate ingestion from park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-08-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (CME→G1 run Aug 30–Sep 1),general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors on ChatGPT,Resolved,2025-08-30 7:03 PM,,,,,,,,,general,0.8
+2025-09-01,LLM,Service Errors,ChatGPT,Elevated errors 03:23-03:41 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-01,Violence,Robbery,Hayward CA,Mission and Jackson Street area,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-01,Network,Service Outage,ChatGPT,Series of shorter outages (through Sep 3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-01,Electronics,Security Update,Samsung,Zero-Day CVE-2025-21043 in image parsing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-01,ANIMALS,,,Bear salmon drop stress,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Instagram,,,,,general,0.8
+2025-09-01,CIVIL/SOCIAL,,,~5K/month U.S. est.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-01,CIVIL/SOCIAL,,,Tort +20% federal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥5 (CME→G1 run Aug 30–Sep 1),general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Vehicles,"Stellantis recalls 91,787 Chrysler/Dodge/Jeep vehicles for a software error that could cause a sudden loss of drive power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Vehicles,"VinFast recalls 6,314 vehicles because the Advanced Driver-Assistance Systems (ADAS) may cause unexpected steering movements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Vehicles,"BMW recalls 1,406 vehicles for improper windshield sealing that could allow water to damage electronic control units.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Vehicles,Hyundai and Kia recall certain 2025-2026 models due to improperly tightened engine connecting rod bolts.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Vehicles,"Ford recalls 2024-2025 Mustangs for a defect allowing water intrusion into the body control module, potentially causing exterior lighting to fail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Vehicles,Polestar recalls its 2025 Polestar 3 vehicles because the front bumper could detach.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,PC/Mobile,"Samsung's Security Maintenance Release for its Android devices addresses numerous vulnerabilities, including one being actively exploited.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Electronics/Vehicles,"Stellantis recalls 91,787 Chrysler/Dodge/Jeep vehicles for a software error that could cause a sudden loss of drive power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Electronics/Vehicles,"VinFast recalls 6,314 vehicles because the Advanced Driver-Assistance Systems (ADAS) may cause unexpected steering movements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Electronics/Vehicles,"BMW recalls 1,406 vehicles for improper windshield sealing that could allow water to damage electronic control units.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Electronics/Vehicles,Hyundai and Kia recall certain 2025-2026 models due to improperly tightened engine connecting rod bolts.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Electronics/Vehicles,"Ford recalls 2024-2025 Mustangs for a defect allowing water intrusion into the body control module, potentially causing exterior lighting to fail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,Electronics/Vehicles,Polestar recalls its 2025 Polestar 3 vehicles because the front bumper could detach.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+Sep 2025,,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,"Samsung's Security Maintenance Release for its Android devices addresses numerous vulnerabilities, including one being actively exploited.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors on ChatGPT,Resolved,2025-09-01 8:41 AM,,,,,,,,,general,0.8
+2025-09-02,Network,Exam Shutdowns,Iraq,Daily 2-hour final exam shutdowns (through Sep 13),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-02,Violence,Theft/Vandalism,Hayward CA,29000 block Dixon Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-03,Network,Exam Shutdowns,Kurdistan Iraq,Daily 1.25-hour shutdowns (through Sep 8),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-03,LLM,Display Issues,ChatGPT,Response display issues 06:46-10:23 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Google,AI Studio / Gemini,API key requests may fail for some users,Resolved,2025-09-02 22:00,Detected / Investigating.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,ChatGPT Not Displaying Responses,Resolved,2025-09-03 3:23 AM,,,,,,,,,general,0.8
+2025-09-04,Electronics,Gaming Crash,Global,Hollow Knight launch crashes Steam/Xbox/PlayStation/Nintendo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,LLM,Regional Outage,Google Gemini,EMEA region inaccessible,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Violence,Armed Robbery,Hayward CA,700 block W. Tennyson Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Violence,Assault/Weapon,Hayward CA,50 block Trestle Drive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Vehicles," Recall",Tesla Australia,7301 vehicles - window safety system,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Vehicles," Recall",Acura RDX,17334 vehicles - power steering,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Vehicles," Recall",Rivian R1S/R1T,24214 vehicles - highway assist software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Vehicles," Recall",Ford Mustang Mach-E,197432 vehicles - door lock malfunction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-04,Vehicles," Recall",Toyota,591000 vehicles - dashboard display glitch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Google,AI Studio / Gemini,Billing bug charging 'Gemini 2.5 Flash Native Image Generation',Resolved,2025-09-03 17:00,Resolved; refunds issued (display within 48h).,,,,,,,,general,0.8
+2025-09-04,ELECTRONICS,,,Defective power stations battery explosions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CPSC,,,,,general,0.8
+2025-09-04,ELECTRONICS,,,Tajarly insoles overheating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CPSC,,,,,general,0.8
+,,,,,,2025-09-04T06:44:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Investigating,,Issue started at 23:25 PT / 06:25 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-04T07:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Resolved,,Mitigated as of 23:50 PT / 06:50 UTC.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Google,AI Studio / Gemini,ListModels requests fail for all users,Resolved,2025-09-04 03:20,Detected / Investigating.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Google,AI Studio / Gemini,ListModels requests fail for all users,Resolved,2025-09-04 04:00,Resolved.,,,,,,,,general,0.8
+,,,,,,2025-09-04T13:57:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Investigating,,Issue started at 06:00 PT / 13:00 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-04T14:51:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Investigating,,Issue started at 07:30 PT / 14:30 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-04T14:59:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Resolved,,Resolved as of 07:30 PT / 14:30 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-04T15:20:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Monitoring,,,,,,,,,,general,0.8
+,,,,,,2025-09-04T15:30:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Resolved,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Google,AI Studio / Gemini,AI Studio may not load for some users,Resolved,2025-09-04 09:30,Resolved.,,,,,,,,general,0.8
+,,,,,,Investigating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,MCP / Connectors / API Tools,Unable to connect to MCP (Connectors)," API Tools",2025-09-04T16:33:00Z,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,File API Errors,Resolved,2025-09-04 4:17 PM,,,,,,,,,general,0.8
+2025-09-05,LLM,,,Claude degraded responses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased error rates in Web Search tools in Responses API,Resolved,2025-09-05 2:47 AM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Google,AI Studio / Gemini,API key requests may fail for some users,Resolved,2025-09-05 11:00,Resolved.,,,,,,,,general,0.8
+,,,,,,2025-09-05T19:09:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude.ai Orgs,Certain orgs unable to submit messages,Investigating,,,,,,,,,,general,0.8
+,,,,,,2025-09-05T19:22:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude.ai Orgs,Certain orgs unable to submit messages,Monitoring,,,,,,,,,,general,0.8
+,,,,,,2025-09-05T19:24:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude.ai Orgs,Certain orgs unable to submit messages,Resolved,,,,,,,,,,general,0.8
+,,,,,,2025-09-05T20:31:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Investigating,,,,,,,,,,general,0.8
+,,,,,,2025-09-05T21:01:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Identified,,Issue identified; fix being implemented.,,,,,,,,tasks,0.8
+,,,,,,2025-09-05T21:02:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Update,,Temporarily disabled Opus 4.1 on Claude.ai.,,,,,,,,general,0.8
+,,,,,,2025-09-05T21:33:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Monitoring,,,,,,,,,,general,0.8
+,,,,,,2025-09-05T21:40:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Update,,Re-enabled Opus 4.1 on Claude.ai.,,,,,,,,general,0.8
+,,,,,,2025-09-05T22:10:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Resolved,,,,,,,,,,general,0.8
+2025-09-06,LLM,,,LLM hallucination factors video,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 8, 2025",,,,,,,,,,,,,,,,,,,,,,RC,A mid-air collision between an RC plane and a buzzard is reported on an RC hobbyist forum.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 8, 2025",,,,,,,,,,,,,,,,,,,,,,RC Hobbyist Malfunction,A mid-air collision between an RC plane and a buzzard is reported on an RC hobbyist forum.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-09,LLM,Error Rate,ChatGPT Agent,Elevated errors 07:00-08:02 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ≥6 (G2 storm day),general,0.8
+,,,,,,2025-09-09T00:15:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Model output quality,Model output quality,Investigating,,Investigating degraded quality; two separate issues found (see updates).,,,,,,,,general,0.8
+,,,,,,2025-09-09T02:27:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4,Elevated latency for some Sonnet 4 requests,Investigating,,,,,,,,,,general,0.8
+,,,,,,2025-09-09T05:56:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4,Elevated latency for some Sonnet 4 requests,Resolved,,,,,,,,,,general,0.8
+"Sep 9, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile,Microsoft issues a patch to resolve an issue causing unexpected User Account Control (UAC) prompts in Windows 11.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 9, 2025",,,,,,,,,,,,,,,,,,,,,,PC/Mobile Malfunctions,Microsoft issues a patch to resolve an issue causing unexpected User Account Control (UAC) prompts in Windows 11.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,ChatGPT Agent elevated error rate,Resolved,2025-09-09 12:31 PM,,,,,,,,,general,0.8
+2025-09-10,Network,Multi-Country Outage,Arelion,14-minute outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-10,Network,Car Crash Outage,California,Comcast 23-hour outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-10,LLM,Complete Outage,Anthropic,Service outage 16:28-17:36 UTC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 10, 2025",,,,,,,,,,,,,,,,,,,,,,Violence,Conservative influencer and high-profile Trump ally Charlie Kirk is shot and killed during a public event at a Utah college campus.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+"Sep 10, 2025",,,,,,,,,,,,,,,,,,,,,,Violent Crime,Conservative influencer and high-profile Trump ally Charlie Kirk is shot and killed during a public event at a Utah college campus.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,events,0.8
+,,,,,,2025-09-10T07:32:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Investigating,,Issue started at 23:53 PT / 06:53 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-10T08:18:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Identified,,Fix being implemented.,,,,,,,,tasks,0.8
+,,,,,,2025-09-10T09:14:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Monitoring,,,,,,,,,,general,0.8
+,,,,,,2025-09-10T09:25:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Resolved,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,File Search not working across Responses and Assistance API,Resolved,2025-09-10 1:25 PM,,,,,,,,,general,0.8
+,,,,,,2025-09-10T21:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude.ai,Claude.ai services impacted,Resolved,,Resolved and monitoring.,,,,,,,,general,0.8
+2025-09-11,LLM,Multiple Errors,Claude,Model errors and incidents (through Sep 15),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-11,ELECTRONICS,,,Paris Hilton fridge short-circuit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CPSC,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Errors with Batch API,Resolved,2025-09-10 5:47 PM,,,,,,,,,general,0.8
+,,,,,,2025-09-11T13:27:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Investigating,,Issue started at 06:10 PT / 13:10 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-11T14:29:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Resolved,,Errors returned to baseline as of 07:05 PT / 14:05 UTC.,,,,,,,,general,0.8
+2025-09-12,Network,Transit Outage,Hurricane Electric,Multi-country provider outage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,LLM,Research Report,OpenAI,GPT o3 33% hallucination rate / o4-mini 48-79%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,Violence,School Shooting,North Little Rock AR,Parent shot at football game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,,,,,,03:00,Minimum_Values,,7.83,1,,,Global,All frequencies drop to minimum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,,,,,,04:00,Record_Peak,71,0-40+,4,,,Global,Highest recorded power in modern era,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,,,,,,10:00,Second_Phase_Start,50,,5,,,Global,Second intense phase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,,,,,,15:00,Second_Phase_Peak,50,,,,,,Peak of second phase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,PC/MOBILE,,,iOS 26/Samsung bricking/Tesla doors/X posts [post:42][post:38],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-12,VIOLENCE,,,Minneapolis homeless shooting,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Fine-tuning jobs experiencing delays,Resolved,2025-09-11 6:05 PM,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Deep Research elevated errors,Resolved,2025-09-11 6:11 PM,,,,,,,,,general,0.8
+"Sep 12, 2025",,,,,,,,,,,,,,,,,,,,,,Network,The Cloudflare Dashboard and related APIs are unavailable for approximately one hour.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 12, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,The Cloudflare Dashboard and related APIs are unavailable for approximately one hour.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Increased Number of Users Reporting Rate Limit Errors with GPT-4o Model,Resolved,2025-09-12 9:21 AM,,,,,,,,,general,0.8
+,,,,,,2025-09-12T18:30:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Model output quality,Model output quality,Update,,Second issue also identified to impact Opus 3.,,,,,,,,general,0.8
+,,,,,,2025-09-12T18:40:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Model output quality,Model output quality,Monitoring,,Root causes identified and mitigated; continuing to monitor.,,,,,,,,general,0.8
+,,,,,,2025-09-12T18:40:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Model output quality,Resolved issue 1 window,Info,,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4 (impact rose Aug 29–Sep 4); fixed.,,,,,,,,general,0.8
+,,,,,,2025-09-12T18:40:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Model output quality,Resolved issue 2 window,Info,,Bug affected Haiku 3.5 and Sonnet 4 from Aug 26–Sep 5; fixed.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Users may see both a GPT-5 response and an agent response when running agent tasks,Resolved,2025-09-12 12:54 PM,,,,,,,,,tasks,0.8
+,,,,,,2025-09-12T22:40:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Sonnet 3.7,Elevated errors on Claude Sonnet 3.7,Resolved,,Errors from 15:40–15:51 PT (22:40–22:41 UTC); resolved.,,,,,,,,general,0.8
+2025-09-13,,,,,,00:00,Sustained_Activity,15-20,,24,,,Global,24 hours continuous elevation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 13, 2025",,,,,,,,,,,,,,,,,,,,,,RC,An RC hobbyist reports an Eflite Valiant plane experiencing repeated near-crashes due to suspected electronic speed controller (ESC) issues.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 13, 2025",,,,,,,,,,,,,,,,,,,,,,RC Hobbyist Malfunction,An RC hobbyist reports an Eflite Valiant plane experiencing repeated near-crashes due to suspected electronic speed controller (ESC) issues.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-14,,,,,,00:00,G3_Storm_Start,15-26,,48+,Solar wind 600-760 km/s,G3,Global,Strong geomagnetic storm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-14,ANIMALS,,,Bat crawling/flying indoors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X [post:175],,,,,general,0.8
+2025-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ~6–7 (G3 run Sep 14–16),general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated error rates on API Platform,Resolved,2025-09-14 10:17 AM,,,,,,,,,general,0.8
+2025-09-15,,,,,,02:59,G3_Storm_Peak,20-26,,,Solar wind 760 km/s,G3,Global,Peak storm intensity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-15,VIOLENCE,,,Toronto youth homicide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ~6–7 (G3 run Sep 14–16),general,0.8
+"Sep 15, 2025",,,,,,,,,,,,,,,,,,,,,,Violence,A mass shooting at a homeless encampment in Minneapolis wounds eight people.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 15, 2025",,,,,,,,,,,,,,,,,,,,,,Violent Crime,A mass shooting at a homeless encampment in Minneapolis wounds eight people.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,2025-09-15T07:24:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 1),Investigating,,Issue started at 23:15 PT / 06:15 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-15T08:40:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 1),Update,,Initial errors stopped at 00:40 PT / 07:40 UTC; restarted at 01:20 PT / 08:20 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-15T09:15:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 1),Resolved,,Mitigated as of 02:00 PT / 09:00 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-15T11:07:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Investigating,,Issue started at 03:45 PT / 10:45 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-15T11:12:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Update,,Previous message mistakenly referred to Opus 4.1; affected model is Haiku 3.5.,,,,,,,,general,0.8
+,,,,,,2025-09-15T11:22:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 2),Investigating,,Repeat of earlier incident; started at 04:10 PT / 11:10 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-15T12:24:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Update,,Incident marked resolved as of 04:30 PT / 11:30 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-15T12:25:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Resolved,,,,,,,,,,general,0.8
+,,,,,,2025-09-15T12:25:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 2),Resolved,,Resolved as of 05:10 PT / 12:10 UTC.,,,,,,,,general,0.8
+2025-09-16,LLM,Loading Issues,Claude,Artifacts problems and Sonnet errors (through Sep 17),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kp ~6–7 (G3 run Sep 14–16),general,0.8
+,,,,,,2025-09-16T00:57:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude.ai Artifacts,Problems loading Artifacts,Investigating,,,,,,,,,,general,0.8
+,,,,,,2025-09-16T01:24:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude.ai Artifacts,Problems loading Artifacts,Resolved,,Issue resolved; systems operating normally.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Impact in retrieval quality on file_search,Resolved,2025-09-15 9:49 PM,,,,,,,,,general,0.8
+"Sep 16, 2025",,,,,,,,,,,,,,,,,,,,,,Network,"Social media platform Reddit suffers a brief but major outage with over 21,000 user reports filed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Sep 16, 2025",,,,,,,,,,,,,,,,,,,,,,Network/Connectivity,"Social media platform Reddit suffers a brief but major outage with over 21,000 user reports filed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,2025-09-16T07:02:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude Sonnet 4.0,Elevated errors on Claude 4 Sonnet,Investigating,,Issue started at 23:35 PT / 06:35 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-16T08:32:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Claude Sonnet 4.0,Elevated errors on Claude 4 Sonnet,Resolved,,Errors back to baseline as of 01:05 PT / 08:05 UTC.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors with SSO login,Resolved,2025-09-16 11:05 AM,,,,,,,,,general,0.8
+2025-09-17,Wildlife,Bird Study,Audubon,229 US species requiring urgent conservation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-17,,,,,,09:00,Current_Status,17,7.83-33.8,,,,Global,Latest monitoring as of report date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-17,VIOLENCE,,,York PA officers killed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+2025-09-17,VIOLENCE,,,Florida vigil assault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Elevated errors in GPT Store,Resolved,2025-09-17 10:32 AM,,,,,,,,,general,0.8
+,,,,,,2025-09-17T20:38:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Model output quality,Model output quality,Resolved,,Incident resolved; technical postmortem published.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OpenAI,Various,Errors for Conversations with Images for Free Users,Resolved,2025-09-17 3:41 PM,,,,,,,,,general,0.8
+,,,,,,2025-09-18T19:57:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Models (multiple),Elevated errors across many models,Investigating,,Issue across many models started at 12:35 PT / 19:35 UTC.,,,,,,,,general,0.8
+,,,,,,2025-09-18T20:32:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anthropic,Models (multiple),Elevated errors across many models,Identified,,As of 13:30 PT / 20:30 UTC all models back to baseline except Claude Sonnet 3.5 (still high). All models affected except Sonnet 4.0.,,,,,,,,general,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,2025-12,8.03,8.04,8.03,8.03,7.99,8,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+January 1-June 30," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Council on Criminal Justice Mid-Year 2025 Report,Mid-Year Crime Statistics,VIOLENCE,,general,0.8
+January 1-31," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Real-Time Crime Index January 2025,Crime Trend Analysis,VIOLENCE,,general,0.8
+"Jan 27-31, 2025",,,,,,,,,,,,,,,,,,,,,,Animal,Anecdotal report of a dog that died after being trapped in a hot garage without barking or scratching.,2025-01-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+"Jan 27-31, 2025",,,,,,,,,,,,,,,,,,,,,,Animal Behavior,Anecdotal report of a dog that died after being trapped in a hot garage without barking or scratching.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,general,0.8
+July 30-31," 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChatGPT conversation history disappears,LLM Feature Failure,Large Language Model Issues,,general,0.8
