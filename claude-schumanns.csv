@@ -1,0 +1,25 @@
+Date,Time_UTC,Event_Type,Power_Amplitude,Frequency_Hz,Duration_Hours,Solar_Activity,Geomagnetic_Kp,Location,Notes
+2025-01-03,,Solar_Flare,,,,,X1.2,,First X-class flare of 2025
+2025-02-27,,Major_Spike,,,,,,"Global","Coincided with 7-planet alignment (Mars, Jupiter, Uranus, Saturn, Venus, Neptune, Mercury)"
+2025-03-07,00:00,Blackout_Start,,>40,24,M-class flares,,"Tomsk, Russia",Complete data blackout - exceeded measurement threshold
+2025-03-08,00:00,Blackout_End,,,,,,Tomsk,24-hour blackout period ended
+2025-05-13,,Solar_Flare,,,,,X1.2,,Major solar flare event
+2025-05-31,,Geomagnetic_Storm,,,,"CME 1700 km/s",G4,"Global",Auroras visible to New Mexico
+2025-06-15,,White_Out,,0-40+,,"M-class flares, CH HSS 760 km/s",,"Tomsk, Russia",Full spectrum brightening
+2025-06-17,,Solar_Flare,,,,,X1.2,,Third X-class flare of 2025
+2025-07-06,18:15,White_Flame,,0-40+,Several,"No matching flare",4-6,"Tomsk, Italy",Full spectrum white saturation
+2025-07-12,,White_Flame,,0-40+,,,,"Tomsk, Russia",Second July white flame event
+2025-07-28,,White_Flame,,0-40+,,,,"Tomsk, Russia",Third July white flame event
+2025-07-30,00:00,Blackout_Start,,>40,25,,,"Tomsk, Russia",Extended blackout begin
+2025-08-01,01:00,Blackout_End,,,,,,Tomsk,25-hour blackout period ended
+2025-08-10,,Deep_Pulses,,<7.83,24,,,Global,"Theta/delta frequencies, no energy >25 Hz"
+2025-08-11,,Deep_Pulses_End,,<7.83,,,,,Lower frequency anomaly concluded
+2025-08-16,,High_Frequency_Spike,,55,,,,"Tomsk, Russia","Well above normal harmonics, massive activity"
+2025-09-12,03:00,Minimum_Values,,7.83,1,,,Global,All frequencies drop to minimum
+2025-09-12,04:00,Record_Peak,71,0-40+,4,,,Global,Highest recorded power in modern era
+2025-09-12,10:00,Second_Phase_Start,50,,5,,,Global,Second intense phase
+2025-09-12,15:00,Second_Phase_Peak,50,,,,,,Peak of second phase
+2025-09-13,00:00,Sustained_Activity,15-20,,24,,,Global,24 hours continuous elevation
+2025-09-14,00:00,G3_Storm_Start,15-26,,"48+","Solar wind 600-760 km/s",G3,Global,Strong geomagnetic storm
+2025-09-15,02:59,G3_Storm_Peak,20-26,,,"Solar wind 760 km/s",G3,Global,Peak storm intensity
+2025-09-17,09:00,Current_Status,17,7.83-33.8,,,,Global,Latest monitoring as of report date
