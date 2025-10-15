@@ -1,0 +1,121 @@
+provider,product_or_area,incident_title,status,time_utc,time_local_label,details
+Anthropic,Models (multiple),Elevated errors across many models,Investigating,2025-09-18T19:57:00Z,,Issue across many models started at 12:35 PT / 19:35 UTC.
+Anthropic,Models (multiple),Elevated errors across many models,Identified,2025-09-18T20:32:00Z,,As of 13:30 PT / 20:30 UTC all models back to baseline except Claude Sonnet 3.5 (still high). All models affected except Sonnet 4.0.
+Anthropic,Model output quality,Model output quality,Investigating,2025-09-09T00:15:00Z,,Investigating degraded quality; two separate issues found (see updates).
+Anthropic,Model output quality,Model output quality,Update,2025-09-12T18:30:00Z,,Second issue also identified to impact Opus 3.
+Anthropic,Model output quality,Model output quality,Monitoring,2025-09-12T18:40:00Z,,Root causes identified and mitigated; continuing to monitor.
+Anthropic,Model output quality,Model output quality,Resolved,2025-09-17T20:38:00Z,,Incident resolved; technical postmortem published.
+Anthropic,Model output quality,Resolved issue 1 window,Info,2025-09-12T18:40:00Z,,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4 (impact rose Aug 29–Sep 4); fixed.
+Anthropic,Model output quality,Resolved issue 2 window,Info,2025-09-12T18:40:00Z,,Bug affected Haiku 3.5 and Sonnet 4 from Aug 26–Sep 5; fixed.
+Anthropic,Claude Sonnet 4.0,Elevated errors on Claude 4 Sonnet,Investigating,2025-09-16T07:02:00Z,,Issue started at 23:35 PT / 06:35 UTC.
+Anthropic,Claude Sonnet 4.0,Elevated errors on Claude 4 Sonnet,Resolved,2025-09-16T08:32:00Z,,Errors back to baseline as of 01:05 PT / 08:05 UTC.
+Anthropic,Claude.ai Artifacts,Problems loading Artifacts,Investigating,2025-09-16T00:57:00Z,,
+Anthropic,Claude.ai Artifacts,Problems loading Artifacts,Resolved,2025-09-16T01:24:00Z,,Issue resolved; systems operating normally.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 1),Investigating,2025-09-15T07:24:00Z,,Issue started at 23:15 PT / 06:15 UTC.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 1),Update,2025-09-15T08:40:00Z,,Initial errors stopped at 00:40 PT / 07:40 UTC; restarted at 01:20 PT / 08:20 UTC.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 1),Resolved,2025-09-15T09:15:00Z,,Mitigated as of 02:00 PT / 09:00 UTC.
+Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Investigating,2025-09-15T11:07:00Z,,Issue started at 03:45 PT / 10:45 UTC.
+Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Update,2025-09-15T11:12:00Z,,Previous message mistakenly referred to Opus 4.1; affected model is Haiku 3.5.
+Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Update,2025-09-15T12:24:00Z,,Incident marked resolved as of 04:30 PT / 11:30 UTC.
+Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Resolved,2025-09-15T12:25:00Z,,
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 2),Investigating,2025-09-15T11:22:00Z,,Repeat of earlier incident; started at 04:10 PT / 11:10 UTC.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1 (wave 2),Resolved,2025-09-15T12:25:00Z,,Resolved as of 05:10 PT / 12:10 UTC.
+Anthropic,Sonnet 3.7,Elevated errors on Claude Sonnet 3.7,Resolved,2025-09-12T22:40:00Z,,Errors from 15:40–15:51 PT (22:40–22:41 UTC); resolved.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Investigating,2025-09-11T13:27:00Z,,Issue started at 06:10 PT / 13:10 UTC.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Resolved,2025-09-11T14:29:00Z,,Errors returned to baseline as of 07:05 PT / 14:05 UTC.
+Anthropic,Claude.ai / Console / API,APIs, Console, and Claude.ai services impacted,Identified,2025-09-10T16:28:00Z,,APIs, Console, and Claude.ai down; fix being implemented.
+Anthropic,Claude.ai / Console / API,APIs, Console, and Claude.ai services impacted,Update,2025-09-10T16:37:00Z,,Monitoring fix in progress.
+Anthropic,Claude.ai / Console / API,APIs, Console, and Claude.ai services impacted,Update,2025-09-10T16:55:00Z,,Continuing to monitor services.
+Anthropic,Claude.ai / Console / API,APIs, Console, and Claude.ai services impacted,Monitoring,2025-09-10T17:15:00Z,,
+Anthropic,Claude.ai / Console / API,APIs, Console, and Claude.ai services impacted,Monitoring,2025-09-10T17:30:00Z,,
+Anthropic,Claude.ai / Console / API,APIs, Console, and Claude.ai services impacted,Resolved,2025-09-10T17:36:00Z,,Incident resolved.
+Anthropic,Claude.ai,Claude.ai services impacted,Resolved,2025-09-10T21:00:00Z,,Resolved and monitoring.
+Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Investigating,2025-09-10T07:32:00Z,,Issue started at 23:53 PT / 06:53 UTC.
+Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Identified,2025-09-10T08:18:00Z,,Fix being implemented.
+Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Monitoring,2025-09-10T09:14:00Z,,
+Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Resolved,2025-09-10T09:25:00Z,,
+Anthropic,Sonnet 4,Elevated latency for some Sonnet 4 requests,Investigating,2025-09-09T02:27:00Z,,
+Anthropic,Sonnet 4,Elevated latency for some Sonnet 4 requests,Resolved,2025-09-09T05:56:00Z,,
+Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Investigating,2025-09-05T20:31:00Z,,
+Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Identified,2025-09-05T21:01:00Z,,Issue identified; fix being implemented.
+Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Update,2025-09-05T21:02:00Z,,Temporarily disabled Opus 4.1 on Claude.ai.
+Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Monitoring,2025-09-05T21:33:00Z,,
+Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Update,2025-09-05T21:40:00Z,,Re-enabled Opus 4.1 on Claude.ai.
+Anthropic,Opus 4.1,Unable to send messages to Opus 4.1,Resolved,2025-09-05T22:10:00Z,,
+Anthropic,Claude.ai Orgs,Certain orgs unable to submit messages,Investigating,2025-09-05T19:09:00Z,,
+Anthropic,Claude.ai Orgs,Certain orgs unable to submit messages,Monitoring,2025-09-05T19:22:00Z,,
+Anthropic,Claude.ai Orgs,Certain orgs unable to submit messages,Resolved,2025-09-05T19:24:00Z,,
+Anthropic,MCP / Connectors / API Tools,Unable to connect to MCP (Connectors), API Tools,Investigating,2025-09-04T16:33:00Z,,
+Anthropic,MCP / Connectors / API Tools,Unable to connect to MCP (Connectors), API Tools,Monitoring,2025-09-04T17:11:00Z,,
+Anthropic,MCP / Connectors / API Tools,Unable to connect to MCP (Connectors), API Tools,Resolved,2025-09-04T17:28:00Z,,
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Investigating,2025-09-04T14:51:00Z,,Issue started at 07:30 PT / 14:30 UTC.
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Monitoring,2025-09-04T15:20:00Z,,
+Anthropic,Opus 4.1,Elevated errors on Claude Opus 4.1,Resolved,2025-09-04T15:30:00Z,,
+Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Investigating,2025-09-04T13:57:00Z,,Issue started at 06:00 PT / 13:00 UTC.
+Anthropic,Haiku 3.5,Elevated errors on Claude Haiku 3.5,Resolved,2025-09-04T14:59:00Z,,Resolved as of 07:30 PT / 14:30 UTC.
+Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Investigating,2025-09-04T06:44:00Z,,Issue started at 23:25 PT / 06:25 UTC.
+Anthropic,Sonnet 4.0,Elevated errors on Claude Sonnet 4.0,Resolved,2025-09-04T07:00:00Z,,Mitigated as of 23:50 PT / 06:50 UTC.
+OpenAI,Various,Errors for Conversations with Images for Free Users,Resolved,,2025-09-17 3:41 PM,
+OpenAI,Various,Elevated errors in GPT Store,Resolved,,2025-09-17 10:32 AM,
+OpenAI,Various,Elevated errors with SSO login,Resolved,,2025-09-16 11:05 AM,
+OpenAI,Various,Impact in retrieval quality on file_search,Resolved,,2025-09-15 9:49 PM,
+OpenAI,Various,Elevated error rates on API Platform,Resolved,,2025-09-14 10:17 AM,
+OpenAI,Various,Users may see both a GPT-5 response and an agent response when running agent tasks,Resolved,,2025-09-12 12:54 PM,
+OpenAI,Various,Increased Number of Users Reporting Rate Limit Errors with GPT-4o Model,Resolved,,2025-09-12 9:21 AM,
+OpenAI,Various,Deep Research elevated errors,Resolved,,2025-09-11 6:11 PM,
+OpenAI,Various,Fine-tuning jobs experiencing delays,Resolved,,2025-09-11 6:05 PM,
+OpenAI,Various,Errors with Batch API,Resolved,,2025-09-10 5:47 PM,
+OpenAI,Various,File Search not working across Responses and Assistance API,Resolved,,2025-09-10 1:25 PM,
+OpenAI,Various,ChatGPT Agent elevated error rate,Resolved,,2025-09-09 12:31 PM,
+OpenAI,Various,Increased error rates in Web Search tools in Responses API,Resolved,,2025-09-05 2:47 AM,
+OpenAI,Various,File API Errors,Resolved,,2025-09-04 4:17 PM,
+OpenAI,Various,ChatGPT Not Displaying Responses,Resolved,,2025-09-03 3:23 AM,
+OpenAI,Various,Elevated errors on ChatGPT,Resolved,,2025-09-01 8:41 AM,
+OpenAI,Various,Elevated errors on ChatGPT,Resolved,,2025-08-30 7:03 PM,
+OpenAI,Various,Increased account creation errors,Resolved,,2025-08-29 3:58 PM,
+OpenAI,Various,Increased login and signup errors,Resolved,,2025-08-28 8:25 AM,
+OpenAI,Various,Search in ChatGPT failing for some free users,Resolved,,2025-08-27 5:51 PM,
+OpenAI,Various,Elevated Error and Latency for API,Resolved,,2025-08-26 8:47 PM,
+OpenAI,Various,Elevated errors in ChatGPT Voice,Resolved,,2025-08-25 10:13 AM,
+OpenAI,Various,Voice conversations dropping previous messages,Resolved,,2025-08-23 7:15 PM,
+OpenAI,Various,Elevated API errors and latencies,Resolved,,2025-08-22 4:12 PM,
+OpenAI,Various,Increased latency on realtime, chat completions and text embedding APIs,Resolved,,2025-08-21 4:06 PM,
+OpenAI,Various,Sora experiencing elevated error rates and increased latency,Resolved,,2025-08-20 12:00 PM,
+OpenAI,Various,ChatGPT Conversation Errors,Resolved,,2025-08-20 11:30 AM,
+OpenAI,Various,Help Center login is down,Resolved,,2025-08-20 10:21 AM,
+OpenAI,Various,Failed To Load Subscription Issue,Resolved,,2025-08-20 8:09 AM,
+OpenAI,Various,ChatGPT elevated error rate,Resolved,,2025-08-20 12:58 AM,
+OpenAI,Various,Elevated Errors for File Uploads to Vector Stores,Resolved,,2025-08-19 2:42 PM,
+OpenAI,Various,GPTs with custom actions stuck processing,Resolved,,2025-08-18 2:14 PM,
+OpenAI,Various,Errors logging into ChatGPT with Apple,Resolved,,2025-08-18 11:36 AM,
+OpenAI,Various,Images not loading on the iOS, Android and macOS apps,Resolved,,2025-08-17 4:41 PM,
+OpenAI,Various,Elevated Error Rates on ChatGPT Agent,Resolved,,2025-08-15 7:57 PM,
+OpenAI,Various,Increased errors in Chat Conversation,Resolved,,2025-08-15 7:19 PM,
+OpenAI,Various,ChatGPT connector errors,Resolved,,2025-08-15 9:27 AM,
+OpenAI,Various,Codex errors,Resolved,,2025-08-14 6:06 PM,
+OpenAI,Various,Increased Errors on Compliance API,Resolved,,2025-08-13 12:27 PM,
+OpenAI,Various,Increased Errors in Image Generation,Resolved,,2025-08-13 12:22 AM,
+OpenAI,Various,Image generation errors for free ChatGPT users,Resolved,,2025-08-12 5:20 AM,
+OpenAI,Various,Partial Search Outage for ChatGPT Users,Resolved,,2025-08-11 3:02 PM,
+OpenAI,Various,Increased failure rate for Codex tasks,Resolved,,2025-08-11 3:02 PM,
+OpenAI,Various,Users encountering rate limit or model not found errors in GPT-5,Resolved,,2025-08-08 2:06 PM,
+OpenAI,Various,Search is Partially Down for ChatGPT Users,Resolved,,2025-08-08 11:12 AM,
+OpenAI,Various,Elevated errors on the ChatGPT 4.5 model,Resolved,,2025-08-08 2:05 AM,
+OpenAI,Various,Elevated error rates in ChatGPT conversation with GPT-5,Resolved,,2025-08-07 10:44 PM,
+OpenAI,Various,Elevated latency and error rates for file uploads to vector stores and from Google Drive,Resolved,,2025-08-07 6:22 PM,
+OpenAI,Various,Plus/Pro users may have issues using ChatGPT Agent,Resolved,,2025-08-07 3:36 PM,
+OpenAI,Various,Some users may encounter credit card failures for new API sign ups,Resolved,,2025-08-07 2:51 PM,
+OpenAI,Various,Elevated error rates for Deep Research for free users,Resolved,,2025-08-07 5:02 AM,
+OpenAI,Various,502 Gateway Errors,Resolved,,2025-08-06 4:53 PM,
+OpenAI,Various,Elevated errors on ChatGPT conversations,Resolved,,2025-08-06 4:39 PM,
+OpenAI,Various,Elevated errors on ChatGPT conversations for paid users,Resolved,,2025-08-05 8:10 AM,
+OpenAI,Various,We identified Issues on ChatGPT,Resolved,,2025-08-05 5:54 AM,
+OpenAI,Various,Hi API Error Rates for o3,Resolved,,2025-08-04 5:56 PM,
+OpenAI,Various,Errors in ChatGPT Image Generation,Resolved,,2025-08-04 5:57 AM,
+Google,AI Studio / Gemini,API key requests may fail for some users,Resolved,,2025-09-05 11:00,Resolved.
+Google,AI Studio / Gemini,AI Studio may not load for some users,Resolved,,2025-09-04 09:30,Resolved.
+Google,AI Studio / Gemini,ListModels requests fail for all users,Resolved,,2025-09-04 04:00,Resolved.
+Google,AI Studio / Gemini,ListModels requests fail for all users,Resolved,,2025-09-04 03:20,Detected / Investigating.
+Google,AI Studio / Gemini,Billing bug charging 'Gemini 2.5 Flash Native Image Generation',Resolved,,2025-09-03 17:00,Resolved; refunds issued (display within 48h).
+Google,AI Studio / Gemini,API key requests may fail for some users,Resolved,,2025-09-02 22:00,Detected / Investigating.
+,,,,,,
