@@ -24,8 +24,8 @@ The project tracks incidents across the following categories:
 Target CSV format:
 DATE, CATEGORY, SUBCATEGORY, EVENT, DESCRIPTION, SOURCE, OTHER
 
--# Example:
--# "2025-10-09", AI/LLM, Anthropic, Claude.ai Login, users reporting inability to log in to Claude.ai or API console, Incident occurred after solar storm event during continued elevated activity, sources: Perplexity AI as well as google search, urls are `https://fakesocialmediaexample.com`, `https://otherfakeforum.com`, and `https://etcandso-on.com`"
+Example:
+"2025-10-09", AI/LLM, Anthropic, Claude.ai Login, users reporting inability to log in to Claude.ai or API console, Incident occurred after solar storm event during continued elevated activity, sources: Perplexity AI as well as google search, urls are `https://fakesocialmediaexample.com`, `https://otherfakeforum.com`, and `https://etcandso-on.com`"
 
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
@@ -48,9 +48,10 @@ This is exploratory research; correlation does not equal causation. The goal is 
 > * Personal observations
 
 ### Limitations
--# * I'm gonna be up front, this is data collection by non-data scientist, but I am learning as I go. I have done longitudinal studies collecting data on language models in the past, but with much looser structure. But I am focused on doing this one correctly. I am naturally literal and practice mindfulness, so I have tried to apply this to learning how to collect data.
--# * Varying data quality across sources makes accuracy a little wobbly when adding in the categories outside of the primary focus (Primary being ACTSofGOD and LLM, for example self-reported incidents require verification that at this point is only the word of the reported user and what they said in their incident reports. 
--# * Temporal bias (this is primarily 2025 data, but as we are entering a solar max that is predicted to last until around 2030, I plan to make this a longitudinal study)
+> * I'm gonna be up front, this is data collection by non-data scientist, but I am learning as I go. I have done longitudinal studies collecting data on language models in the past, but with much looser structure. But I am focused on doing this one correctly. I am naturally literal and practice mindfulness, so I have tried to apply this to learning how to collect data.
+> * Varying data quality across sources makes accuracy a little wobbly when adding in the categories outside of the primary focus (Primary being ACTSofGOD and LLM, for example self-reported incidents require verification that at this point is only the word of the reported user and what they said in their incident reports. 
+> * Temporal bias (this is primarily 2025 data, but as we are entering a solar max that is predicted to last until around 2030, I plan to make this a longitudinal study)
 
 *Status: Active Research | Last Updated: October 15, 2025*
+
 ⁘───────── ✧ ════════════•🌞•══════════════ ✧ ──────────⁘
