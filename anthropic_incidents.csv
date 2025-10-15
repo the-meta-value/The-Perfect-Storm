@@ -1,0 +1,32 @@
+date,start_time_utc,end_time_utc,incident_description,affected_services,status
+2025-09-27,17:29,22:19,Elevated errors on Opus 4 and Sonnet 3.5 (new),Opus 4/Sonnet 3.5,Resolved
+2025-09-25,13:59,17:32,Elevated errors on Claude Sonnet 3.5 and 3.7,Sonnet 3.5/3.7,Resolved
+2025-09-25,00:52,03:05,Elevated errors on Claude Sonnet 3.5 and 3.7,Sonnet 3.5/3.7,Resolved
+2025-09-24,14:33,16:59,Elevated error rates on API and claude.ai,API/Claude.ai,Resolved
+2025-09-24,08:02,09:11,Elevated errors on Claude Opus 4 and Opus 4.1,Opus 4/4.1,Resolved
+2025-09-23,18:32,20:18,Elevated error rates fetching images and PDFs on the API,API,Resolved
+2025-09-22,20:58,21:30,Claude App and API connectivity errors,App/API,Resolved
+2025-09-22,07:41,08:55,Elevated error rates on API and claude.ai,API/Claude.ai,Resolved
+2025-09-20,10:37,10:41,[retroactive] Elevated errors on Claude Haiku 3.5 and Claude Haiku 3,Haiku 3/3.5,Resolved
+2025-09-18,19:57,20:55,Elevated errors across many models,All models,Resolved
+2025-09-09,00:15,2025-09-17 20:38,Model output quality,All models,Resolved
+2025-09-16,07:02,08:32,Elevated errors on Claude 4 Sonnet,Sonnet 4,Resolved
+2025-09-16,00:57,01:24,Problems loading Claude.ai Artifacts,Claude.ai,Resolved
+2025-09-15,11:22,12:25,Elevated errors on Claude Opus 4.1,Opus 4.1,Resolved
+2025-09-15,11:07,12:25,Elevated errors on Claude Haiku 3.5,Haiku 3.5,Resolved
+2025-09-15,07:24,09:15,Elevated errors on Claude Opus 4.1,Opus 4.1,Resolved
+2025-09-12,22:40,22:40,Elevated errors on Claude Sonnet 3.7,Sonnet 3.7,Resolved
+2025-09-11,13:27,14:29,Elevated errors on Claude Opus 4.1,Opus 4.1,Resolved
+2025-09-10,21:00,21:00,Claude.ai services impacted,Claude.ai,Resolved
+2025-09-10,16:28,17:36,API Claude.ai and Console services impacted,API/Claude.ai/Console,Resolved
+2025-09-10,07:32,09:25,Elevated errors on Claude Sonnet 4.0,Sonnet 4.0,Resolved
+2025-09-09,02:27,05:56,Elevated latency for some Sonnet 4 requests,Sonnet 4,Resolved
+2025-09-05,20:31,22:10,Unable to send messages to Opus 4.1,Opus 4.1,Resolved
+2025-09-05,19:09,19:24,Certain Claude.ai Orgs Unable to Submit Messages,Claude.ai,Resolved
+2025-09-04,16:33,17:28,Unable to connect to MCP (Connectors) API Tools,API Tools,Resolved
+2025-09-04,14:51,15:30,Elevated errors on Claude 4.1 Opus,Opus 4.1,Resolved
+2025-09-04,13:57,14:59,Elevated errors on Claude Haiku 3.5,Haiku 3.5,Resolved
+2025-09-04,06:44,07:00,Elevated errors on Claude Sonnet 4.0,Sonnet 4.0,Resolved
+2025-09-03,06:39,07:59,Elevated errors on Claude Opus 4.1,Opus 4.1,Resolved
+2025-09-03,01:34,01:45,Elevated error rates on API and claude.ai,API/Claude.ai,Resolved
+2025-09-01,07:14,08:55,Elevated errors on Claude 3.5 Sonnet (Oct 2024),Sonnet 3.5,Resolved

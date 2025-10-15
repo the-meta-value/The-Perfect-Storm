@@ -1,0 +1,7 @@
+date,time,incident_description,affected_services,duration,status
+2025-09-26,09:13 UTC,Power equipment failure at datacenter,Admin Console,5 hours 43 minutes,Resolved
+2025-09-05,11:00,API key requests may fail for some users,AI Studio/Gemini API,Not specified,Resolved
+2025-09-04,09:30,AI Studio may not load for some users,AI Studio,Not specified,Resolved
+2025-09-04,04:00,ListModels requests fail for all users,AI Studio/Gemini API,40 minutes,Resolved
+2025-09-03,17:00,Billing bug charging Gemini 2.5 Flash Native Image Generation,Billing System,Not specified,Resolved
+2025-09-02,22:00,API key requests may fail for some users,AI Studio/Gemini API,Not specified,Resolved
