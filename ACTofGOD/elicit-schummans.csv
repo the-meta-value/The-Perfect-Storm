@@ -1,3 +1,5 @@
+# gathered with elicit ai
+
 Study,Year,Location,Measurement_Period,Detection_Method,Frequency_Range_Hz,Key_Variations_Detected,Measurement_Precision
 "Nickolaenko et al.",2022,"France, Italy, Russia, Japan","Jan 15, 2022 (1.5–2 hours during Tonga eruption)","Horizontal magnetic antennas; spectral analysis","Schumann resonance band","Anomalies during Tonga eruption; ~4x increase in local lightning","Not specified"
 "Hayakawa et al.",2023,"Svalbard (Norway), Antarctic Peninsula","Jan 18, 2022 (diurnal); seasonal modeling","Power spectra integration; numerical simulation","5–23 (focus: 8, 14, 20)","Diurnal error <3%, seasonal error ~10%","0.1 Hz"
@@ -9,3 +11,4 @@ Study,Year,Location,Measurement_Period,Detection_Method,Frequency_Range_Hz,Key_V
 "Tritakis et al.",2022,"Northern and Southern Greece","Mid-2016–2021 (NORTH); Spring 2020–ongoing (SOUTH)","60 cm coil, amplification, logger; spectral analysis","0–50 (focus: 20–25)","Pre-seismic modulations in 20–25 Hz","Not specified"
 "Nickolaenko and Hayakawa",2007,"Multiple global observatories","3–5 years","Three orthogonal field components; power/cross-spectra","Up to 40 (focus: 8, 14, 20)","Schumann resonance line splitting observed","0.1 Hz"
 "Coughlin et al.",2018,"Virgo (Italy), KAGRA (Japan), LIGO (USA)","Jul–Nov 2016; Aug 2017","ELF magnetometers (MFS-06); power spectral density","8, 14, 21, 27, 32","Schumann resonance peaks visible; focus on noise subtraction","200 Hz sampling"
+
