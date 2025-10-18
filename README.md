@@ -53,6 +53,4 @@ This is exploratory research; correlation does not equal causation. The goal is 
 > * Varying data quality across sources makes accuracy a little wobbly when adding in the categories outside of the primary focus (Primary being ACTSofGOD and LLM, for example self-reported incidents require verification that at this point is only the word of the reported user and what they said in their incident reports. 
 > * Temporal bias (this is primarily 2025 data, but as we are entering a solar max that is predicted to last until around 2030, I plan to make this a longitudinal study)
 
-*Status: Active Research | Last Updated: October 15, 2025*
-
 ⁘───────── ✧ ════════════•🌞•══════════════ ✧ ──────────⁘
