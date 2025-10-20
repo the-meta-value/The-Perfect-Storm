@@ -226,3 +226,4 @@ DATE,TIME,WARNING,CODE,IMPACTS/EFFECTS
 2025-08-24,2339 UTC,WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,"Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies."
 2025-08-24,1639 UTC,ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
 
+
