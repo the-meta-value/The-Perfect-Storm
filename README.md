@@ -49,7 +49,7 @@ This is exploratory research; correlation does not equal causation. The goal is 
 > * Personal observations
 
 ### Limitations
-> * I'm gonna be up front, this is data collection by non-data scientist, but I am learning as I go. I have done longitudinal studies collecting data on language models in the past, but with much looser structure. But I am focused on doing this one correctly. I am naturally literal and practice mindfulness, so I have tried to apply this to learning how to collect data.
+> * I'm gonna be up front, this is data collection by a non-data scientist; I generally don't work with large sets of data like this, so the organizational understanding leaves something to be desired. I have done longitudinal studies collecting data on language models in the past, but with much looser structure. But I am focused on doing this one correctly. I am naturally literal and practice mindfulness, so I have tried to apply this to learning how to collect data.
 > * Varying data quality across sources makes accuracy a little wobbly when adding in the categories outside of the primary focus (Primary being ACTSofGOD and LLM, for example self-reported incidents require verification that at this point is only the word of the reported user and what they said in their incident reports. 
 > * Temporal bias (this is primarily 2025 data, but as we are entering a solar max that is predicted to last until around 2030, I plan to make this a longitudinal study)
 
