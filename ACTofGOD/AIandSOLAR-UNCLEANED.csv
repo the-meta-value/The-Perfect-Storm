@@ -131,7 +131,6 @@ DATE,PLATFORM,AI,ERROR,MISC
 2025-09-15,Cohere,Command/Command-R/Plus,Model/API deprecated/removed unexpectedly,Medium Users/developers report model removed September 15 without warning, API returns errors mid-project (Github Vercel/ai #8726)
 2025-09-12,Meta,Llama (llama.cpp),Model crash/output errors,Medium Repeated reports of model output corruption, crashes on Loongarch/Windows/AMD, recurring failure to load GGUF files (Github/issues newsletter)
 2025-09-12,Meta,Llama (llama.cpp),Security false positives/compatibility bugs,Low Windows Defender flags release as malware, false positives blocks users; patched later but affects multiple users (Github/issues newsletter)
-DATE,TIME,WARNING,CODE,IMPACTS/EFFECTS
 2025-09-22,2354 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,"Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska."
 2025-09-22,1211 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
 2025-09-22,0157 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,"Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska."
@@ -225,5 +224,6 @@ DATE,TIME,WARNING,CODE,IMPACTS/EFFECTS
 2025-08-25,1139 UTC,EXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,"Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies."
 2025-08-24,2339 UTC,WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,"Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies."
 2025-08-24,1639 UTC,ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+
 
 
