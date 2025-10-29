@@ -33,9 +33,7 @@ CIVIL/SOCIAL: Litigation, social media toxicity events, public unrest
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
 Data Structure
-Target CSV format: DATE, CATEGORY, SUBCATEGORY, EVENT, DESCRIPTION, SOURCE, OTHER
-
-Example: "2025-10-09", AI/LLM, Anthropic, Claude.ai Login, users reporting inability to log in to Claude.ai or API console, Incident occurred after solar storm event during continued elevated activity, sources: Perplexity AI as well as google search, urls are https://fakesocialmediaexample.com, https://otherfakeforum.com, and https://etcandso-on.com"
+Target CSV format: DATE, CATEGORY, SUBCATEGORY, DESCRIPTION, MISC, URL
 
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
