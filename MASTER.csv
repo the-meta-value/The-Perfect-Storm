@@ -1,6 +1,6 @@
 1DATE,2CATEGORY,3SUBCATEGORY,4SUMMARY,5MISC,6URL,7CORRELATION
 2025-01-15,ACTofGOD,Scuhumann,Tonga Eruption (Geomagnetic Effect),Schumann resonance band anomalies observed; ~4x increase in local lightning,SOURCE_EVENT
-2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,
+2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf
 2025-01-21,LLM,OpenAI,ChatGPT,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
 2025-01-21,LLM,Google,Gemini,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
 2025-01-22,LLM,OpenAI,ChatGPT,"Incident: Users experienced slow loading, '502 Bad Gateway' and '503 Service Temporarily Unavailable' errors. OpenAI acknowledged and was investigating.",Elevated error rates,
@@ -726,4 +726,5 @@
 2025-11-02,ACTofGOD,Solar_Flare,M1.0 Solar Flare detected,Peak flux: 1.0477395335328765e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
 2025-11-02,ACTofGOD,Solar_Flare,M1.0 Solar Flare detected,Peak flux: 1.0036142157332506e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
 2025-11-02,LLM,OpenAI,Elevated errors for Moderation API. Investigation and resolution.,K-index quiet,solar flares in past 24h,https://status.openai.com/incidents
+
 
