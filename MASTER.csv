@@ -1,0 +1,728 @@
+1DATE,2CATEGORY,3SUBCATEGORY,4SUMMARY,5MISC,6URL,7CORRELATION
+2025-01-15,ACTofGOD,Scuhumann,Tonga Eruption,(Geomagnetic Effect),Schumann resonance band anomalies observed; ~4x increase in local lightning,,SOURCE_EVENT
+2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,
+2025-01-21,LLM,OpenAI,ChatGPT,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
+2025-01-21,LLM,Google,Gemini,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
+2025-01-22,LLM,OpenAI,ChatGPT,"Incident: Users experienced slow loading, '502 Bad Gateway' and '503 Service Temporarily Unavailable' errors. OpenAI acknowledged and was investigating.",Elevated error rates,
+2025-01-22,LLM,OpenAI,ChatGPT,"Many users unable to access ChatGPT wesbite, platform returned error notifications and service was disrupted for several hours before restoration.",Sitewide Outage,
+2025-01-22,LLM,OpenAI,"Storm-2139 bypassed Azure OpenAI safety guardrails. Global cybercrime group hijacked accounts—prompt jailbreaking and illicit outputs, resold access to modified generative AI services.",Guardrail bypass,safety weakness,
+2025-01-23,LLM,OpenAI,ChatGPT,OpenAI ChatGPT experienced elevated errors from 6:33 to 7:23 a.m. ET; additional interruptions and full recovery confirmed after 10 a.m. ET.,Service Disruption,
+2025-01-29,LLM,Google,Gemini,"Gemini 1.5 Pro users experienced throttling issues, causing slowness and intermittent failures. Resolved by Feb 1, 2025.",Performance throttling,
+2025-01-31,LLM,OpenAI,"OpenAI Threat Intelligence Report: Model exploited for malicious purposes, including phishing, deepfake generation, scam campaigns. Mitigation steps deployed after feedback.",Malicious use,risk management,
+2025-02-05,LLM,OpenAI,ChatGPT,"Catastrophic failure: Memory system for long-term context silently broke after backend update. Memory loss and project corruption affected many paying users, no rollback or warning available.",Memory failure,
+2025-02-07,LLM,DeepSeek,"Large-scale LLM jacking attack against DeepSeek: about 2 billion model tokens illegally used, user credentials targeted and stolen through inference API leaks.",Credential theft,model hijack,
+2025-02-10,LLM,Anthropic,"(Claude) ""Users reported Claude not responding due to high capacity constraints. Service interruptions lasted up to 15 minutes","with periodic elevated error rates.""",Partial service outage,
+2025-02-27,ACTofGOD,Schumann,Major_Spike,Global - Coincided with 7-planet alignment (Mars Jupiter Uranus Saturn Venus Neptune Mercury),,SOURCE_EVENT
+2025-03-04,LLM,OpenAI,ChatGPT,"Users note increased hallucinations, poor context retention, and unstable answers after a backend model update.",Reduced accuracy,
+2025-03-04,LLM,OpenAI,ChatGPT,"Users report increased hallucinations, context issues, and poor answer formatting after backend model updates. Quality compared unfavorably to previous months.",Notable performance drop,
+2025-03-05,LLM,OpenAI,ChatGPT,Complaints about dropped context and formatting issues compared to previous months; Gemini 2.5 Pro hallucinations and reasoning errors also reported.,Comparison with Gemini,
+2025-03-05,LLM,Google,Gemini,Gemini 2.5 Pro hallucinated more and showed decreased reasoning ability in app usage; users report the same prompt as before produces incorrect or degraded output.,Model regression,
+2025-03-07,ACTofGOD,Schumann,00:00 Blackout_Start >40 24 M-class flares Tomsk Russia,Complete data blackout; exceeded measurement threshold,,SOURCE_EVENT
+2025-03-08,ACTofGOD,Schumann,00:00 Blackout_End Tomsk Russia,24-hour blackout period ended,,SOURCE_EVENT
+2025-03-25,LLM,Meta,(Facebook/Instagram),"Widespread outage (~2 hours): login failures, blank feeds, and intermittent errors during rollout of new Llama-powered features. Meta invoked SEV-2 protocol.",Major AI-related outage,
+2025-03-26,LLM,Meta,(Facebook/Instagram),Notable infrastructure fragility: follow-ups to March 25th outage with further service interruptions for specific users.,Ongoing service instability,
+2025-03-28,ACTofGOD,NASA,Solar Flare X1.1,"Strong solar flare (R3), X1.1 peak near 11:20am EDT, region 4046. Non-Earth-directed CME, heightened radiation risk to satellites and HF radio.",Solar disk east limb,SOURCE_EVENT
+2025-03-31,LLM,Anthropic,Claude.ai & Console,Elevated errors (14:52-16:18 UTC),https://status.anthropic.com,72h after NASA on 2025-03-28
+2025-03-29,LLM,Anthropic,All Models,Elevated errors for requests to all models (23:19 Mar 29 - 01:05 Mar 30 UTC),https://status.anthropic.com,24h after NASA on 2025-03-28
+2025-03-29,LLM,Anthropic,Claude.ai & Console,Errors loading Claude.ai and Console - significantly elevated error rates (19:54-20:21 UTC),https://status.anthropic.com,24h after NASA on 2025-03-28
+2025-03-29,LLM,Anthropic,Claude.ai Projects,Projects not loading (02:22-02:35 UTC),https://status.anthropic.com,24h after NASA on 2025-03-28
+2025-03-26,LLM,Anthropic,Multiple Models,Elevated errors on requests to models (18:38-19:17 UTC),https://status.anthropic.com,
+2025-03-26,LLM,Anthropic,Some Models,Elevated errors on requests to some models (01:13-02:32 UTC),https://status.anthropic.com,
+2025-03-25,LLM,Anthropic,Claude.ai & Console & API,Elevated errors (12:07-17:14 UTC),https://status.anthropic.com,
+2025-03-25,LLM,Anthropic,Claude.ai & Console,Elevated errors (11:15-15:41 UTC),https://status.anthropic.com,
+2025-03-24,LLM,Anthropic,Claude.ai & Console & API,Elevated errors (14:00-18:47 UTC),https://status.anthropic.com,
+2025-03-24,LLM,Anthropic,Claude.ai,Invalid responses containing unexpected special characters or languages,https://status.anthropic.com,
+2025-03-20,LLM,Anthropic,Claude.ai GitHub Integration,Errors for users with connected Github account (Mar 20 18:34 - Mar 21 22:55 UTC),https://status.anthropic.com,
+2025-03-19,LLM,Anthropic,Claude 3.5 Sonnet,Elevated errors for requests (14:40-17:46 UTC),https://status.anthropic.com,
+2025-03-18,LLM,Anthropic,Claude.ai & Console & API,Not available (10:22-13:40 UTC),https://status.anthropic.com,
+2025-03-18,LLM,Anthropic,Claude.ai & Console & API,Not available (08:14-09:38 UTC),https://status.anthropic.com,
+2025-03-17,LLM,Anthropic,Claude 3.5 Sonnet,Elevated errors for requests (13:57-16:30 UTC),https://status.anthropic.com,
+2025-03-12,LLM,Anthropic,Claude for Work Artifacts,Deleted Artifacts sometimes accessible by teammates (Mar 12 23:10 - Mar 14 23:09 UTC),https://status.anthropic.com,
+2025-03-14,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors - significantly elevated (21:45-22:14 UTC),https://status.anthropic.com,
+2025-03-13,LLM,Anthropic,anthropic.com,Errors when accessing anthropic.com,(22:00-22:13 UTC),
+2025-03-13,LLM,Anthropic,Claude.ai & Console,Elevated latency and errors (18:27-18:38 UTC),https://status.anthropic.com,
+2025-03-12,LLM,Anthropic,Claude.ai Projects,Chats in projects inaccessible for 30 minutes,https://status.anthropic.com,
+2025-03-05,LLM,Anthropic,Multiple Models,Elevated errors on requests - June Claude 3.5 Sonnet primarily impacted on API; multiple models on Claude.ai (19:25-19:41 UTC),https://status.anthropic.com,
+2025-03-05,LLM,Anthropic,Claude 3.7 Sonnet & June 3.5 Sonnet,Elevated errors on requests (05:09-05:31 UTC),https://status.anthropic.com,
+2025-03-04,LLM,Anthropic,Multiple Models,Elevated errors on requests (00:39-10:15 UTC),https://status.anthropic.com,
+2025-03-01,LLM,Anthropic,Claude.ai Artifacts,Errors when loading or publishing artifacts (issue started Feb 28 18:00 UTC),https://status.anthropic.com,48h after Schumann on 2025-02-27
+2025-04-01,ACTofGOD,NOAA,Geomagnetic Storm Kp5+,"Moderate geomagnetic storm index (Kp5), brief auroral activity at high latitudes, HF radio fadeouts.",GPS and aviation affected,SOURCE_EVENT
+2025-04-01,LLM,OpenAI,ChatGPT,"ChatGPT outage: intermittent errors ('something went wrong'), login problems, and degraded performance from 9am ET; acknowledged on status page, resolved after a few hours.",Service disruption,0h after NOAA on 2025-04-01
+2025-04-02,LLM,OpenAI,ChatGPT,"Continued 'increased error rates' and degraded performance, with login and usage interruptions as capacity challenges persist.",Intermittent ongoing incident,24h after NOAA on 2025-04-01
+2025-04-02,LLM,OpenAI,ChatGPT,Frustration over continual errors and degraded outputs; some users unable to get consistent or accurate answers from models during outages.,Unreliable results,24h after NOAA on 2025-04-01
+2025-04-03,LLM,OpenAI,ChatGPT,Third day of outages; further slowdowns and error messages. Users express frustration over delays in fixing issues.,Ongoing intermittent outage,48h after NOAA on 2025-04-01
+2025-04-04,LLM,OpenAI,Labs website not loading: users unable to access model playground. Outage resolved later that morning.,Labs incident,https://status.openai.com/incidents/01JR0GY4J2NNFZE2XJAYV2MCM7,72h after NOAA on 2025-04-01
+2025-04-07,LLM,OpenAI,ChatGPT,"Study shows participants interacting with LLMs (ChatGPT) rate AI as less trustworthy, less cooperative, and driving decisions that decrease collective payoffs compared to humans.",Trust and fairness deficit,
+2025-04-08,LLM,OpenAI,Azure,"East US region service unavailable for several hours; mitigation confirmed, services operational afterwards.",Regional API outage,
+2025-04-30,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors for Claude.ai free users,https://status.anthropic.com,
+2025-04-29,LLM,Anthropic,Claude 3.5 Sonnet (Oct) & 3.7 Sonnet,Elevated errors on requests,https://status.anthropic.com,
+2025-04-29,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (resolved 08:57-10:24 UTC),https://status.anthropic.com,
+2025-04-29,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (resolved 08:11-08:32 UTC),https://status.anthropic.com,
+2025-04-26,LLM,Anthropic,Multiple Models,Elevated errors on request to models,https://status.anthropic.com,
+2025-04-25,LLM,Anthropic,Multiple Models,Elevated errors on request to models (22:51-23:09 UTC),https://status.anthropic.com,
+2025-04-25,LLM,Anthropic,Multiple Models,Elevated errors on request to models (15:04-16:14 UTC) - not impacting user requests,https://status.anthropic.com,
+2025-04-24,LLM,Anthropic,Claude.ai Desktop,MCP tool calls failing on desktop application (17:06-18:25 UTC),https://status.anthropic.com,
+2025-04-23,LLM,Anthropic,Claude.ai Login,Issues with receiving magic links when logging in,https://status.anthropic.com,
+2025-04-22,LLM,Anthropic,Claude 3.5 Sonnet (Oct),Elevated errors (19:08-22:25 UTC),https://status.anthropic.com,
+2025-04-22,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (16:02-16:43 UTC),https://status.anthropic.com,
+2025-04-22,LLM,Anthropic,Claude 3.5 Haiku,Elevated errors (00:36-00:43 UTC),https://status.anthropic.com,
+2025-04-21,LLM,Anthropic,Claude.ai Analysis Tool,Errors when uploading .csv or .xlsx files with analysis tool enabled (issue began Apr 14),https://status.anthropic.com,72h after NASA on 2025-04-18
+2025-04-17,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (22:01-23:20 UTC),https://status.anthropic.com,72h after NASA on 2025-04-14
+2025-04-17,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (21:14-21:28 UTC),https://status.anthropic.com,72h after NASA on 2025-04-14
+2025-04-16,LLM,Anthropic,Claude 3.7 & 3.5 Sonnet,Elevated errors on requests (19:35-21:37 UTC),https://status.anthropic.com,48h after NASA on 2025-04-14
+2025-04-16,LLM,Anthropic,Claude 3 Haiku,Elevated errors (16:03-17:04 UTC),https://status.anthropic.com,48h after NASA on 2025-04-14
+2025-04-15,LLM,Anthropic,Multiple Models,Elevated errors on request to models (23:18 Apr 15 - 01:09 Apr 16 UTC),https://status.anthropic.com,24h after NASA on 2025-04-14
+2025-04-15,LLM,Anthropic,Claude.ai Login,Issues logging into Claude.ai (18:09-18:14 UTC),https://status.anthropic.com,24h after NASA on 2025-04-14
+2025-04-15,LLM,Anthropic,Claude 3.5 Sonnet (new),Elevated errors (07:51-08:50 UTC),https://status.anthropic.com,24h after NASA on 2025-04-14
+2025-04-15,LLM,Anthropic,Claude 3.5 Sonnet (June),Elevated errors (07:13-07:32 UTC),https://status.anthropic.com,24h after NASA on 2025-04-14
+2025-04-14,LLM,Anthropic,Claude 3.7 Sonnet,Partially degraded (23:53 Apr 14 - 00:09 Apr 15 UTC),https://status.anthropic.com,0h after NASA on 2025-04-14
+2025-04-14,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (06:00-08:16 UTC),https://status.anthropic.com,0h after NASA on 2025-04-14
+2025-04-10,LLM,Anthropic,Claude.ai Login,Errors when logging into Claude.ai (21:40-22:13 UTC),https://status.anthropic.com,
+2025-04-10,LLM,Anthropic,Claude 3.5 Haiku,Vision issues - images failed to be viewed (issue from Apr 8 18:00 - Apr 10 20:15 UTC),https://status.anthropic.com,
+2025-04-10,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (18:26-18:36 UTC),https://status.anthropic.com,
+2025-04-10,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (02:30-02:57 UTC),https://status.anthropic.com,
+2025-04-09,LLM,Anthropic,Claude 3.5 & 3.7 Sonnet,Elevated errors on requests (16:07-21:11 UTC),https://status.anthropic.com,
+2025-04-08,LLM,Anthropic,Claude (General),Claude Performance Degraded (14:26-16:00 UTC),https://status.anthropic.com,
+2025-04-07,LLM,Anthropic,Claude 3.5 Sonnet (Oct 2024),Performance degraded (9:30AM - 1:30PM PST),https://status.anthropic.com,
+2025-04-04,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors on long context requests (22:37-22:43 UTC),https://status.anthropic.com,72h after NOAA on 2025-04-01
+2025-04-03,LLM,Anthropic,API & Claude.ai,Elevated Errors (21:34-22:54 UTC),https://status.anthropic.com,48h after NOAA on 2025-04-01
+2025-04-03,LLM,Anthropic,API,Elevated Errors (13:29-13:39 UTC),https://status.anthropic.com,48h after NOAA on 2025-04-01
+2025-04-10,LLM,Google,Gemini,Users express disappointment with hallucinated and logically incorrect answers compared to earlier model versions.,Continued regression,
+2025-04-10,LLM,Meta,(WhatsApp),"Meta AI assistant icon disappeared in WhatsApp EU region: user reports indicate AI-powered query failures, resolved after several hours.",Feature outage,
+2025-04-14,ACTofGOD,NASA,Solar Flare M4.2,"M4.2 flare from region 4055, causing minor radio blackouts on dayside (R1 event), increased space weather alert.",Short HF fade,SOURCE_EVENT
+2025-04-18,ACTofGOD,NASA,Solar Flare M4.4,"M4.4 flare, moderate X-ray spike, dayside radio blackout risk.",Increased ionospheric disturbance,SOURCE_EVENT
+2025-04-25,LLM,Meta,Facebook,,"Another outage affecting Facebook users in Americas and Europe (~90 minutes): partial news feed failures, missing notifications, and Marketplace downtime.",
+2025-04-29,LLM,Google,Gemini 2.0 Flash,"Model overload: Paid and free tier users working at <5% of assigned capacity, elevated errors and slow completions for API and consumer endpoints.",No formal incident from Google; community-reported,
+2025-05-02,LLM,OpenaAI,ChatGPT,"Users on discussion forums report hallucinated sources and fabricated citations, especially for academic queries; trust in fact-checking responses decreases.",Hallucination/fabrication,
+2025-05-03,ACTofGOD,Schumann,Tomsk GEO,Schumann Resonance Amplification,"Unrivaled Schumann resonance spike: global quality factor and amplitude amplification, precursor to seismic risk. Large anomalies registered in Cumiana, Italy as well.",SOURCE_EVENT
+2025-05-10,LLM,OpenAI,ChatGPT,"Users share issues with info retention and context drift–wrongly referencing earlier conversation parts, especially with long prompts.",Context loss,
+2025-05-13,ACTofGOD,NASA,Solar Flare X1.21,"X1.21 class solar flare, peaking 15:38 UTC. Risk to HF, VLF communications, minor radiation storm observed, CME tracked by Solar Dynamics Observatory.",Temporary comm. blackout,SOURCE_EVENT
+2025-05-13,ACTofGOD,SWPC,Solar_Flare X1.2,Major solar flare event,,,SOURCE_EVENT
+2025-05-14,ACTofGOD,NASA,Solar Flare X2.7,"Highest solar flare of May (X2.7) from region 4087, strong radio blackout, CME partially Earth-directed, space asset warnings issued.",Dayside comms affected,SOURCE_EVENT
+2025-05-25,ACTofGOD,NASA,Solar Flare X1.1,"Powerful X1.1 solar flare at 01:52 UTC, region 4098, CME observed, alerts issued for auroral observers and power system operators.",Energetic particles,SOURCE_EVENT
+2025-05-25,LLM,OpenAI,ChatGPT,Developers report frequent prompt-to-output drift; adversarial testing triggers contradictory answers and fabricated outputs from 'promptfuzz'.,Contradiction/fake output,0h after NASA on 2025-05-25
+2025-05-25,LLM,OpenAI,ChatGPT,Ongoing backend model instability: intermittent errors and slow response times noted by US/Pacific users. Service recovered later that day.,Intermittent error/recovery,0h after NASA on 2025-05-25
+2025-05-25,LLM,OpenAI,ChatGPT,"Intermittent backend instability, error rates spike and slow responses for some users; recovered same day.",Partial US/Pacific service disruption,0h after NASA on 2025-05-25
+2025-05-31,ACTofGOD,Geomagnetic_Storm,CME 1700 km/s G4,Global Auroras visible to New Mexico,,SOURCE_EVENT
+2025-05-31,ACTofGOD,NASA,Solar Flare M8.2,"Strong M-class flare (M8.2), nighttime flare impacts HF communications; flare sequence continues on June 1.",Flare sequence emergency,SOURCE_EVENT
+2025-05-31,LLM,OpenAI,ChatGPT,Elevated error rates for ~50 minutes: Multiple users affected by failed completions and API requests. Cause: transient model server overload.,Short API outage,0h after Geomagnetic_Storm on 2025-05-31
+2025-05-31,LLM,OpenAI,ChatGPT,"Short API outage (~50 min): failed completions, elevated errors and model server overload.",Transient load event,0h after Geomagnetic_Storm on 2025-05-31
+2025-06-25,LLM,Anthropic,Claude 4 Opus,Elevated errors (15:25-16:06 UTC),https://status.anthropic.com,
+2025-06-25,LLM,Anthropic,Haiku Family,Elevated errors across the Haiku family of models (09:22-10:22 UTC),https://status.anthropic.com,
+2025-06-24,LLM,Anthropic,Claude Opus 4,Elevated errors (16:25-16:52 UTC),https://status.anthropic.com,
+2025-06-24,LLM,Anthropic,Claude Opus 4 & Claude 3.7 Sonnet,Elevated errors (12:58-15:07 UTC),https://status.anthropic.com,
+2025-06-23,LLM,Anthropic,Claude.ai,Elevated errors (06:45-07:07 UTC),https://status.anthropic.com,
+2025-06-22,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors (10:34-11:10 UTC),https://status.anthropic.com,72h after NASA on 2025-06-19
+2025-06-18,LLM,Anthropic,Haiku 3.5,Elevated errors (15:44-16:45 UTC),https://status.anthropic.com,72h after Flares on 2025-06-15
+2025-06-18,LLM,Anthropic,Claude.ai,Elevated errors (14:07-15:40 UTC),https://status.anthropic.com,72h after Flares on 2025-06-15
+2025-06-18,LLM,Anthropic,Claude 4 Sonnet,Elevated errors (08:35-10:18 UTC),https://status.anthropic.com,72h after Flares on 2025-06-15
+2025-06-17,LLM,Anthropic,Many Models,Elevated errors across many models (13:56-16:15 UTC),https://status.anthropic.com,72h after NASA on 2025-06-14
+2025-06-17,LLM,Anthropic,Claude 4 Sonnet,Elevated errors (08:13-08:55 UTC),https://status.anthropic.com,72h after NASA on 2025-06-14
+2025-06-12,LLM,Anthropic,API & Console & Claude.ai,Elevated errors (18:23-20:55 UTC),https://status.anthropic.com,24h after NASA/SWPC on 2025-06-11
+2025-06-09,LLM,Anthropic,Claude Opus 4,Elevated errors (17:24-18:46 UTC),https://status.anthropic.com,
+2025-06-08,LLM,Anthropic,Claude Opus 4,Elevated error rate (22:57-23:50 UTC),https://status.anthropic.com,
+2025-06-07,LLM,Anthropic,Claude Opus 4,Errors (18:49-18:58 UTC),https://status.anthropic.com,
+2025-06-04,LLM,Anthropic,Claude Sonnet 3.7 & 4 and Claude Opus 4,Request duration regression (Jun 4 05:00 - Jun 7 00:18 UTC),https://status.anthropic.com,
+2025-06-06,LLM,Anthropic,Claude 3.5 Haiku,Model unavailability - large quantity of errors (12:10-12:40 UTC and 14:20-14:50 UTC),https://status.anthropic.com,
+2025-06-06,LLM,Anthropic,Multiple Models,High rate of errors across models (07:46-08:13 UTC),https://status.anthropic.com,
+2025-06-04,LLM,Anthropic,Claude.ai & Console Tool Use,Errors on tool use calls (18:22-18:51 UTC),https://status.anthropic.com,
+2025-06-02,LLM,Anthropic,Claude Sonnet 3.7 & 4,Elevated errors on requests (19:12-19:30 UTC),https://status.anthropic.com,48h after Geomagnetic_Storm on 2025-05-31
+2025-06-08,LLM,OpenAI,ChatGPT,Partial outage: users unable to generate responses for hours; posts describe reliance on the bot for work and education and dramatic productivity drops.,Service interruption,
+2025-06-08,LLM,OpenAI,ChatGPT,"Partial outage: access disruptions, slow or failed completions noted on status page and independent monitors.",Beginning of larger incident,
+2025-06-08,LLM,OpenAI,ChatGPT,"Partial outage: users unable to generate responses, spikes in downtime tracked globally.",Start of larger multi-day incident,
+2025-06-09,LLM,OPenAI,ChatGPT,"Continued degraded performance, elevated error rates and latency; posts indicate responses were slow, incomplete, or failed to load.",Ongoing cloud LLM issues,
+2025-06-09,LLM,OpenAI,"Service instability escalates: elevated error rates and API latency across free and paid tiers, noted in user and status reports.",Continuation,https://77,
+2025-06-09,LLM,OpenAI,ChatGPT,"Elevated error rates for ChatGPT API and web product, persistent latency throughout the day.",Progression into full outage,
+2025-06-10,LLM,OpenAI,ChatGPT,"Major outage lasting over 10 hours: majority of users could not access the platform, resulting in widespread complaints and business interruption.",Full-day global outage,
+2025-06-10,LLM,OpenAI,"Major global outage: ChatGPT, API, and Sora all unavailable for 4–10+ hours. Error rates spiked, communication via status and support posts.",All services down,https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025,
+2025-06-10,LLM,OpenAI,ChatGPT,"Major global outage: ChatGPT and Sora, APIs/foundation models, all down for 4–10+ hours. User productivity and business workflows affected worldwide.",All services impacted; communication updates on status page,
+2025-06-11,ACTofGOD,NASA/SWPC,Solar Storm CME Arrival,"Dual filament eruption launches slow but large CME, Earth-directed. K-index forecast to reach storm threshold June 12–13; expected aurora and increased radio/solar noise.",Global forecast update,SOURCE_EVENT
+2025-06-11,LLM,OpenAI,ChatGPT,"Service slowly restored, but ongoing complaints about delayed and missing responses persist throughout the day.",Ongoing recovery latency,0h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,"Chatgpt""Recovery ongoing: error rates reduced","some API endpoints and user sessions slow or fail to load; intermittent failures persist for some users.""",Recovery/instability,0h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,ChatGPT,"Gradual recovery: some endpoints and user sessions still unstable, high latency persists in limited regions.",Ongoing instability,0h after NASA/SWPC on 2025-06-11
+2025-06-12,LLM,Google,Gemini,Gemini consumer and developer APIs experience cascading failures and dropped requests; many prompts fail in rapid succession during the broader Google Cloud incident.,Partial service failure,24h after NASA/SWPC on 2025-06-11
+2025-06-12,LLM,Google,Gemini/Cloud,"Major Google Cloud outage: All Google services including Gemini returned errors from 17:56 to after 19:00 UTC; status page marked as 'outage', 1.4+ million user reports globally.",Critical infrastructure outage,24h after NASA/SWPC on 2025-06-11
+2025-06-12,LLM,Google,Gemini 2.5 Pro,Google Cloud outage: All Google services including Gemini returned errors globally; millions affected Gemini API requests failed during incident.Critical cloud infrastructure failure,https://www.ookla.com/articles/google-cloud-outage-june-2025,24h after NASA/SWPC on 2025-06-11
+2025-06-12,LLM,Google,Gemini API,Gemini API requests repeatedly dropped and model completions failed cascading outages in developer and consumer endpoints.Cloud incident fallout,https://autoblogging.ai/news/ai/googles-gemini-experiencing-intermittent-outages-overview-and-latest-developments/,24h after NASA/SWPC on 2025-06-11
+2025-06-13,ACTofGOD,NOAA,Geomagnetic Storm Kp6,Geomagnetic storm reaches Kp6: widespread aurora at mid-latitudes GPS disturbances satellite drag increase.Space weather alerts,https://www.swpc.noaa.gov/products/planetary-k-index,SOURCE_EVENT
+2025-06-14,ACTofGOD,NASA,Solar Flare M6.8,Major M-class solar flare enhanced X-ray/UV flux possible radio fadeout for trans-polar routes.Dayside blackout risk,https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares/year/2025.html,SOURCE_EVENT
+2025-06-14,LLM,Anthropic,Claude Opus 4 / Sonnet 4,Partial degradation: error 400/500 spikes reduced usage caps for paid/Max/Pro users UI and API failures globally.Capacity/counter failures and feature outages,https://www.reddit.com/r/ClaudeAI/comments/1lymi57/claude_performance_report_june_29_july_13_2025/,72h after NASA/SWPC on 2025-06-11
+2025-06-14,LLM,Anthropic,"Anthropic status indicates performance degradation for Claude Opus & Sonnet models; 400/500 errors reported in user sessions for voice tokens, and chat reliability.Partial degradation",https://www.reddit.com/r/ClaudeAI/comments/1lymi57/claude_performance_report_june_29_july_13_2025/,,72h after NASA/SWPC on 2025-06-11
+2025-06-15,ACTofGOD,Flares,White_Out 0-40+ M-class flares CH HSS 760 km/s Tomsk Russia,Full spectrum brightening,,SOURCE_EVENT
+2025-06-15,ACTofGOD,NASA,Solar Flare M8.4,Peak flare strong R2 radio blackout event impacts for airplane communications and space assets.Polar path fade,https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares/year/2025.html,SOURCE_EVENT
+2025-06-15,LLM,Anthropic,Claude Opus 4 / Sonnet 4,Continued rate limits and features disabled; users can only send a handful of prompts further voice and chat bugs reported.Restriction and maintenance,https://www.reddit.com/r/ClaudeAI/comments/1lymi57/claude_performance_report_june_29_july_13_2025/,48h after NOAA on 2025-06-13
+2025-06-15,LLM,Anthropic,"Continued degradation, usage caps imposed; some users only able to complete 1–4 prompts before hitting a restriction several UI failures noted.Usage limitation",https://www.reddit.com/r/ClaudeAI/comments/1lymi57/claude_performance_report_june_29_july_13_2025/,,48h after NOAA on 2025-06-13
+2025-06-16,ACTofGOD,NASA,Solar Flare M6.4,Continued flare sequence impacts dayside blackout minor CME signature.Sequences and alerts,https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares/year/2025.html,SOURCE_EVENT
+2025-06-16,LLM,Anthropic,Claude Opus 4 / Sonnet 4,Extended downtime for advanced features (Extended Thinking mode more voice/API problems UI prompts fail.Feature disabled,https://www.reddit.com/r/ClaudeAI/comments/1lymi57/claude_performance_report_june_29_july_13_2025/,72h after NOAA on 2025-06-13
+2025-06-16,LLM,Anthropic,Maintenance message and extended downtime for Extended Thinking mode; further errors for Max/Pro users and voice mode activation.,Feature downtime,https://www.reddit.com/r/ClaudeAI/comments/1lymi57/claude_performance_report_june_29_july_13_2025/,72h after NOAA on 2025-06-13
+2025-06-17,ACTofGOD,NASA,Solar_Flare,X1.2 Third X-class flare of 2025,,,SOURCE_EVENT
+2025-06-19,ACTofGOD,NASA,Solar Flare X1.9,"Strong X-class flare, 23:50 UTC peak, high radiation risk for transorbital satellites, ongoing flare cluster.",Global alert status,SOURCE_EVENT
+2025-06-30,LLM,OpenAI,ChatGPT,"Security reports warn of new ways attackers use LLMs for social engineering, producing deceptive and misleading output at scale.",Security/adversarial hallucination,
+2025-07-06,ACTofGOD,White_Flame,18:15 0-40+ Several No matching flare 4-6 Tomsk Italy,Full spectrum white saturation,,SOURCE_EVENT
+2025-07-30,LLM,Anthropic,Claude.ai,Chats appearing out of chronological order (03:07-21:23 UTC),https://status.anthropic.com,48h after White_Flame on 2025-07-28
+2025-07-30,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - returned to baseline at 08:36 UTC (07:52-09:30 UTC),https://status.anthropic.com,48h after White_Flame on 2025-07-28
+2025-07-29,LLM,Anthropic,Claude 4 Sonnet,Elevated errors for requests (23:30 Jul 29 - 00:20 Jul 30 UTC),https://status.anthropic.com,24h after White_Flame on 2025-07-28
+2025-07-29,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - peak at 15:30 UTC (15:51-16:32 UTC),https://status.anthropic.com,24h after White_Flame on 2025-07-28
+2025-07-29,LLM,Anthropic,Claude Desktop App,SSO login issue (00:36-01:59 UTC),https://status.anthropic.com,24h after White_Flame on 2025-07-28
+2025-07-25,LLM,Anthropic,Claude 4 Sonnet,Multiple spikes of errors - 12:47-13:23 UTC and 14:28-15:35 UTC (07:11-16:37 UTC),https://status.anthropic.com,72h after Solar Event on 2025-07-22
+2025-07-25,LLM,Anthropic,Claude 4 Opus,Elevated errors affecting Claude Code (15:00-15:15 UTC),https://status.anthropic.com,72h after Solar Event on 2025-07-22
+2025-07-25,LLM,Anthropic,Sonnet & Opus 4,Elevated Errors - mitigated at 6:45 UTC (01:50-05:47 UTC),https://status.anthropic.com,72h after Solar Event on 2025-07-22
+2025-07-25,LLM,Anthropic,Sonnet 4,Elevated 529 errors (00:16-00:57 UTC),https://status.anthropic.com,72h after Solar Event on 2025-07-22
+2025-07-24,LLM,Anthropic,Google Drive Connector,Degraded experience (16:50-23:53 UTC),https://status.anthropic.com,48h after Solar Event on 2025-07-22
+2025-07-23,LLM,Anthropic,Multiple Claude Models,Errors on multiple models (21:48-23:11 UTC),https://status.anthropic.com,24h after Solar Event on 2025-07-22
+2025-07-23,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - mitigated at 19:28 UTC (19:21-19:34 UTC),https://status.anthropic.com,24h after Solar Event on 2025-07-22
+2025-07-23,LLM,Anthropic,MCP Tools,MCP tool errors (16:27-17:51 UTC),https://status.anthropic.com,24h after Solar Event on 2025-07-22
+2025-07-23,LLM,Anthropic,Claude 4 Sonnet,Two big spikes of errors - 13:05-13:24 UTC and 13:50-14:18 UTC (13:20-14:43 UTC),https://status.anthropic.com,24h after Solar Event on 2025-07-22
+2025-07-23,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - mitigated at 9:15 UTC (09:13-09:26 UTC),https://status.anthropic.com,24h after Solar Event on 2025-07-22
+2025-07-23,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - mitigated at 6:39 UTC (06:16-06:45 UTC),https://status.anthropic.com,24h after Solar Event on 2025-07-22
+2025-07-22,LLM,Anthropic,Claude.ai,Elevated errors (13:30-20:33 UTC),https://status.anthropic.com,0h after Solar Event on 2025-07-22
+2025-07-22,LLM,Anthropic,Claude Sonnet 4,Elevated errors (18:09-19:16 UTC),https://status.anthropic.com,0h after Solar Event on 2025-07-22
+2025-07-21,LLM,Anthropic,Claude 4 Sonnet,Elevated errors for requests (22:45-23:00 UTC),https://status.anthropic.com,
+2025-07-21,LLM,Anthropic,Claude 3.5 Sonnet (old),Elevated errors (20:55-21:18 UTC),https://status.anthropic.com,
+2025-07-21,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - full recovery at 08:52 UTC (07:12-08:57 UTC),https://status.anthropic.com,
+2025-07-18,LLM,Anthropic,Claude 4 Opus via Claude Code,Elevated errors for requests (21:15-21:50 UTC),https://status.anthropic.com,
+2025-07-17,LLM,Anthropic,Claude.ai Connectors,Intermittent errors connecting (23:29 Jul 17 - 17:09 Jul 18 UTC),https://status.anthropic.com,
+2025-07-17,LLM,Anthropic,Claude Sonnet & Opus Models,Elevated errors for requests (21:13-21:34 UTC),https://status.anthropic.com,
+2025-07-17,LLM,Anthropic,API,API requests stopping prematurely (04:48-05:33 UTC),https://status.anthropic.com,
+2025-07-16,LLM,Anthropic,Claude 4 Opus,Elevated errors for requests (14:01-15:55 UTC),https://status.anthropic.com,
+2025-07-16,LLM,Anthropic,Sonnet Models,Elevated errors for requests (06:12-08:43 UTC),https://status.anthropic.com,
+2025-07-15,LLM,Anthropic,Claude 4 Sonnet,Elevated errors for requests (13:05-17:00 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-12
+2025-07-15,LLM,Anthropic,Claude 4 Opus,Elevated errors for requests (12:35-12:58 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-12
+2025-07-15,LLM,Anthropic,Claude 4 Sonnet,Elevated errors for requests (09:37-12:31 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-12
+2025-07-13,LLM,Anthropic,Claude 4 Sonnet,Elevated errors for requests (23:39 Jul 13 - 00:22 Jul 14 UTC),https://status.anthropic.com,24h after White_Flame on 2025-07-12
+2025-07-12,LLM,Anthropic,Claude 3.5 Sonnet,Elevated errors for requests (03:57-04:23 UTC),https://status.anthropic.com,0h after White_Flame on 2025-07-12
+2025-07-10,LLM,Anthropic,Claude 3.5 Sonnet,Elevated errors for requests (20:22-20:50 UTC),https://status.anthropic.com,
+2025-07-10,LLM,Anthropic,Claude 3.5 Haiku,Elevated errors - occurred 15:33-15:50 UTC (15:44-15:57 UTC),https://status.anthropic.com,
+2025-07-10,LLM,Anthropic,Claude 4 Sonnet,Elevated errors - returned to baseline at 15:15 UTC (13:35-15:27 UTC),https://status.anthropic.com,
+2025-07-10,LLM,Anthropic,Claude 4 Sonnet & Opus 4,Elevated errors - Claude 4 Opus also had uptick 7:25-7:43 UTC (06:34-08:35 UTC),https://status.anthropic.com,
+2025-07-10,LLM,Anthropic,Claude.ai,Issues with accessing claude.ai (01:52-02:45 UTC),https://status.anthropic.com,
+2025-07-10,LLM,Anthropic,Claude Sonnet 4,Degraded performance quality - lower intelligence responses and malformed tool calls (Jul 8 08:45 - Jul 10 02:00 UTC),https://status.anthropic.com,
+2025-07-09,LLM,Anthropic,Claude.ai,Elevated errors (00:11-23:09 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-06
+2025-07-09,LLM,Anthropic,Opus 4,Elevated errors (16:28-17:10 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-06
+2025-07-09,LLM,Anthropic,Claude Opus 4,Elevated errors (00:46-02:22 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-06
+2025-07-09,LLM,Anthropic,Claude Opus 4,Elevated errors (00:07-00:38 UTC),https://status.anthropic.com,72h after White_Flame on 2025-07-06
+2025-07-08,LLM,Anthropic,Claude 3.5 Sonnet & Claude 4 Sonnet,Elevated errors on requests to multiple models (13:09-16:25 UTC),https://status.anthropic.com,48h after White_Flame on 2025-07-06
+2025-07-08,LLM,Anthropic,Claude 3.5 Sonnet,Elevated errors on request (09:59-10:53 UTC),https://status.anthropic.com,48h after White_Flame on 2025-07-06
+2025-07-07,LLM,Anthropic,Claude 3.5 Haiku,Elevated errors (13:31-14:24 UTC),https://status.anthropic.com,24h after White_Flame on 2025-07-06
+2025-07-03,LLM,Anthropic,Multiple Models,Elevated errors across models (14:09-14:39 UTC),https://status.anthropic.com,
+2025-07-03,LLM,Anthropic,Claude 4 Opus,Elevated errors - resolved at 10:40 UTC (07:04-10:47 UTC),https://status.anthropic.com,
+2025-07-03,LLM,Anthropic,Claude 4 Sonnet,Elevated errors (02:05-02:40 UTC),https://status.anthropic.com,
+2025-07-01,LLM,Anthropic,Claude Sonnet & Opus 4,Elevated errors on request (20:46-23:50 UTC),https://status.anthropic.com,
+2025-07-01,LLM,Anthropic,Multiple Models,Elevated errors across models (08:51-10:41 UTC),https://status.anthropic.com,
+2025-07-12,ACTofGOD,Schumann,White_Flame,0-40+,Tomsk Russia Second July white flame event,,SOURCE_EVENT
+2025-07-17,NETWORK,Xfinity ISP outage,Duration: 12 hours U.S.,,,
+2025-07-17,NETWORK,Xfinity Outage,12-hour outage in the U.S.,,,
+2025-07-18,NETWORK,Other/Regional,LLM,Service Outage,1-hour outage in US/Canada,,,
+2025-07-22,ACTofGOD,Schumann,Solar Event,25-hour blackout period started,,,SOURCE_EVENT
+2025-07-22,NETWORK,Google,Cloud Service Disruption,Multi-region errors reported,,,0h after Solar Event on 2025-07-22
+2025-07-22,NETWORK,Other/Regional,Government-directed internet shutdown,Q2 shutdowns in Libya and other locations,,,0h after Solar Event on 2025-07-22
+2025-07-22,NETWORK,Other/Regional,ISP Shutdown,Q2 shutdowns reported in Libya etc.,,,0h after Solar Event on 2025-07-22
+2025-07-23,ACTofGOD,Schumann,Solar Event,25-hour blackout period ended,,,SOURCE_EVENT
+2025-07-23,NETWORK,Other/Regional,Extended blackout,Tomsk,Russia. Data: >40 25,,24h after Solar Event on 2025-07-22
+2025-07-24,NETWORK,Other/Regional,LLM,Service Outage,Duration: 1 hour in US/Canada,,,48h after Solar Event on 2025-07-22
+2025-07-28,ACTofGOD,Solar,White_Flame,0-40+,Tomsk Russia Third July white flame event,SOURCE_EVENT
+2025-07-30,ACTofGOD,Schumann,00:00 Blackout_Start >40 25 Tomsk Russia,Extended blackout begin,,SOURCE_EVENT
+2025-07-31,ACTofGOD,Schumann,00:00 Blackout >40 25 Tomsk Russia,Extended blackout continues,,SOURCE_EVENT
+2025-07-31,LLM,OpenAI,Codex,Tasks Not Succeeding,https://status.openai.com,72h after White_Flame on 2025-07-28
+2025-07-30,LLM,OpenAI,ChatGPT Web,Conversations History missing in sidebar for some users,https://status.openai.com,48h after White_Flame on 2025-07-28
+2025-07-28,LLM,OpenAI,ChatGPT Search,Elevated error rates for free users,https://status.openai.com,0h after White_Flame on 2025-07-28
+2025-07-24,LLM,OpenAI,ChatGPT Conversations,Elevated error rates,https://status.openai.com,48h after Solar Event on 2025-07-22
+2025-07-24,LLM,OpenAI,ChatGPT & API Platforms,Login and Signup issues (13:36-13:39 PDT),https://status.openai.com,48h after Solar Event on 2025-07-22
+2025-07-24,LLM,OpenAI,ChatGPT Subscriptions,Issue with subscriptions,https://status.openai.com,48h after Solar Event on 2025-07-22
+2025-07-21,LLM,OpenAI,gpt-4.1-mini,Elevated errors when accessing model,https://status.openai.com,
+2025-07-21,LLM,OpenAI,ChatGPT,Elevated errors for all paid users,https://status.openai.com,
+2025-07-21,LLM,OpenAI,ChatGPT,Elevated errors with image processing for paid users,https://status.openai.com,
+2025-07-18,LLM,OpenAI,ChatGPT,Issues with File Upload,https://status.openai.com,
+2025-07-17,LLM,OpenAI,ChatGPT,Elevated errors,https://status.openai.com,
+2025-07-17,LLM,OpenAI,ChatGPT, Image Generation,Errors,https://status.openai.com,
+2025-07-17,LLM,OpenAI,APIs,Elevated Error Rates Across APIs,https://status.openai.com,
+2025-07-17,LLM,OpenAI,gpt-4.1,High Error Rate And Latency,https://status.openai.com,
+2025-07-16,LLM,OpenAI,API,API down for EU Data Residency customers,https://status.openai.com,
+2025-07-16,LLM,OpenAI,ChatGPT & Platform,SSO login issues,https://status.openai.com,
+2025-07-15,LLM,OpenAI,ChatGPT,Elevated Error Rate,https://status.openai.com,72h after White_Flame on 2025-07-12
+2025-07-15,LLM,OpenAI,ChatGPT,Connectors automatically enabled,https://status.openai.com,72h after White_Flame on 2025-07-12
+2025-07-15,LLM,OpenAI,ChatGPT,Elevated Error Rates on Record mode Sora and Codex,https://status.openai.com,72h after White_Flame on 2025-07-12
+2025-07-14,LLM,OpenAI,gpt-4.1-mini,Increased errors for EU data residency organizations,https://status.openai.com,48h after White_Flame on 2025-07-12
+2025-07-10,LLM,OpenAI,ChatGPT & API,Elevated error rates,https://status.openai.com,
+2025-07-09,LLM,OpenAI,gpt-4.1-mini API & ChatGPT Search,High error rates,https://status.openai.com,72h after White_Flame on 2025-07-06
+2025-07-08,LLM,OpenAI,API Endpoints,Errors,https://status.openai.com,48h after White_Flame on 2025-07-06
+2025-07-08,LLM,OpenAI,API,Outage in creating new finetune jobs,https://status.openai.com,48h after White_Flame on 2025-07-06
+2025-07-07,LLM,OpenAI,Account Creation,High errors for account creation with password,https://status.openai.com,24h after White_Flame on 2025-07-06
+2025-07-07,LLM,OpenAI,ChatGPT Codex,Elevated error rates,https://status.openai.com,24h after White_Flame on 2025-07-06
+2025-07-07,LLM,OpenAI,API Endpoints,Elevated error rates,https://status.openai.com,24h after White_Flame on 2025-07-06
+2025-07-02,LLM,OpenAI,API Pay-As-You-Go,Negative Balance & 429 Error for accounts,https://status.openai.com,
+2025-07-01,LLM,OpenAI,Sora,Increased Errors,https://status.openai.com,
+2025-06-29,LLM,OpenAI,Compliance API,Data Delays,https://status.openai.com,
+2025-06-28,LLM,OpenAI,Sora,Issues with Login and Creation,https://status.openai.com,
+2025-06-27,LLM,OpenAI,Projects & GPTs,Increased errors with file uploads,https://status.openai.com,
+2025-06-27,LLM,OpenAI,Assistants API,Elevated latencies,https://status.openai.com,
+2025-06-27,LLM,OpenAI,Responses API,Elevated latencies,https://status.openai.com,
+2025-06-25,LLM,OpenAI,Fine-tuning,Increased errors in fine-tuning models,https://status.openai.com,
+2025-06-24,LLM,OpenAI,API,Increased errors,https://status.openai.com,
+2025-06-23,LLM,OpenAI,Login & Signup,Increased errors,https://status.openai.com,
+2025-06-18,LLM,OpenAI,ChatGPT,High error rates for paid users,https://status.openai.com,72h after Flares on 2025-06-15
+2025-06-18,LLM,OpenAI,ChatGPT Login,Content failed to load error after logging in,https://status.openai.com,72h after Flares on 2025-06-15
+2025-06-17,LLM,OpenAI,ChatGPT Free,Conversation errors for Free users,https://status.openai.com,72h after NASA on 2025-06-14
+2025-06-17,LLM,OpenAI,Login,Service Unavailable errors when logging in,https://status.openai.com,72h after NASA on 2025-06-14
+2025-06-16,LLM,OpenAI,o3-pro API,Rate limit errors,https://status.openai.com,72h after NOAA on 2025-06-13
+2025-06-16,LLM,OpenAI,ChatGPT Conversations,Increased Errors,https://status.openai.com,72h after NOAA on 2025-06-13
+2025-06-16,LLM,OpenAI,ChatGPT,Increased Errors,https://status.openai.com,72h after NOAA on 2025-06-13
+2025-06-12,LLM,OpenAI,Login,Log in issues,https://status.openai.com,24h after NASA/SWPC on 2025-06-11
+2025-06-12,LLM,OpenAI,ChatGPT & API,Increased error rates on image generation,https://status.openai.com,24h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,ChatGPT & API,Increased error rates on image generation,https://status.openai.com,0h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,ChatGPT,Errors (Error in message stream),https://status.openai.com,0h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,Sign In with Apple,Issues with login method,https://status.openai.com,0h after NASA/SWPC on 2025-06-11
+2025-06-10,LLM,OpenAI,Multiple Services,Elevated error rates,https://status.openai.com,
+2025-06-10,LLM,OpenAI,Codex,Increased errors for tasks,https://status.openai.com,
+2025-06-10,LLM,OpenAI,Sora,Elevated error rates,https://status.openai.com,
+2025-06-09,LLM,OpenAI,ChatGPT Search,Degraded,https://status.openai.com,
+2025-06-06,LLM,OpenAI,omni-moderation-latest,Elevated error rates between 18:50-20:20 UTC,https://status.openai.com,
+2025-06-05,LLM,OpenAI,ChatGPT & API,Elevated error rate for file uploads,https://status.openai.com,
+2025-06-04,LLM,OpenAI,ChatGPT Windows Client,Not responding,https://status.openai.com,
+2025-06-03,LLM,OpenAI,Deep Research,Unable to access content from uploaded files,https://status.openai.com,72h after Geomagnetic_Storm on 2025-05-31
+2025-06-03,LLM,OpenAI,Compliance API,Data Delays,https://status.openai.com,72h after Geomagnetic_Storm on 2025-05-31
+2025-06-02,LLM,OpenAI,User Analytics,Exporting data from May not working,https://status.openai.com,48h after Geomagnetic_Storm on 2025-05-31
+2025-06-02,LLM,OpenAI,gpt-4.1-nano,Increased errors rates,https://status.openai.com,48h after Geomagnetic_Storm on 2025-05-31
+2025-05-30,LLM,OpenAI,ChatGPT,Usage cap errors,https://status.openai.com,
+2025-05-29,LLM,OpenAI,ChatGPT,Increased errors for conversations and connectors (8:34-8:47am PT),https://status.openai.com,
+2025-05-28,LLM,OpenAI,Codex Deep Research & ChatGPT Login,Increasing error rates,https://status.openai.com,72h after NASA on 2025-05-25
+2025-05-27,LLM,OpenAI,Codex,Unavailable,https://status.openai.com,48h after NASA on 2025-05-25
+2025-05-27,LLM,OpenAI,ChatGPT Pro & Team,Some customers unable to access subscription (May 22 9PM - May 26 11PM PST),https://status.openai.com,48h after NASA on 2025-05-25
+2025-05-26,LLM,OpenAI,Codex,Task and PR creation experiencing errors,https://status.openai.com,24h after NASA on 2025-05-25
+2025-05-23,LLM,OpenAI,Codex,Elevated error rates - GitHub API downtime,https://status.openai.com,
+2025-05-22,LLM,OpenAI,ChatGPT,Elevated error rates (1:22-1:30 PM PST),https://status.openai.com,
+2025-05-22,LLM,OpenAI,Multiple Services,Elevated error rates,https://status.openai.com,
+2025-05-21,LLM,OpenAI,Codex,High error rates for tasks,https://status.openai.com,
+2025-05-20,LLM,OpenAI,ChatGPT Login,Issue identified,https://status.openai.com,
+2025-05-20,LLM,OpenAI,ChatGPT,Increased errors for voice transcription,https://status.openai.com,
+2025-05-17,LLM,OpenAI,API,Issues with buying credits and updating limits,https://status.openai.com,72h after NASA on 2025-05-14
+2025-05-17,LLM,OpenAI,ChatGPT Search,Elevated failures and high latency,https://status.openai.com,72h after NASA on 2025-05-14
+2025-05-16,LLM,OpenAI,API Payment,Issues when adding or updating payment methods,https://status.openai.com,72h after NASA on 2025-05-13
+2025-05-15,LLM,OpenAI,Platform,Errors when accepting new invites,https://status.openai.com,48h after NASA on 2025-05-13
+2025-05-15,LLM,OpenAI,gpt-image-1 API,Image Generation API Errors (17:10-17:50 UTC May 14),https://status.openai.com,48h after NASA on 2025-05-13
+2025-05-12,LLM,OpenAI,ChatGPT,Increased Error Rate,https://status.openai.com,
+2025-05-08,LLM,OpenAI,WhatsApp 1-800-CHATGPT,Partial outage,https://status.openai.com,
+2025-05-07,LLM,OpenAI,Files & Search,High errors,https://status.openai.com,
+2025-05-06,LLM,OpenAI,Multiple Services,Elevated error rates,https://status.openai.com,72h after Schumann on 2025-05-03
+2025-05-05,LLM,OpenAI,Data Analysis,Degraded Performance,https://status.openai.com,48h after Schumann on 2025-05-03
+2025-08-01,ACTofGOD,Schumann,01:00 Blackout_End Tomsk,25-hour blackout period ended,,SOURCE_EVENT
+2025-07-31,LLM,OpenAI,Codex,Tasks Not Succeeding,https://status.openai.com,72h after White_Flame on 2025-07-28
+2025-07-30,LLM,OpenAI,ChatGPT Web,Conversations History missing in sidebar for some users,https://status.openai.com,48h after White_Flame on 2025-07-28
+2025-07-28,LLM,OpenAI,ChatGPT Search,Elevated error rates for free users,https://status.openai.com,0h after White_Flame on 2025-07-28
+2025-07-24,LLM,OpenAI,ChatGPT Conversations,Elevated error rates,https://status.openai.com,48h after Solar Event on 2025-07-22
+2025-07-24,LLM,OpenAI,ChatGPT & API Platforms,Login and Signup issues (13:36-13:39 PDT),https://status.openai.com,48h after Solar Event on 2025-07-22
+2025-07-24,LLM,OpenAI,ChatGPT Subscriptions,Issue with subscriptions,https://status.openai.com,48h after Solar Event on 2025-07-22
+2025-07-21,LLM,OpenAI,gpt-4.1-mini,Elevated errors when accessing model,https://status.openai.com,
+2025-07-21,LLM,OpenAI,ChatGPT,Elevated errors for all paid users,https://status.openai.com,
+2025-07-21,LLM,OpenAI,ChatGPT,Elevated errors with image processing for paid users,https://status.openai.com,
+2025-07-17,LLM,OpenAI,ChatGPT,Elevated errors,https://status.openai.com,
+2025-07-17,LLM,OpenAI,ChatGPT Image Generation,Errors,https://status.openai.com,
+2025-07-17,LLM,OpenAI,APIs,Elevated Error Rates Across APIs,https://status.openai.com,
+2025-07-17,LLM,OpenAI,gpt-4.1,High Error Rate And Latency,https://status.openai.com,
+2025-07-16,LLM,OpenAI,API,API down for EU Data Residency customers,https://status.openai.com,
+2025-07-16,LLM,OpenAI,ChatGPT & Platform,SSO login issues,https://status.openai.com,
+2025-07-15,LLM,OpenAI,ChatGPT,Elevated Error Rate,https://status.openai.com,72h after White_Flame on 2025-07-12
+2025-07-15,LLM,OpenAI,ChatGPT,Connectors automatically enabled,https://status.openai.com,72h after White_Flame on 2025-07-12
+2025-07-15,LLM,OpenAI,ChatGPT,Elevated Error Rates on Record mode Sora and Codex,https://status.openai.com,72h after White_Flame on 2025-07-12
+2025-07-14,LLM,OpenAI,gpt-4.1-mini,Increased errors for EU data residency organizations,https://status.openai.com,48h after White_Flame on 2025-07-12
+2025-07-10,LLM,OpenAI,ChatGPT & API,Elevated error rates,https://status.openai.com,
+2025-07-09,LLM,OpenAI,gpt-4.1-mini API & ChatGPT Search,High error rates,https://status.openai.com,72h after White_Flame on 2025-07-06
+2025-07-08,LLM,OpenAI,API Endpoints,Errors,https://status.openai.com,48h after White_Flame on 2025-07-06
+2025-07-08,LLM,OpenAI,API,Outage in creating new finetune jobs,https://status.openai.com,48h after White_Flame on 2025-07-06
+2025-07-07,LLM,OpenAI,Account Creation,High errors for account creation with password,https://status.openai.com,24h after White_Flame on 2025-07-06
+2025-07-07,LLM,OpenAI,ChatGPT Codex,Elevated error rates,https://status.openai.com,24h after White_Flame on 2025-07-06
+2025-07-07,LLM,OpenAI,API Endpoints,Elevated error rates,https://status.openai.com,24h after White_Flame on 2025-07-06
+2025-07-02,LLM,OpenAI,API Pay-As-You-Go,Negative Balance & 429 Error for accounts,https://status.openai.com,
+2025-07-01,LLM,OpenAI,Sora,Increased Errors,https://status.openai.com,
+2025-06-29,LLM,OpenAI,Compliance API,Data Delays,https://status.openai.com,
+2025-06-28,LLM,OpenAI,Sora,Issues with Login and Creation,https://status.openai.com,
+2025-06-27,LLM,OpenAI,Projects & GPTs,Increased errors with file uploads,https://status.openai.com,
+2025-06-27,LLM,OpenAI,Assistants API,Elevated latencies,https://status.openai.com,
+2025-06-27,LLM,OpenAI,Responses API,Elevated latencies,https://status.openai.com,
+2025-06-25,LLM,OpenAI,Fine-tuning,Increased errors in fine-tuning models,https://status.openai.com,
+2025-06-24,LLM,OpenAI,API,Increased errors,https://status.openai.com,
+2025-06-23,LLM,OpenAI,Login & Signup,Increased errors,https://status.openai.com,
+2025-06-18,LLM,OpenAI,ChatGPT,High error rates for paid users,https://status.openai.com,72h after Flares on 2025-06-15
+2025-06-18,LLM,OpenAI,ChatGPT Login,Content failed to load error after logging in,https://status.openai.com,72h after Flares on 2025-06-15
+2025-06-17,LLM,OpenAI,ChatGPT Free,Conversation errors for Free users,https://status.openai.com,72h after NASA on 2025-06-14
+2025-06-17,LLM,OpenAI,Login,Service Unavailable errors when logging in,https://status.openai.com,72h after NASA on 2025-06-14
+2025-06-16,LLM,OpenAI,o3-pro API,Rate limit errors,https://status.openai.com,72h after NOAA on 2025-06-13
+2025-06-16,LLM,OpenAI,ChatGPT Conversations,Increased Errors,https://status.openai.com,72h after NOAA on 2025-06-13
+2025-06-16,LLM,OpenAI,ChatGPT,Increased Errors,https://status.openai.com,72h after NOAA on 2025-06-13
+2025-06-12,LLM,OpenAI,Login,Log in issues,https://status.openai.com,24h after NASA/SWPC on 2025-06-11
+2025-06-12,LLM,OpenAI,ChatGPT & API,Increased error rates on image generation,https://status.openai.com,24h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,ChatGPT & API,Increased error rates on image generation,https://status.openai.com,0h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,ChatGPT,Errors (Error in message stream),https://status.openai.com,0h after NASA/SWPC on 2025-06-11
+2025-06-11,LLM,OpenAI,Sign In with Apple,Issues with login method,https://status.openai.com,0h after NASA/SWPC on 2025-06-11
+2025-06-10,LLM,OpenAI,Multiple Services,Elevated error rates,https://status.openai.com,
+2025-06-10,LLM,OpenAI,Codex,Increased errors for tasks,https://status.openai.com,
+2025-06-10,LLM,OpenAI,Sora,Elevated error rates,https://status.openai.com,
+2025-06-09,LLM,OpenAI,ChatGPT Search,Degraded,https://status.openai.com,
+2025-06-06,LLM,OpenAI,omni-moderation-latest,Elevated error rates between 18:50-20:20 UTC,https://status.openai.com,
+2025-06-05,LLM,OpenAI,ChatGPT & API,Elevated error rate for file uploads,https://status.openai.com,
+2025-06-04,LLM,OpenAI,ChatGPT Windows Client,Not responding,https://status.openai.com,
+2025-06-03,LLM,OpenAI,Deep Research,Unable to access content from uploaded files,https://status.openai.com,72h after Geomagnetic_Storm on 2025-05-31
+2025-06-03,LLM,OpenAI,Compliance API,Data Delays,https://status.openai.com,72h after Geomagnetic_Storm on 2025-05-31
+2025-06-02,LLM,OpenAI,User Analytics,Exporting data from May not working,https://status.openai.com,48h after Geomagnetic_Storm on 2025-05-31
+2025-06-02,LLM,OpenAI,gpt-4.1-nano,Increased errors rates,https://status.openai.com,48h after Geomagnetic_Storm on 2025-05-31
+2025-05-30,LLM,OpenAI,ChatGPT,Usage cap errors,https://status.openai.com,
+2025-05-29,LLM,OpenAI,ChatGPT,Increased errors for conversations and connectors (8:34-8:47am PT),https://status.openai.com,
+2025-05-28,LLM,OpenAI,Codex Deep Research & ChatGPT Login,Increasing error rates,https://status.openai.com,72h after NASA on 2025-05-25
+2025-05-27,LLM,OpenAI,Codex,Unavailable,https://status.openai.com,48h after NASA on 2025-05-25
+2025-05-27,LLM,OpenAI,ChatGPT Pro & Team,Some customers unable to access subscription (May 22 9PM - May 26 11PM PST),https://status.openai.com,48h after NASA on 2025-05-25
+2025-05-26,LLM,OpenAI,Codex,Task and PR creation experiencing errors,https://status.openai.com,24h after NASA on 2025-05-25
+2025-05-23,LLM,OpenAI,Codex,Elevated error rates - GitHub API downtime,https://status.openai.com,
+2025-05-22,LLM,OpenAI,ChatGPT,Elevated error rates (1:22-1:30 PM PST),https://status.openai.com,
+2025-05-22,LLM,OpenAI,Multiple Services,Elevated error rates,https://status.openai.com,
+2025-05-21,LLM,OpenAI,Codex,High error rates for tasks,https://status.openai.com,
+2025-05-20,LLM,OpenAI,ChatGPT Login,Issue identified,https://status.openai.com,
+2025-05-20,LLM,OpenAI,ChatGPT,Increased errors for voice transcription,https://status.openai.com,
+2025-05-17,LLM,OpenAI,API,Issues with buying credits and updating limits,https://status.openai.com,72h after NASA on 2025-05-14
+2025-05-17,LLM,OpenAI,ChatGPT Search,Elevated failures and high latency,https://status.openai.com,72h after NASA on 2025-05-14
+2025-05-16,LLM,OpenAI,API Payment,Issues when adding or updating payment methods,https://status.openai.com,72h after NASA on 2025-05-13
+2025-05-15,LLM,OpenAI,Platform,Errors when accepting new invites,https://status.openai.com,48h after NASA on 2025-05-13
+2025-05-15,LLM,OpenAI,gpt-image-1 API,Image Generation API Errors (17:10-17:50 UTC May 14),https://status.openai.com,48h after NASA on 2025-05-13
+2025-05-12,LLM,OpenAI,ChatGPT,Increased Error Rate,https://status.openai.com,
+2025-05-08,LLM,OpenAI,WhatsApp 1-800-CHATGPT,Partial outage,https://status.openai.com,
+2025-05-07,LLM,OpenAI,Files & Search,High errors,https://status.openai.com,
+2025-05-06,LLM,OpenAI,Multiple Services,Elevated error rates,https://status.openai.com,72h after Schumann on 2025-05-03
+2025-05-05,LLM,OpenAI,Data Analysis,Degraded Performance,https://status.openai.com,48h after Schumann on 2025-05-03
+2025-08-01,ACTofGOD,Solar,Solar Event,24-hour blackout period ended,,,SOURCE_EVENT
+2025-08-01,NETWORK,Global Internet Outage,1.5-hour duration,,,48h after Schumann on 2025-07-30
+2025-08-01,NETWORK,Global network outage,Duration: 1.5 hours,,,48h after Schumann on 2025-07-30
+2025-08-04,LLM,OpenAI, API & Image Generation Errors,High API Error Rates for o3; Errors in ChatGPT Image Generation,,,72h after Schumann on 2025-08-01
+2025-08-04,NETWORK,Outage,25-minute duration,,,72h after Schumann on 2025-08-01
+2025-08-04,NETWORK,Outage,Duration: 25 minutes,,,72h after Schumann on 2025-08-01
+2025-08-05,ACTofGOD,Schumann, Resonance Anomaly,Frequency <7.83 Hz,global Thetadelta frequencies no energy >25 Hz anomaly concluded,,SOURCE_EVENT
+2025-08-05,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,0h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-05,LLM,OpenAI,ChatGPT,Conversation Error,Elevated errors on ChatGPT conversations for paid users,0h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-05,LLM,OpenAI,ChatGPT,Conversation Errors (Paid Users),Elevated errors on ChatGPT conversations for paid users,0h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-05,LLM,OpenAI,ChatGPT,General Issues,We identified Issues on ChatGPT,0h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-06,ELECTRONICS,Government website glitch,Affected a Constitution website,,,24h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-06,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,24h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-06,LLM,OpenAI, ChatGPT,Elevated errors on conversations,,,24h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-06,LLM,OpenAI,502 Gateway Errors,,,24h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-07,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,48h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-07,LLM,OpenAI, Deep Research,Elevated error rates for free users,,,48h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-07,LLM,OpenAI, Platform-wide Issues,Multiple services affected,,,48h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-07,NETWORK,Other/Regional,Network failure (US/Mexico),Duration: 27 minutes,,,48h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-08,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,72h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-08,LLM,OpenAI,ChatGPT,4.5 Elevated Errors,Elevated errors on the ChatGPT 4.5 model,72h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-08,LLM,OpenAI,ChatGPT,Partial Search Outage,Search is Partially Down for ChatGPT Users,72h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-08,LLM,OpenAI Service Disruption,ChatGPT Search partially down; Elevated errors on the ChatGPT 4.5 model,,,72h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-08,LLM,OpenAI,GPT-5,Users encountering rate limit or model not found errors,,72h after Schumann Resonance Anomaly on 2025-08-05
+2025-08-09,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,
+2025-08-10,ACTofGOD,Schumann,Deep_Pulses <7.83 24 Global Theta/delta frequencies no energy >25 Hz,Extended low-frequency pulse event begins,,SOURCE_EVENT
+2025-08-10,LLM,Anthropic,Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,0h after Schumann on 2025-08-10
+2025-08-11,ACTofGOD,Schumann,Deep_Pulses_End <7.83,Lower frequency anomaly concluded,,SOURCE_EVENT
+2025-08-11,LLM,Anthropic,Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,24h after Schumann on 2025-08-10
+2025-08-11,LLM,OpenAI,ChatGPT,Partial Search Outage,Partial Search Outage for ChatGPT Users,24h after Schumann on 2025-08-10
+2025-08-11,LLM,OpenAI,Codex Task Failures,Increased failure rate for Codex tasks,,24h after Schumann on 2025-08-10
+2025-08-12,ELECTRONICS,PC/Mobile,Windows Update Failure,Update KB5063878 breaks recovery tools,,,48h after Schumann on 2025-08-10
+2025-08-12,LLM,Anthropic,Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,48h after Schumann on 2025-08-10
+2025-08-12,LLM,OpenAI,ChatGPT,Image Generation Errors,Image generation errors for free ChatGPT users,48h after Schumann on 2025-08-10
+2025-08-13,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,72h after Schumann on 2025-08-10
+2025-08-13,LLM,OpenAI,Compliance API,Increased Errors on Compliance API,,72h after Schumann on 2025-08-10
+2025-08-13,LLM,OpenAI,Image Generation,Increased Errors in Image Generation,,72h after Schumann on 2025-08-10
+2025-08-14,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,72h after Schumann on 2025-08-11
+2025-08-14,LLM,OpenAI, Codex Errors,Codex errors,,,72h after Schumann on 2025-08-11
+2025-08-14,LLM,OpenAI,Codex,Codex errors,,72h after Schumann on 2025-08-11
+2025-08-15,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 1),,,
+2025-08-15,LLM,OpenAI,ChatGPT,Connector Errors,ChatGPT connector errors,
+2025-08-15,LLM,OpenAI,ChatGPT Connectors,ChatGPT connector errors,,
+2025-08-15,LLM,OpenAI,ChatGPT,Increased errors in Chat Conversation,,
+2025-08-15,NETWORK,Other/Regional,Global ISP peak outage,Affecting 44 U.S. ISPs,,,
+2025-08-16,ACTofGOD,Schumann,High_Frequency_Spike 55 Tomsk Russia,Well above normal harmonics massive activity,,SOURCE_EVENT
+2025-08-16,LLM,Anthropic, Model Degradation,Model output quality issues,,,0h after Schumann on 2025-08-16
+2025-08-16,LLM,Apple, LLM reasoning paper reports glitches,Source: Reddit r/MachineLearning,,,0h after Schumann on 2025-08-16
+2025-08-17,LLM,Anthropic, Model Degradation,Model output quality issues,,,24h after Schumann on 2025-08-16
+2025-08-17,NETWORK,other/Regional,European BGP routing mishaps,Affected television services; Source: Kentik,,,24h after Schumann on 2025-08-16
+2025-08-18,LLM,Anthropic, Model Degradation,Model output quality issues,,,48h after Schumann on 2025-08-16
+2025-08-18,LLM,OpenAI,ChatGPT,Apple Login Errors,Errors logging into ChatGPT with Apple,48h after Schumann on 2025-08-16
+2025-08-18,LLM,OpenAI,GPTs,GPTs with custom actions stuck processing,,48h after Schumann on 2025-08-16
+2025-08-18,NETWORK,TP-Link, device tethering issues,Discussion during outages,Source: Reddit r/outages,,48h after Schumann on 2025-08-16
+2025-08-19,LLM,Anthropic, Model Degradation,Model output quality issues,,,72h after Schumann on 2025-08-16
+2025-08-19,LLM,OpenAI,Vector Stores,Elevated Errors for File Uploads to Vector Stores,,72h after Schumann on 2025-08-16
+2025-08-20,LLM,Anthropic, Model Degradation,Model output quality issues,,,
+2025-08-20,LLM,OpenAI,ChatGPT,Elevated Error Rate,ChatGPT elevated error rate,
+2025-08-20,LLM,OpenAI,ChatGPT,Subscription Loading Failure,Failed To Load Subscription Issue,
+2025-08-20,LLM,OpenAI,Help Center Login Down,Help Center login is down,,
+2025-08-20,LLM,OpenAI,ChatGPT,Conversation Errors,,
+2025-08-20,LLM,OpenAI,Sora,Elevated error rates and increased latency,,
+2025-08-21,LLM,Anthropic,Model Degradation,Model output quality issues,,
+2025-08-21,LLM,OpenAI,service issue,Details sparse,,
+2025-08-22,LLM,Anthropic,Model Degradation,Model output quality issues,,
+2025-08-22,LLM,OpenAI,API,Elevated API errors and latencies,,
+2025-08-23,ELECTRONICS,RC,RC aircraft,ESC failure,,,
+2025-08-23,LLM,Anthropic, Model Degradation,Model output quality issues,,,
+2025-08-23,LLM,OpenAI,ChatGPT Voice,Voice conversations dropping previous messages,,
+2025-08-24,LLM,Anthropic,Model Degradation,Model output quality issues,,
+2025-08-25,LLM,Anthropic,Model Degradation,Model output quality issues,,
+2025-08-25,LLM,OpenAI,ChatGPT,Voice Errors Elevated errors in ChatGPT Voice,,
+2025-08-26,LLM,Anthropi, Model Degradation,Model output quality issues,,,
+2025-08-26,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,
+2025-08-26,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,
+2025-08-26,LLM,Anthropic,Sustained quality degradation,Reported quality problems from Aug 26 to Sep 5,,
+2025-08-26,LLM,Google,Gemini 2.5 Pro overloaded,Overloaded during day/evening,,
+2025-08-26,LLM,OpenAI, API Error/Latency,Elevated Error and Latency for API,,,
+2025-08-26,LLM,OpenAI,API,Elevated Error and Latency for API,,
+2025-08-26,NETWORK,AWS,Major network outage,3+ hour outage,11000+ reports (Aug 26-27),,
+2025-08-27,LLM,Anthropic, Model Degradation,Model output quality issues,,,
+2025-08-27,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,
+2025-08-27,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,
+2025-08-27,LLM,OpenAI,ChatGPT,Search Failure Search in ChatGPT failing for some free users,,
+2025-08-28,ELECTRONICS,RC,RC forum complaints, (BEC/ESC failures),,,,
+2025-08-28,LLM,Anthropic, Model Degradation,Model output quality issues,,,
+2025-08-28,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,
+2025-08-28,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,
+2025-08-28,LLM,OpenAI, Login/Signup Errors,Increased login and signup errors,,,
+2025-08-28,NETWORK,OpenRouter, major outage,Affected chat & generation services,,,
+2025-08-29,LLM,Anthropic, Model Degradation,Model output quality issues,,,
+2025-08-29,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,
+2025-08-30,ACTofGOD,Solar,CME arrival / G1 geomagnetic storm,Storm effects noted to continue through 09-01,,,SOURCE_EVENT
+2025-08-30,LLM,Anthropic, Model Degradation,Model output quality issues,,,0h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-08-30,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,0h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-08-30,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,0h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-08-30,LLM,OpenAI,ChatGPT,Elevated errors on ChatGPT,,0h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-08-31,ACTofGOD,Solar,CME arrival / G1 geomagnetic storm,Storm effects noted to continue through09-01,,,SOURCE_EVENT
+2025-08-31,LLM,Anthropic, Model Degradation,Model output quality issues,,,24h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-08-31,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,24h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-08-31,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,24h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-01,ACTofGOD,Solar,CME arrival / G1 geomagnetic storm,Storm effects noted to continue through09-01,,,SOURCE_EVENT
+2025-09-01,ACTofGOD,Solar,Geomagnetic storm effects,Continuation of G1 storm from 2025-08-30 thru 09-01,,,SOURCE_EVENT
+2025-09-01,LLM,Anthropic, Model Degradation,Model output quality issues,,,48h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-01,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,48h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-01,LLM,Anthropic,Sustained LLM quality degradation,Ongoing quality issues reported,,48h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-01,LLM,OpenAI, ChatGPT,Elevated errors,,,48h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-02,ACTofGOD,Solar,Geomagnetic K-index 5,Alert,2048 UTC,,SOURCE_EVENT
+2025-09-02,ELECTRONICS,Starlink, User Terminal Glitches,Reports of intermittent connectivity and terminal reboots from users in high-latitude regions.,,,72h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-02,LLM,Anthropic, Model Degradation,Model output quality issues,,,72h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-02,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,72h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-02,LLM,Google,AI Studio / Gemini,API key requests may fail for some users,,72h after CME arrival / G1 geomagnetic storm on 2025-08-30
+2025-09-03,ACTofGOD,Solar,Geomagnetic,K-index 5 Alert,0301 UTC,,SOURCE_EVENT
+2025-09-03,LLM,Anthropic, elevated errors,Affected Claude Opus and Sonnet models,,,72h after CME arrival / G1 geomagnetic storm on 2025-08-31
+2025-09-03,LLM,Anthropic, Model Degradation,Model output quality issues,,,72h after CME arrival / G1 geomagnetic storm on 2025-08-31
+2025-09-03,LLM,Anthropic, Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,,72h after CME arrival / G1 geomagnetic storm on 2025-08-31
+2025-09-03,LLM,Google,AI Studio / Gemini,Billing bug charging 'Gemini 2.5 Flash Native Image Generation',,72h after CME arrival / G1 geomagnetic storm on 2025-08-31
+2025-09-03,LLM,OpenAI, ChatGPT,Not displaying responses,,,72h after CME arrival / G1 geomagnetic storm on 2025-08-31
+2025-09-03,NETWORK,Recurring,daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,,72h after CME arrival / G1 geomagnetic storm on 2025-08-31
+2025-09-04,ELECTRONICS,Product Malfunction,Defective power stations causing battery explosions,,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,ELECTRONICS,Product Malfunction,Tajarly insoles reported overheating,,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,ELECTRONICS,Software/Game Crash,Hollow Knight launch causes crashes on Steam,Xbox PlayStation Nintendo,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Anthropic,API/Connectors,Unable to connect to MCP (Connectors),,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Anthropic,Model Degradation,Model output quality issues,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Anthropic,Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Google Gemini chatbot outage,Part of wider Google services outage,,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Google,AI Studio / Gemini,ListModels requests fail for all users,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Google,AI Studio/Gemini UI,AI Studio may not load for some users,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,OpenAI,File API Error,Errors reported with File API,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,LLM,Regional Outage,EMEA region inaccessible,,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,NETWORK,Google services outage,Affected Search,Gmail Maps YouTube in EU,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-04,NETWORK,Recurring,daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,,72h after CME arrival / G1 geomagnetic storm on 2025-09-01
+2025-09-05,LLM,Anthropic,Claude Degraded Responses,Model providing degraded quality responses,,72h after Geomagnetic K-index 5 on 2025-09-02
+2025-09-05,LLM,Anthropic,Model Quality Degradation,Prolonged issue with model output quality (Issue Window 2),,72h after Geomagnetic K-index 5 on 2025-09-02
+2025-09-05,LLM,Anthropic,Claude Opus 4.1 messaging failures,Users unable to send messages,,72h after Geomagnetic K-index 5 on 2025-09-02
+2025-09-05,LLM,Google,AI Studio/Gemini API,API key requests may fail for some users,,72h after Geomagnetic K-index 5 on 2025-09-02
+2025-09-05,LLM,OpenAI Responses API Error,Increased error rates in Web Search tools,,,72h after Geomagnetic K-index 5 on 2025-09-02
+2025-09-05,NETWORK,Recurring,daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,,72h after Geomagnetic K-index 5 on 2025-09-02
+2025-09-06,ACTofGOD,Geomagnetic K-index 4,Alert,0241 UTC,,SOURCE_EVENT
+2025-09-06,ACTofGOD,Geomagnetic K-index 5,Alert,1645 UTC,,SOURCE_EVENT
+2025-09-06,NETWORK,Cloudflare DNS Outage,Partial outage affecting DNS resolution in North America and Europe.,,,72h after Geomagnetic on 2025-09-03
+2025-09-06,NETWORK,Recurring,daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,,72h after Geomagnetic on 2025-09-03
+2025-09-07,NETWORK,Recurring,daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,,24h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-08,ACTofGOD,Geomagnetic,K-index 4 Alert,0508 UTC,,SOURCE_EVENT
+2025-09-08,LLM,OpenAI API Latency Issues,Users reported elevated latency and 5xx errors,GPT-4 models across multiple regions,,48h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-08,NETWORK,Discord,"Service interruption: 'Guilds Unavailability' incident (Sep 8, 14:24 UTC), widespread accessibility and voice call problems","""recovery by 16:56 UTC.""",,48h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-08,NETWORK,Github & npm Supply Chain,"GhostAction hackers exfiltrated 3,325 secrets (API keys, tokens). npm maintainer account compromised","""malware injected; major disruption.""",,48h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-08,NETWORK,Recurring,daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,,48h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-09,ACTofGOD,Electron >2MeV Flux Alert,(>1000 pfu),1431 UTC,,SOURCE_EVENT
+2025-09-09,ACTofGOD,G2,geomagnetic storm,Alert,,SOURCE_EVENT
+2025-09-09,ACTofGOD,Geomagnetic,K-index 4 Alert,2202 UTC,,SOURCE_EVENT
+2025-09-09,ACTofGOD,Geomagnetic,K-index 5 Alert,23:18 UTC,,SOURCE_EVENT
+2025-09-09,ACTofGOD,Geomagnetic,K-index 6 Alert,23:28 UTC,,SOURCE_EVENT
+2025-09-09,LLM,Anthropic,Elevated Errors,Duration: 07:00 PM-08:02 PM,,72h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-09,LLM,OpenAI,ChatGPT,Agent Error,Elevated error rate,72h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-09,LLM,OpenAI,ChatGPT,Agent errors,,72h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-09,NETWORK,Iraq National Internet,"Nationwide government shutdown 6:00-8:00 AM local time, affecting all digital services and social platforms.",,,72h after Geomagnetic K-index 4 on 2025-09-06
+2025-09-10,ACTofGOD,Geomagnetic,K-index 4 Extended,05:46 UTC,,SOURCE_EVENT
+2025-09-10,ACTofGOD,Geomagnetic,K-index 5 Extended,05:46 UTC,,SOURCE_EVENT
+2025-09-10,LLM,Anthropic APIs & claude.ai down,Status updates: Identified,Monitoring,,48h after Geomagnetic on 2025-09-08
+2025-09-10,LLM,Google,Gemini,outage reports,,48h after Geomagnetic on 2025-09-08
+2025-09-10,LLM,OpenAI API Issues,Errors with Batch API,File Search not working across Responses and Assistance API,,48h after Geomagnetic on 2025-09-08
+2025-09-10,LLM,OpenAI,Batch API,errors,,48h after Geomagnetic on 2025-09-08
+2025-09-10,LLM,OpenAI,Batch API,Errors reported,,48h after Geomagnetic on 2025-09-08
+2025-09-10,LLM,OpenAI,File Search,broken,,48h after Geomagnetic on 2025-09-08
+2025-09-11,ACTofGOD,Geomagnetic K-index 4 Alert,02:51 UTC,,,SOURCE_EVENT
+2025-09-11,LLM,Anthropic,Claude Opus 4.1,elevated errors,,72h after Geomagnetic on 2025-09-08
+2025-09-11,LLM,Anthropic,General model errors and incidents,Event duration: 11-15,,72h after Geomagnetic on 2025-09-08
+2025-09-11,LLM,OpenAI,Service Disruption,Deep Research elevated errors; Fine-tuning jobs experiencing delays,,72h after Geomagnetic on 2025-09-08
+2025-09-11,LLM,OpenAI,Deep Research,degraded,,72h after Geomagnetic on 2025-09-08
+2025-09-11,LLM,OpenAI,Fine-tuning,delays,,72h after Geomagnetic on 2025-09-08
+2025-09-11,NETWORK,Facebook Ads,"Reports of ad performance failures for Facebook on Sep 9–11, coincident with backend outages confirmed by user activity.",,,72h after Geomagnetic on 2025-09-08
+2025-09-12,ACTofGOD,Schumann Eruption,Resonance bands surged to max intensity from 7.83 Hz upwards,major amplitude peak Power 71 at 04:00 UTC; high geomagnetic and ionospheric excitation due to solar influence,,SOURCE_EVENT
+2025-09-12,ACTofGOD,Schumann,03:00 Minimum_Values 7.83 1 Global,All frequencies drop to minimum,,SOURCE_EVENT
+2025-09-12,ACTofGOD,Schumann,04:00 Record_Peak 71 0-40+ 4 Global,Highest recorded power in modern era,,SOURCE_EVENT
+2025-09-12,ACTofGOD,Schumann,10:00 Second_Phase_Start 50 5 Global,Second intense phase,,SOURCE_EVENT
+2025-09-12,ACTofGOD,Schumann,15:00 Second_Phase_Peak 50,Peak of second phase,,SOURCE_EVENT
+2025-09-12,ELECTRONICS,RC helicopter failure,SAB Goblin one-way bearing (OW) failure,,,72h after Electron >2MeV Flux Alert on 2025-09-09
+2025-09-12,LLM,Anthropic,Claude Sonnet 3.7,elevated errors,,72h after Electron >2MeV Flux Alert on 2025-09-09
+2025-09-12,LLM,Anthropic,General model errors and incidents,Event duration: 11-15,,72h after Electron >2MeV Flux Alert on 2025-09-09
+2025-09-12,LLM,OpenAI,GPT-5 + Agent,double-reply bug,,72h after Electron >2MeV Flux Alert on 2025-09-09
+2025-09-12,LLM,OpenAI,Model & Agent Issues,Increased rate limit errors with GPT-4o; Agent tasks showing both GPT-5 and agent responses,,72h after Electron >2MeV Flux Alert on 2025-09-09
+2025-09-12,NETWORK,Cloudflare,dashboard/API outage,,,72h after Electron >2MeV Flux Alert on 2025-09-09
+2025-09-13,ACTofGOD,Electron Flux Alert,19:02 UTC,Alert: Electron 2MeV integral flux exceeded 1000 pfu,,SOURCE_EVENT
+2025-09-13,ACTofGOD,Schumann,00:00 Sustained_Activity 15-20 24 Global,24 hours continuous elevation,,SOURCE_EVENT
+2025-09-13,ELECTRONICS,RC helicopter failure,OMP M2 MK2,runaway head speed,,72h after Geomagnetic on 2025-09-10
+2025-09-13,LLM,Anthropic,General model errors and incidents,Event duration: 11-15,,72h after Geomagnetic on 2025-09-10
+2025-09-14,ACTofGOD,Electron Flux Alert,18:51 UTC,Continued alert: Electron 2MeV integral flux exceed,,SOURCE_EVENT
+2025-09-14,ACTofGOD,Geomagnetic,K-index 4 Alert,23:22 UTC,,SOURCE_EVENT
+2025-09-14,ACTofGOD,Geomagnetic,K-index 5 Alert,23:47 UTC,,SOURCE_EVENT
+2025-09-14,ACTofGOD,Geomagnetic_Storm,00:00 G3_Storm_Start 15-26 48+ Solar wind 600-760 km/s G3 Global,Strong geomagnetic storm,,SOURCE_EVENT
+2025-09-14,ACTofGOD,Schumann,00:00 Sustained_Activity 15-20 24 Global,,,SOURCE_EVENT
+2025-09-14,ACTofGOD,Schumann,Sustained_Activity 15-20 24 Global,24 hours continuous elevation ends,,SOURCE_EVENT
+2025-09-14,LLM,Anthropic,General model errors and incidents,Event duration: 11-15,,72h after Geomagnetic K-index 4 Alert on 2025-09-11
+2025-09-14,LLM,OpenAI,API Platform,Elevated error rates,,72h after Geomagnetic K-index 4 Alert on 2025-09-11
+2025-09-14,LLM,OpenAI,API,elevated errors,,72h after Geomagnetic K-index 4 Alert on 2025-09-11
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,02:10 UTC,Alert: Geomagnetic K-index of 6,,SOURCE_EVENT
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,02:59 UTC,Alert: Geomagnetic K-index of 7,,SOURCE_EVENT
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,03:32 UTC,Alert: Geomagnetic K-index of 5,,SOURCE_EVENT
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,08:06 UTC,Alert: Geomagnetic K-index of 5,,SOURCE_EVENT
+2025-09-15,ACTofGOD,Geomagnetic storm,G3 (Strong) storm ongoing,,,SOURCE_EVENT
+2025-09-15,ACTofGOD,Geomagnetic_Storm,02:59 G3_Storm_Peak 20-26 Solar wind 760 km/s G3 Global,Peak storm intensity,,SOURCE_EVENT
+2025-09-15,ELECTRONICS,PC/mobile,Multiple device anomalies,PC shutdowns iPhone glitches,,72h after Schumann Eruption on 2025-09-12
+2025-09-15,LLM,Anthropic,Claude,Opus 4.1 elevated errors,Occurred overnight,72h after Schumann Eruption on 2025-09-12
+2025-09-15,LLM,Anthropic,General model errors and incidents,Event duration: 11-15,,72h after Schumann Eruption on 2025-09-12
+2025-09-15,LLM,Google,Gemin,i image-gen bug,Defaults to square aspect ratio,72h after Schumann Eruption on 2025-09-12
+2025-09-15,LLM,Mistral,service degradation,Includes OCR API downtime,,72h after Schumann Eruption on 2025-09-12
+2025-09-15,LLM,OpenAI.,file_search,Impact in retrieval quality,,72h after Schumann Eruption on 2025-09-12
+2025-09-15,NETWORK,Reddit,outage,U.S. region,,72h after Schumann Eruption on 2025-09-12
+2025-09-15,NETWORK,Starlink,outage,Affected ~43000 users,,72h after Schumann Eruption on 2025-09-12
+2025-09-15,NETWORK,UniFi,network anomalies,Reported network loops,,72h after Schumann Eruption on 2025-09-12
+2025-09-16,ACTofGOD,Geomagnetic_storm,G3 (Strong),storm continues,,SOURCE_EVENT
+2025-09-16,ELECTRONICS,RC,helicopter GPS anomaly,Phantom home points reported,,72h after Electron Flux Alert on 2025-09-13
+2025-09-16,LLM,OpenAI,GPT Store,errors,,72h after Electron Flux Alert on 2025-09-13
+2025-09-16,LLM,OpenAI,Login Error,Elevated errors with SSO login,,72h after Electron Flux Alert on 2025-09-13
+2025-09-16,LLM,OpenAI,SSO Login Errors,Users reported issues with Single Sign-On functionality,,72h after Electron Flux Alert on 2025-09-13
+2025-09-17,LLM,OpenAI Service Disruption,Errors for Conversations with Images for Free Users; Elevated errors in GPT Store,,,72h after Electron Flux Alert on 2025-09-14
+2025-09-25,ACTofGOD,Schumann Extreme,"Prolonged amplitude activity; maxima Power 61 at 20:30 UTC, with frequencies remaining below base for extended period",,,SOURCE_EVENT
+2025-09-25,NETWORK,Hotwire,Major outage resulting in HTTP 504/503 errors; gateway and server strain for travelers in US and Canada.,,,0h after Schumann Extreme on 2025-09-25
+2025-09-28,ACTofGOD,Schumann High,"Intense activity phase with amplitude peak Power 55 at 21:00 UTC; sustained amplitude between Power 13-30 overnight, driven by low-frequency band drop",,,SOURCE_EVENT
+2025-09-28,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann Extreme on 2025-09-25
+2025-09-28,NETWORK,Facebook/Instagram,"Global outage: Over 300,000 reports for Facebook, >20,000 for Instagram; login issues, feeds failing to refresh, services affected in several countries.",,,72h after Schumann Extreme on 2025-09-25
+2025-09-29,ACTofGOD,Schumann High,"Intense activity phase with amplitude peak Power 55 at 21:00 UTC; amplitude between Power 13-30, driven by low-frequency band drop",,,SOURCE_EVENT
+2025-09-29,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,24h after Schumann High on 2025-09-28
+2025-09-30,ACTofGOD,Geomagnetic Storm,"G3 (Strong) geomagnetic storming expected due to CME influences, warnings issued for multiple sectors; storm through 30/1200 UTC",,,SOURCE_EVENT
+2025-09-30,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,48h after Schumann High on 2025-09-28
+2025-10-01,ACTofGOD,Geomagnetic Storm,G3 Storm Peak,Kp index reached 7 (G3 level),,SOURCE_EVENT
+2025-10-01,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation,,72h after Schumann High on 2025-09-28
+2025-10-01,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann High on 2025-09-28
+2025-10-02,ACTofGOD,Geomagnetic Storm,G3 Storm Continuation,Kp 6.67 at 03-06 UTC (G3 level),,SOURCE_EVENT
+2025-10-02,LLM,Anthropic,Connectors Unhealthy,Users unable to connect to Claude.ai Connectors/MCP investigating started 16:47 UTC,,72h after Schumann High on 2025-09-29
+2025-10-02,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann High on 2025-09-29
+2025-10-02,LLM,OpenAI,Android,Signup Errors Increased errors on Google signup for Android users,,72h after Schumann High on 2025-09-29
+2025-10-02,LLM,OpenAI,Login Issues,Users cannot login or create new accounts,,72h after Schumann High on 2025-09-29
+2025-10-03,ACTofGOD,Geomagnetic Activity,G1 Storms Continue,Minor geomagnetic storming expected to persist Kp 4.33-4.67,,SOURCE_EVENT
+2025-10-03,LLM,Anthropic,Complete Platform Outage,Claude.ai web interface down starting 01:26 UTC,,72h after Geomagnetic Storm on 2025-09-30
+2025-10-03,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Geomagnetic Storm on 2025-09-30
+2025-10-03,NETWORK,Discord,"Discord data breach made public between Oct 3–6; attacker infiltrated third-party support (Zendesk), compromising user tickets/data. Incident traced to Sep 20.,, 2025-10-04,LLM,Mistral,Mistral AI,Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked Full"" with very few chats and no files Complaints ran from September 28 to October 14",,,72h after Geomagnetic Storm on 2025-09-30
+2025-10-05,ACTofGOD,Schumann Storm,"Prolonged activity climaxed just before 20:00 UTC with Power 36; formation period concluded after 18 hours, frequencies low and amplitude regularly above Power 20-21""",,,SOURCE_EVENT
+2025-10-05,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Geomagnetic Storm on 2025-10-02
+2025-10-06,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Geomagnetic Activity on 2025-10-03
+2025-10-06,LLM,OpenAI,ChatGPT,App crashes and unusable on iOS Six+ users on Reddit (r/ChatGPTPro) reported the app crashing instantly on launch and after responses with failed reinstall attempts spanning several days. Comments indicate widespread impact,,72h after Geomagnetic Activity on 2025-10-03
+2025-10-07,ACTofGOD,Schumann,Full Whiteout,Chart maxed out; likely sensor saturation or elevated lightning activity,,SOURCE_EVENT
+2025-10-07,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,48h after Schumann Storm on 2025-10-05
+2025-10-07,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,48h after Schumann Storm on 2025-10-05
+2025-10-08,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,72h after Schumann Storm on 2025-10-05
+2025-10-08,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,72h after Schumann Storm on 2025-10-05
+2025-10-08,LLM,Google,Multiple Batch API Outages,Multiple outages reported for Gemini Batch API throughout the day,,72h after Schumann Storm on 2025-10-05
+2025-10-08,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann Storm on 2025-10-05
+2025-10-08,LLM,OpenAI,Service Degradation,General service degradation affecting multiple components,,72h after Schumann Storm on 2025-10-05
+2025-10-08,NETWORK,Microsoft,Elevated packet loss between networks caused disruptions for Microsoft 365 and Teams; incident lasted 37 minutes.,,,72h after Schumann Storm on 2025-10-05
+2025-10-09,ACTofGOD,Schumann,"Morning amplitude peak Power 30 and Power 24 around 07:30-10:00 UTC, corresponding to K-index increase; geomagnetic instability and resonance amplification""",,,SOURCE_EVENT
+2025-10-09,LLM,Anthropic,Elevated errors - claude.ai,Elevated errors on claude.ai,,48h after Schumann on 2025-10-07
+2025-10-09,LLM,Google,API Outages,Google AI Studio Realtime and Gemini Live API affected by outage,,48h after Schumann on 2025-10-07
+2025-10-09,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,48h after Schumann on 2025-10-07
+2025-10-09,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,48h after Schumann on 2025-10-07
+2025-10-09,LLM,OpenAI,Assistants API Issues,Assistants API experiencing issues,,48h after Schumann on 2025-10-07
+2025-10-09,NETWORK,Cybersecurity/Ransomware,"Multiple ransomware and supply chain attacks affected major enterprises: Jaguar Land Rover, Stellantis, Bridgestone, Harrods, Finwise Systems.",,,48h after Schumann on 2025-10-07
+2025-10-09,NETWORK,Meta (Facebook/Instagram/WhatsApp),"Continued outages, instability and ad performance problems for Meta platforms, with users reporting inaccessible features and errors during platform updates. Extended impact until Oct 17.",,,48h after Schumann on 2025-10-07
+2025-10-10,LLM,Anthropic,claude.ai errors,status.anthropic.com,Issue identified at 21:23 UTC on Oct 9,72h after Schumann on 2025-10-07
+2025-10-10,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,72h after Schumann on 2025-10-07
+2025-10-10,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann on 2025-10-07
+2025-10-10,LLM,OpenAI,Connector Errors,Elevated error rates for Gmail and Google Calendar connectors,,72h after Schumann on 2025-10-07
+2025-10-10,LLM,OpenAI,Responses API Outage,Partial outage of Responses API,,72h after Schumann on 2025-10-07
+2025-10-11,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,48h after Schumann on 2025-10-09
+2025-10-11,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,48h after Schumann on 2025-10-09
+2025-10-11,LLM,OpenAI,Chat Function Broken,Temporary chat not functioning on web interface,,48h after Schumann on 2025-10-09
+2025-10-11,LLM,OpenAI,SDK Dev Mode Outage,Apps SDK Dev Mode experiencing partial outage,,48h after Schumann on 2025-10-09
+2025-10-12,ACTofGOD,Schumann,Vertical Blackout,Sudden data loss or frequency drop,,SOURCE_EVENT
+2025-10-12,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,72h after Schumann on 2025-10-09
+2025-10-12,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann on 2025-10-09
+2025-10-13,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,24h after Schumann on 2025-10-12
+2025-10-13,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,24h after Schumann on 2025-10-12
+2025-10-13,LLM,Meta,Meta-Llama,Multi-platform failure and API bugs GitHub issues highlighted compile errors on Android 15 OpenBLAS path detection failures RAM/VRAM transfer limitations and various inference and GPU bugs,,24h after Schumann on 2025-10-12
+2025-10-13,LLM,Meta,Meta-Llama,reports of output malformation with certain endpoints across multiple users​,,24h after Schumann on 2025-10-12
+2025-10-13,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,24h after Schumann on 2025-10-12
+2025-10-13,LLM,OpenAI,Fine-Tuning Delays,Delays with Supervised Fine-Tuning jobs,,24h after Schumann on 2025-10-12
+2025-10-14,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,48h after Schumann on 2025-10-12
+2025-10-14,LLM,Google,Multiple Issues,High failure rates in Gemini apps/APIs with 500 error messages reported by users on Downdetector; leaked internal documents about Gemini 3.0 revealed on social media; users reporting unreliability and poor memory in Gemini 2.5 models,,48h after Schumann on 2025-10-12
+2025-10-14,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,48h after Schumann on 2025-10-12
+2025-10-14,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,48h after Schumann on 2025-10-12
+2025-10-14,LLM,OpenAI,Model Error Rates,Elevated error rates in gpt-5-mini model,,48h after Schumann on 2025-10-12
+2025-10-15,ACTofGOD,Schumann & Solar Flare,"Frequencies dropped after Class M4.8 solar flare, resulting in amplitude Power 20 at 08:00 UTC; high geomagnetic and auroral activity forecast for weekend",,,SOURCE_EVENT
+2025-10-15,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,72h after Schumann on 2025-10-12
+2025-10-15,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,72h after Schumann on 2025-10-12
+2025-10-16,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,24h after Schumann & Solar Flare on 2025-10-15
+2025-10-17,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,48h after Schumann & Solar Flare on 2025-10-15
+2025-10-18,ACTofGOD,Schumann Intensified,"Significant geomagnetic activity coinciding with RS amplitude peaks Power 23 at 13:30, and Power 35 at 16:00 UTC",,,SOURCE_EVENT
+2025-10-18,ACTofGOD,Solar,10 × M-class flares (max M1.5),G1 (Kp 5) storm >600 km/s CME remnants; moderate radio blackouts,,SOURCE_EVENT
+2025-10-18,ACTofGOD,Solar,G1-G2 Geomagnetic Storm,G1 minor to G2 moderate geomagnetic storm. Kp reached 6 at 18 UTC. CME from Oct 15 plus coronal hole effects earthsky.org/NOAA SWPC Visible auroras in Iceland and Greenland,,SOURCE_EVENT
+2025-10-18,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,72h after Schumann & Solar Flare on 2025-10-15
+2025-10-18,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,72h after Schumann & Solar Flare on 2025-10-15
+2025-10-18,LLM,Suno,Outage,Outage and degraded performance Suno Status,,72h after Schumann & Solar Flare on 2025-10-15
+2025-10-19,ACTofGOD,Solar,10 × M-class flares (max M1.5),G1 (Kp 5) storm >600 km/s CME remnants; moderate radio blackouts,,SOURCE_EVENT
+2025-10-19,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,24h after Schumann Intensified on 2025-10-18
+2025-10-20,ACTofGOD,Solar,1 × M1 flare,Unsettled (Kp 3–4) ~500 km/s AR4246 rotating off limb,,SOURCE_EVENT
+2025-10-20,LLM,Anthropic,Claude.ai unavailable,Claude.ai completely unavailable due to faulty edge proxy deployment. at 18:12 UTC status.anthropic.com,Solar: Kp 2-3. Faulty deployment rolled back. ~48hrs after G2 storm,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,ept AI,AWS us-east-1 outage - continues,AWS us-east-1 outage continues affecting ept AI services. at 13:17 PDT status.ept.ai Solar: Kp 2-3 unsettled. 48hrs after G2 storm peak,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,ept AI,AWS us-east-1 outage,ept AI services showing degraded performance due to AWS outage. at 11:32 PDT status.ept.ai Solar: Kp 2-3. Post-storm period,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,ept AI,Generator down,Generator down due to LLM provider outage and AWS service degradations. at 02:58 PDT status.ept.ai Solar: Kp 2-3. LLM API provider issue. ~36hrs after G2 storm,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,ept AI,Websocket outage,Complete websocket outage due to underlying AWS service outage. at 03:03 PDT status.ept.ai Solar: Kp 2-3. AWS-related,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,OpenAI,ChatGPT subscription issues,Issue with purchasing new subscriptions and updating/cancelling existing subscriptions for ChatGPT on Android/iOS OpenAI Status,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,OpenAI,Single Sign On (SSO) login issues,All impacted services have now fully recovered. Occurred at 3:10 AM OpenAI Status,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,LLM,xAI,Grok degraded performance,Degraded performance on reasoning models due to AWS outage xAI Status,,48h after Schumann Intensified on 2025-10-18
+2025-10-20,NETWORK,AWS,"Global AWS cloud outage: services like Fortnite, Snapchat, Robinhood, Delta Airlines affected. DynamoDB API failure US-EAST-1.",,,48h after Schumann Intensified on 2025-10-18
+2025-10-21,ACTofGOD,Solar,C-class only,Quiet-to-active 450–550 km/s Solar wind returning to normal,,SOURCE_EVENT
+2025-10-21,LLM,Anthropic,Opus 4.1 errors,Elevated errors on Claude Opus 4.1 Anthropic Status,,72h after Schumann Intensified on 2025-10-18
+2025-10-21,LLM,Google,File API,File API document processing outage Google Status,,72h after Schumann Intensified on 2025-10-18
+2025-10-21,LLM,OpenAI,ChatGPT errors,Increased error rates on ChatGPT 8:23 AM OpenAI Status,,72h after Schumann Intensified on 2025-10-18
+2025-10-21,LLM,OpenAI,Dashboard response logs,Response logs experiencing an elevated error rate 5:13 PM OpenAI Status,,72h after Schumann Intensified on 2025-10-18
+2025-10-22,ACTofGOD,Schumann Oscillation,Primary Frequency dropped to 7.32 Hz,"""amplitude peaked Power 22 at 1:00 UTC","quick recovery to minimums by 4:00""",SOURCE_EVENT
+2025-10-22,LLM,Anthropic,Connectors & MCP,Elevated errors using Claude.ai connectors API server tools and API MCP Connectors Anthropic Status,,72h after Solar on 2025-10-19
+2025-10-22,LLM,Google,AI Studio,YouTube handling outage Google Status,,72h after Solar on 2025-10-19
+2025-10-22,LLM,OpenAI,503 errors,Elevated 503 errors when using GPT-4.1-Nano model 4:37 PM All impacted services have now fully recovered OpenAI Status,,72h after Solar on 2025-10-19
+2025-10-22,LLM,Suno,Outage,Outage preceded by degraded performance,,72h after Solar on 2025-10-19
+2025-10-23,ACTofGOD,Solar,No major flares,Quiet (Kp 2–3) 400–450 km/s Farside blast → radiation storm,,SOURCE_EVENT
+2025-10-23,LLM,Anthropic,Claude outage,Claude unavailable for several hours Solar: Kp 1-2 QUIET. ~96hrs after G2 storm. Lagging effect?,,72h after Solar on 2025-10-20
+2025-10-23,LLM,Anthropic,File uploads,File upload broken Anthropic Status,,72h after Solar on 2025-10-20
+2025-10-23,LLM,Anthropic,Opus 4.1 errors,Elevated errors on Claude Opus 4.1 Anthropic Status,,72h after Solar on 2025-10-20
+2025-10-23,LLM,OpenAI,ChatGPT conversations,Increased errors on ChatGPT conversations 9:29 AM OpenAI Status,,72h after Solar on 2025-10-20
+2025-10-23,LLM,OpenAI,Company knowledge,Issues with Company knowledge 1:01 PM OpenAI Status,,72h after Solar on 2025-10-20
+2025-10-23,LLM,OpenAI,Video gen endpoints,/v1/video gen endpoints high error rate 9:47pm OpenAI Status,,72h after Solar on 2025-10-20
+2025-10-23,LLM,xAI,Grok slow,Slow to respond User report,,72h after Solar on 2025-10-20
+2025-10-23,NETWORK,AWS,"Ongoing fallout: cloud and DNS problems for businesses and public sector, propagated by previous outage.",,,72h after Solar on 2025-10-20
+2025-10-23,NETWORK,Discord,Possible outage,Discord reported as not working by users but no official reports made,,72h after Solar on 2025-10-20
+2025-10-24,ACTofGOD,Solar,Quiet conditions,Quiet (Kp 1–2) 380–420 km/s Calm conditions,,SOURCE_EVENT
+2025-10-24,LLM,OpenAI,WebSearch errors,Elevated Error rates for websearch OpenAI Status,,72h after Solar on 2025-10-21
+2025-10-24,LLM,Suno,Technical issue,"Error ""A technical issue is affecting everyone right now—it's not just you! Song creation will be back soon. Keep listening in the meantime!"" Suno Status",,72h after Solar on 2025-10-21
+2025-10-24,LLM,xAI,Grok slow,Still slow to respond User report,,72h after Solar on 2025-10-21
+2025-10-25,ACTofGOD,Schumann Drop,"Stability interrupted, Primary Frequency minimum values","amplitude peak Power 27 at 11:30 UTC, recovery after 13:00",,SOURCE_EVENT
+2025-10-25,NETWORK,Global Internet,ThousandEyes/Catchpoint timeline: several global outage/incident analyses published; guidance on resilience/downtime.,,,72h after Schumann Oscillation on 2025-10-22
+2025-10-26,ACTofGOD,Schumann Blackout,"Blackout started at 20:30 UTC, lasted close to 22 hours","""likely to end after 31 hours; all values at minimum""",,SOURCE_EVENT
+2025-10-31,CORPORATE,Anthropic,"Relabeled ""legacy brainstorming model"" to ""deep brainstorming model""",claude.ai,,
+2025-11-02,ACTofGOD,Solar_Flare,M1.0 Solar Flare detected,Peak flux: 1.0368478797317948e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
+2025-11-02,ACTofGOD,Solar_Flare,M1.1 Solar Flare detected,Peak flux: 1.0769387699838262e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
+2025-11-02,ACTofGOD,Solar_Flare,M1.1 Solar Flare detected,Peak flux: 1.071541009878274e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
+2025-11-02,ACTofGOD,Solar_Flare,M1.0 Solar Flare detected,Peak flux: 1.0477395335328765e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
+2025-11-02,ACTofGOD,Solar_Flare,M1.0 Solar Flare detected,Peak flux: 1.0036142157332506e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux
+2025-11-02,LLM,OpenAI,Elevated errors for Moderation API. Investigation and resolution.,K-index quiet,solar flares in past 24h,https://status.openai.com/incidents
