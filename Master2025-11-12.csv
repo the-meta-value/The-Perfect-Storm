@@ -654,7 +654,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-10-14,LLM,Mistral,Mistral AI,"Unclear usage/project limits and support refusals Reddit and Discord users described free-tier projects marked ""Full"" with very few chats and no files Complaints ran from September 28 to October 14",,,
 2025-10-14,LLM,OpenAI,Model Error Rates,Elevated error rates in gpt-5-mini model,,,
 2025-10-15,ACTofGOD,SOLAR,Schumann,"Frequencies dropped after Class M4.8 solar flare, resulting in amplitude Power 20 at 08:00 UTC; high geomagnetic and auroral activity forecast for weekend",,,SOURCE_EVENT
-2025-10-15,ACTofGOD,Solar, Flare, high geomagnetic and auroral activity forecast for weekend",,SOURCE_EVENT
+2025-10-15,ACTofGOD,SOLAR,Flare,"high geomagnetic and auroral activity forecast for weekend",,SOURCE_EVENT
 2025-10-15,LLM,Google,Gemini 2.5 Pro,Hallucinations and major response degradation especially paying subscribers noted the model inventing events ignoring referenced documents timing out on 50%+ of requests loss of citation functionality and quality dropping so much that users canceled subscriptions and switched models. Consensus was degraded quality began late September/early October and continued for more than a week.​,,,
 2025-10-15,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,,
 2025-10-16,LLM,Meta,Meta-Llama,Inference crash and VRAM load bug multiple GitHub issues and the weekly report (Oct 13-20) flagged repeated crashes during LoRA inference,,,
@@ -784,5 +784,6 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-11,LLM,Anthropic,Elevated error rates on Claude.ai. Investigation and monitoring ongoing.,K-index quiet. Solar flares in past 24h may be coincidental.,https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Anthropic,Elevated errors on Claude.ai. Investigating downtime,root cause unknown. Incident resolved Investigating - We are currently investigating reports of claude.ai experiencing downtime. Our team is actively working to identify the root cause.",https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Google,Gemini API,"Gemini API Logs may not appear for some users. Investigation is underway.",https://aistudio.google.com/status,"Solar flares on Nov 9-10"
+
 
 
