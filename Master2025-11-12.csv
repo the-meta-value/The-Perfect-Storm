@@ -703,7 +703,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-10-24,LLM,Suno,Technical issue,"Error ""A technical issue is affecting everyone right now—it's not just you! Song creation will be back soon. Keep listening in the meantime!"" Suno Status",,72h after Solar on 2025-10-21
 2025-10-24,LLM,xAI,Grok slow,Still slow to respond User report,,72h after Solar on 2025-10-21
 2025-10-25,NETWORK,ISP,Global Internet,ThousandEyes/Catchpoint timeline: several global outage/incident analyses published; guidance on resilience/downtime.,,,,,
-2025-10-29,LLM,Microsoft, Azure "Microsoft Azure: Azure Front Door - Connectivity issues - Observing recovery [unknown, unknown impact]",Status: unknown | Impact: unknown | K-index: 4.0 | Storm: Unsettled,https://status.azure.com/en-us/status/
+2025-10-29,NETWORK,Microsoft,Azure,"Microsoft Azure: Azure Front Door - Connectivity issues",https://status.azure.com/en-us/status,K-index: 4.0 | Storm: Unsettled
 2025-10-29,LLM,OpenAI,"OpenAI: Some users cannot activate connectors that are enabled for their workspace [resolved, minor impact]",Status: resolved | Impact: minor | K-index: 4.0 | Storm: Unsettled,https://status.openai.com
 2025-10-28,LLM,OpenAI,"OpenAI: Members Page in Admin Settings of ChatGPT not loading [resolved, none impact]",Status: resolved | Impact: none | K-index: 4.0 | Storm: Unsettled,https://status.openai.com,
 2025-10-28,LLM,OpenAI,"OpenAI: Increased API latency and error rates [resolved, major impact]",Status: resolved | Impact: major | K-index: 4.0 | Storm: Unsettled,https://status.openai.com,
@@ -784,6 +784,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-11,LLM,Anthropic,Elevated error rates on Claude.ai. Investigation and monitoring ongoing.,K-index quiet. Solar flares in past 24h may be coincidental.,https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Anthropic,Elevated errors on Claude.ai. Investigating downtime,root cause unknown. Incident resolved Investigating - We are currently investigating reports of claude.ai experiencing downtime. Our team is actively working to identify the root cause.",https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Google,Gemini API,"Gemini API Logs may not appear for some users. Investigation is underway.",https://aistudio.google.com/status,"Solar flares on Nov 9-10"
+
 
 
 
