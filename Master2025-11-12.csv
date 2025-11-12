@@ -585,7 +585,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-09-15,LLM,Google,Gemin,i image-gen bug,Defaults to square aspect ratio,72h after solar event on 2025-09-12
 2025-09-15,LLM,Mistral,service degradation,Includes OCR API downtime,,72h after solar event on 2025-09-12
 2025-09-15,LLM,OpenAI,file_search,Impact in retrieval quality,,72h after solar event on 2025-09-12
-2025-09-15,NETWORK,Social,Reddit outage,U.S. region,,72h after solar event on 2025-09-12
+2025-09-15,NETWORK,Social,Reddit,"outage U.S. region",,72h after solar event on 2025-09-12
 2025-09-15,NETWORK,ISP,Starlink outage,Affected ~43000 users,,72h after solar event on 2025-09-12
 2025-09-15,NETWORK,ISP,UniFi network anomalies,Reported network loops,,72h after solar event on 2025-09-12
 2025-09-16,ACTofGOD,SOLAR,Geomagnetic Storm G3 (Strong),storm continues,,SOURCE_EVENT
@@ -784,3 +784,4 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-11,LLM,Anthropic,Elevated error rates on Claude.ai. Investigation and monitoring ongoing.,K-index quiet. Solar flares in past 24h may be coincidental.,https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Anthropic,Elevated errors on Claude.ai. Investigating downtime,root cause unknown. Incident resolved Investigating - We are currently investigating reports of claude.ai experiencing downtime. Our team is actively working to identify the root cause.",https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Google,Gemini API,"Gemini API Logs may not appear for some users. Investigation is underway.",https://aistudio.google.com/status,"Solar flares on Nov 9-10"
+
