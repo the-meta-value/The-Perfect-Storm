@@ -743,7 +743,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-02,ACTofGOD,SOLAR,FLARE,M1.1 Solar Flare detectedPeak flux: 1.071541009878274e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux,EVENT_SOURCE
 2025-11-02,ACTofGOD,SOLAR,FLARE,M1.0 Solar Flare detectedPeak flux: 1.0477395335328765e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux,EVENT_SOURCE
 2025-11-02,ACTofGOD,SOLAR,FLARE,M1.0 Solar Flare detectedPeak flux: 1.0036142157332506e-05,https://www.swpc.noaa.gov/products/goes-x-ray-flux,EVENT_SOURCE
-2025-11-02,LLM,OpenAI,"Elevated errors for Moderation API.," Investigation and resolution.,K-index quiet",,solar flares in past 24h Solar Flare on 11-02-2025
+2025-11-02,LLM,OpenAI,"Elevated errors for Moderation API Investigation and resolution",https://status.openai.com,solar flares in past 24h Solar Flare on 11-02-2025
 2025-11-04,LLM,OpenAI,Error rates on Platform Billing page,K-index 5.33 (G1_Minor) during incident,https://status.openai.com,Solar Flare on 11-02-2025
 2025-11-04,ACTofGOD,OpenAI,Login issues for current and new users,K-index 5.33 (G1_Minor) and recent solar flares may be correlated,https://status.openai.com,Solar Flare on 11-02/04-2025
 2025-11-04,ACTofGOD,SpaceWeather,Geomagnetic storm (K-index 5.33) and solar flares may correlate with degraded availability of Codex.,5 solar flares in 24h,https://status.openai.com,,Solar Flare on 11-02/04-2025
@@ -784,6 +784,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-11,LLM,Anthropic,Elevated error rates on Claude.ai. Investigation and monitoring ongoing.,K-index quiet. Solar flares in past 24h may be coincidental.,https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Anthropic,Elevated errors on Claude.ai. Investigating downtime,root cause unknown. Incident resolved Investigating - We are currently investigating reports of claude.ai experiencing downtime. Our team is actively working to identify the root cause.",https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Google,Gemini API,"Gemini API Logs may not appear for some users. Investigation is underway.",https://aistudio.google.com/status,"Solar flares on Nov 9-10"
+
 
 
 
