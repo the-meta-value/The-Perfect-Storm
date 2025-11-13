@@ -1,3 +1,5 @@
+# will fix excess commas soonish
+
 EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-01-01,ACTofGOD,SOLAR,STORM,KP REACHED 8 WITH G4 STORM,https://wdc.kugi.kyoto-u.ac.jp/cgi-bin/kp-cgi,EVENT_SOURCE
 2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,NO
@@ -791,6 +793,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-12,ACTofGOD,SOLAR,HIGH WINDS,586.05 km/s,https://www.spaceweatherlive.com/en/auroral-activity.html,EVENT_SOURCE
 2025-11-12,ACTofGOD,SOLAR,RADIATION STORM,S2 - Moderate solar radiation storm - Infrequent effects on HF radio through polar regions and satellite operations,https://www.spaceweatherlive.com/en/auroral-activity/magnetometers.html#DST_index,EVENT_SOURCE
 2025-11-12.LLM,OPENAI,API,Increased Latency in Vector stores API 12:21 AM All impacted services have now fully recovered,https://status.openai.com/incidents/01K9VA3N0N36710WAZHW0PR7H3,YES
+
 
 
 
