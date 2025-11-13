@@ -1,10 +1,10 @@
 EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-01-01,ACTofGOD,SOLAR,STORM,KP REACHED 8 WITH G4 STORM,https://wdc.kugi.kyoto-u.ac.jp/cgi-bin/kp-cgi,EVENT_SOURCE
-2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,
-2025-01-21,LLM,OpenAI,ChatGPT,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
-2025-01-21,LLM,Google,Gemini,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
+2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,NO
+2025-01-21,LLM,OpenAI,ChatGPT,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,NO
+2025-01-21,LLM,Google,Gemini,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,NO
 2025-01-22,LLM,Perplexity,API,API downtime incident, resolved quickly after identification.,https://status.perplexity.ai,
-2025-01-22,LLM,OpenAI,ChatGPT,Incident: Users experienced slow loading, '502 Bad Gateway' and '503 Service Temporarily Unavailable' errors. OpenAI acknowledged and was investigating.,Elevated error rates,,
+2025-01-22,LLM,OpenAI,ChatGPT,Incident: Users experienced slow loading '502 Bad Gateway' and '503 Service Temporarily Unavailable' errors. OpenAI acknowledged and was investigating,Elevated error rates,https://status.openai.com,
 2025-01-22,LLM,OpenAI,ChatGPT,Many users unable to access ChatGPT wesbite, platform returned error notifications and service was disrupted for several hours before restoration.,Sitewide Outage,https://status.openai.com,
 2025-01-22,LLM,OpenAI,Models,Storm-2139 bypassed Azure OpenAI safety guardrails. Global cybercrime group hijacked accounts—prompt jailbreaking and illicit outputs, resold access to modified generative AI services.,Guardrail bypass,safety weakness,
 2025-01-23,LLM,OpenAI,ChatGPT,OpenAI ChatGPT experienced elevated errors from 6:33 to 7:23 a.m. ET; additional interruptions and full recovery confirmed after 10 a.m. ET.,Service Disruption,
@@ -791,5 +791,6 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-12,ACTofGOD,SOLAR,HIGH WINDS,586.05 km/s,https://www.spaceweatherlive.com/en/auroral-activity.html,EVENT_SOURCE
 2025-11-12,ACTofGOD,SOLAR,RADIATION STORM,S2 - Moderate solar radiation storm - Infrequent effects on HF radio through polar regions and satellite operations,https://www.spaceweatherlive.com/en/auroral-activity/magnetometers.html#DST_index,EVENT_SOURCE
 2025-11-12.LLM,OPENAI,API,Increased Latency in Vector stores API 12:21 AM All impacted services have now fully recovered,https://status.openai.com/incidents/01K9VA3N0N36710WAZHW0PR7H3,YES
+
 
 
