@@ -51,7 +51,6 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-04-02,LLM,OpenAI,ChatGPT,Frustration over continual errors and degraded outputs; some users unable to get consistent or accurate answers from models during outages.,Unreliable results,24h after NOAA on 2025-04-01
 2025-04-03,LLM,OpenAI,ChatGPT,Third day of outages; further slowdowns and error messages. Users express frustration over delays in fixing issues.,Ongoing intermittent outage,48h after NOAA on 2025-04-01
 2025-04-04,LLM,OpenAI,Labs,"website not loading: users unable to access model playground. Outage resolved later that morning",Labs incident,https://status.openai.com/incidents/01JR0GY4J2NNFZE2XJAYV2MCM7,72h after NOAA on 2025-04-01
-2025-04-07,LLM,OpenAI,ChatGPT,"Study shows participants interacting with LLMs (ChatGPT) rate AI as less trustworthy less cooperative and driving decisions that decrease collective payoffs compared to humans."Trust and fairness deficit,HTTPS://STATUS.OPENAI.COM
 2025-04-08,NETWORK,CLOUD,Azure,"OpenAI East US region service unavailable for several hours; mitigation confirmed, services operational afterwards.",Regional API outage,
 2025-04-30,LLM,Anthropic,Claude 3.7 Sonnet,Elevated errors for Claude.ai free users,https://status.anthropic.com,
 2025-04-29,LLM,Anthropic,Claude 3.5 Sonnet (Oct) & 3.7 Sonnet,Elevated errors on requests,https://status.anthropic.com,
@@ -792,3 +791,4 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-12,ACTofGOD,SOLAR,HIGH WINDS,"586.05 km/s",https://www.spaceweatherlive.com/en/auroral-activity.html,EVENT_SOURCE
 2025-11-12,ACTofGOD,SOLAR,RADIATION STORM,"S2 - Moderate solar radiation storm - Infrequent effects on HF radio through polar regions and satellite operations",https://www.spaceweatherlive.com/en/auroral-activity/magnetometers.html#DST_index,EVENT_SOURCE
 2025-11-12.LLM,OPENAI,API,Increased Latency in Vector stores API 12:21 AM All impacted services have now fully recovered,https://status.openai.com/incidents/01K9VA3N0N36710WAZHW0PR7H3,YES
+
