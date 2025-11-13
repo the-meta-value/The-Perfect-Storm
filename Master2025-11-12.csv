@@ -8,17 +8,17 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-01-24,ACTofGOD,SOLAR,Minor geomagnetic storm conditions,Visible aurora at northern latitudes,https://space.com,EVENTT_SOURCE
 2025-01-25,ACTofGOD,SOLAR,Strong M8.65 solar flare from sunspot 4274,Marked elevated flare risk and enhanced solar wind velocity,https://www.spaceweatherlive.com,EVENTT_SOURCE
 2025-01-25,ACTofGOD,SOLAR,Moderate flaring with an M2.7-class solar flare,Increased short-term radio and geomagnetic disturbance risk,https://spaceweather.live,EVENTT_SOURCE
-2025-01-30,ACTofGOD,SOLAR,Large coronal hole facing Earth,High-speed solar wind and heightened aurora/geostorm probability,https://www.forbes.com,EVENTT_SOURCE
-2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,
-2025-01-21,LLM,OpenAI,ChatGPT,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
-2025-01-21,LLM,Google,Gemini,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,
-2025-01-22,LLM,Perplexity,API,"API downtime incident, resolved quickly after identification.",https://status.perplexity.ai,
-2025-01-22,LLM,OpenAI,ChatGPT,"Incident: Users experienced slow loading, '502 Bad Gateway' and '503 Service Temporarily Unavailable' errors. OpenAI acknowledged and was investigating Elevated error rates",https://status.openai.com,
-2025-01-22,LLM,OpenAI,Platform,"Many users unable to access ChatGPT wesbite, platform returned error notifications and service was disrupted for several hours before restoration.",https://status.openai.
-2025-01-22,LLM,OpenAI,Models,"Storm-2139 bypassed Azure OpenAI safety guardrails. Global cybercrime group hijacked accounts—prompt jailbreaking and illicit outputs, resold access to modified generative AI services.",Guardrail bypass,safety weakness,
-2025-01-23,LLM,OpenAI,ChatGPT,OpenAI ChatGPT experienced elevated errors from 6:33 to 7:23 a.m. ET; additional interruptions and full recovery confirmed after 10 a.m. ET.,Service Disruption,
-2025-01-29,LLM,Google,Gemini,"Gemini 1.5 Pro users experienced throttling issues, causing slowness and intermittent failures. Resolved by Feb 1, 2025.",Performance throttling,
-2025-01-31,LLM,OpenAI,"OpenAI Threat Intelligence Report: Model exploited for malicious purposes, including phishing, deepfake generation, scam campaigns. Mitigation steps deployed after feedback.",Malicious use,risk management,
+2025-01-30,ACTofGOD,SOLAR,Large coronal hole facing Earth,High-speed solar wind and heightened aurora/geostorm probability,https://www.forbes.com,EVENT_SOURCE
+2025-01-21,LLM,Anthropic,Claude,Some functionality was temporarily unavailable on Claude.ai for Android,https://status.claude.com/incidents/ln4ydqzd19hf,Solar event on the 21st
+2025-01-21,LLM,OpenAI,ChatGPT,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,,Solar event on the 21st
+2025-01-21,LLM,Google,Gemini,Users reported high hallucination rates and misinformation. ChatGPT found factually wrong in 33% of answers and Gemini causing 40–60% click‑through rate drops via AI Overviews.,Accuracy benchmark/statistical failures,,Solar event on the 21st
+2025-01-22,LLM,Perplexity,API,"API downtime incident, resolved quickly after identification.",https://status.perplexity.ai,,Solar event on the 21st
+2025-01-22,LLM,OpenAI,ChatGPT,"Incident: Users experienced slow loading, '502 Bad Gateway' and '503 Service Temporarily Unavailable' errors. OpenAI acknowledged and was investigating Elevated error rates",https://status.openai.com,,Solar event on the 21st
+2025-01-22,LLM,OpenAI,Platform,"Many users unable to access ChatGPT wesbite, platform returned error notifications and service was disrupted for several hours before restoration.",https://status.openai,,Solar event on the 21st
+2025-01-22,LLM,OpenAI,Models,"Storm-2139 bypassed Azure OpenAI safety guardrails. Global cybercrime group hijacked accounts—prompt jailbreaking and illicit outputs, resold access to modified generative AI services.",Guardrail bypass,safety weakness,,Solar event on the 21st
+2025-01-23,LLM,OpenAI,ChatGPT,OpenAI ChatGPT experienced elevated errors from 6:33 to 7:23 a.m. ET; additional interruptions and full recovery confirmed after 10 a.m. ET.,Service Disruption,,Solar event on the 21st
+2025-01-29,LLM,Google,Gemini,"Gemini 1.5 Pro users experienced throttling issues, causing slowness and intermittent failures. Resolved by Feb 1, 2025.",,Solar event on the 25th
+2025-01-31,LLM,OpenAI,"OpenAI Threat Intelligence Report: Model exploited for malicious purposes, including phishing, deepfake generation, scam campaigns. Mitigation steps deployed after feedback.",Malicious use,risk management,Solar event on the 30th
 2025-02-05,LLM,OpenAI,ChatGPT,"Catastrophic failure: Memory system for long-term context silently broke after backend update. Memory loss and project corruption affected many paying users, no rollback or warning available.",Memory failure,
 2025-02-07,LLM,DeepSeek,"Large-scale LLM jacking attack against DeepSeek: about 2 billion model tokens illegally used, user credentials targeted and stolen through inference API leaks.",Credential theft,model hijack,
 2025-02-10,LLM,Anthropic,"(Claude) ""Users reported Claude not responding due to high capacity constraints. Service interruptions lasted up to 15 minutes","with periodic elevated error rates.""",Partial service outage,
@@ -794,6 +794,7 @@ EVENT_DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 2025-11-11,LLM,Anthropic,Elevated error rates on Claude.ai. Investigation and monitoring ongoing.,K-index quiet. Solar flares in past 24h may be coincidental.,https://stspg.io/8lzmc169vrgw,"Solar flares on Nov 9-10"
 2025-11-11,LLM,Anthropic,platform,"Elevated errors on Claude.ai. Investigating downtime,root cause unknown. Incident resolved Investigating - We are currently investigating reports of claude.ai experiencing downtime. Our team is actively working to identify the root cause.",https://stspg.io/8lzmc169vrgw,Solar flares on Nov 9-10
 2025-11-11,LLM,Google,Gemini API,"Gemini API Logs may not appear for some users. Investigation is underway.",https://aistudio.google.com/status,"Solar flares on Nov 9-10"
+
 
 
 
