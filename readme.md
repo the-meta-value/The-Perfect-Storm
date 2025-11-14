@@ -32,4 +32,5 @@ Geomagnetic activity data
 
 Limitations
 Temporal bias (this is primarily 2025 data, but as we are entering a solar maxima that is predicted to last until around 2030, I plan to make this a longitudinal study)
+
 ⁘───────── ✧ ════════════•🌞•══════════════ ✧ ──────────⁘
