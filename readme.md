@@ -3,13 +3,12 @@
 sorry about the messy data
 
 # Project Overview
-## This project investigates 
-potential correlations between solar weather activity, geomagnetic phenomena, and anomalous behavior in AI systems and other technological infrastructure. What began as research into AI/LLM malfunction patterns has expanded to include broader incident tracking for comparison (networks, large social platforms, ISPs, clouds, that sort of thing)
+#### This project investigates potential correlations between solar weather activity, geomagnetic phenomena, and anomalous behavior in AI systems and other technological infrastructure. What began as research into AI/LLM malfunction patterns has expanded to include broader incident tracking for comparison (networks, large social platforms, ISPs, clouds, that sort of thing)
 
-Research Focus
+### Research Focus
 The primary research question: Do solar weather events and geomagnetic activity correlate with increased incidents of AI error and anomaly? And how does this ocompare to incidents recorded in other areas, like network failures and other technological disruptions?
 
-Data Collection
+#### Data Collection
 The project tracks incidents across the following categories:
 
 ACT OF GOD: Solar weather events, geomagnetic activity, solar storms, flares, solar weather events
@@ -20,17 +19,17 @@ NETWORK: Connectivity issues, ISP outages, infrastructure failures, social media
 
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
-Data Structure
+#### Data Structure
 Target CSV format: DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
 
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
-Data Sources
-AI platform status pages and community reports
-Solar weather monitoring services
-Geomagnetic activity data
+#### Data Sources  
+- AI platform status pages and community reports  
+- Solar weather monitoring services
+- Geomagnetic activity data
 
-Limitations
+Limitations  
 Temporal bias (this is primarily 2025 data, but as we are entering a solar maxima that is predicted to last until around 2030, I plan to make this a longitudinal study)
 
 ⁘───────── ✧ ════════════•🌞•══════════════ ✧ ──────────⁘
