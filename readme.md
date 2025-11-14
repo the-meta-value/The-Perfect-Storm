@@ -4,10 +4,10 @@ sorry about the messy data
 
 # Project Overview
 ## This project investigates 
-potential correlations between solar weather activity, geomagnetic phenomena, and anomalous behavior in AI systems and other technological infrastructure. What began as research into AI/LLM malfunction patterns has expanded to include broader incident tracking across multiple categories.
+potential correlations between solar weather activity, geomagnetic phenomena, and anomalous behavior in AI systems and other technological infrastructure. What began as research into AI/LLM malfunction patterns has expanded to include broader incident tracking for comparison (networks, large social platforms, ISPs, clouds, that sort of thing)
 
 Research Focus
-The primary research question: Do solar weather events and geomagnetic activity correlate with increased incidents of AI anomaly? And how does this ocompare to incidents recorded in other areas, like network failures, electronic malfunctions, huaman and animal behavior, and other technological or behavioral disruptions?
+The primary research question: Do solar weather events and geomagnetic activity correlate with increased incidents of AI error and anomaly? And how does this ocompare to incidents recorded in other areas, like network failures and other technological disruptions?
 
 Data Collection
 The project tracks incidents across the following categories:
