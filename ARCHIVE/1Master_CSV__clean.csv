@@ -1,0 +1,259 @@
+Event_Date,CATEGORY,SUBCATEGORY,MORE_INFO,ETC
+"2025-08-17","LLM","Unspecified LLM issue","Status: Resolved",""
+"2025-08-21","LLM","OpenAI service issue","Details sparse",""
+"2025-08-23","ELECTRONICS","RC aircraft ESC failure","",""
+"2025-08-24","VIOLENCE","Homicide investigation","Toronto, CA (Martha Eaton Way & Trethewey Dr)",""
+"2025-08-26","LLM","Google Gemini 2.5 Pro overloaded","Overloaded during day/evening",""
+"2025-08-28","ELECTRONICS","RC forum complaints (BEC/ESC failures)","",""
+"2025-08-28","NETWORK","OpenRouter major outage","Affected chat & generation services",""
+"2025-08-30","ACTofGOD","CME arrival / G1 geomagnetic storm","Storm effects noted to continue through 2025-09-01",""
+"2025-09-01","ACTofGOD","Geomagnetic storm effects","Continuation of G1 storm from 2025-08-30",""
+"2025-09-03","LLM","Anthropic elevated errors","Affected Claude Opus and Sonnet models",""
+"2025-09-04","LLM","Google Gemini chatbot outage","Part of wider Google services outage",""
+"2025-09-04","NETWORK","Google services outage","Affected Search, Gmail, Maps, YouTube in EU",""
+"2025-09-05","LLM","Anthropic Claude Opus 4.1 messaging failures","Users unable to send messages",""
+"2025-09-05","VIOLENCE","Homicide (shooting)","Langley, BC, CA (Taxi-related)",""
+"2025-09-07","VIOLENCE","Homicide investigation","Blue Mountains, NSW, AU (Body found in burning vehicle)",""
+"2025-09-07","VIOLENCE","Homicide (stabbing)","Cobblebank, VIC, AU (Two males fatally stabbed)",""
+"2025-09-07","VIOLENCE","Homicide (shooting)","Melbourne CBD, VIC, AU",""
+"2025-09-08","VIOLENCE","Murder investigation (double shooting)","Clapham, London, UK",""
+2025-09-09,ACTofGOD,G2 geomagnetic storm,,
+2025-09-09,LLM,OpenAI ChatGPT Agent errors,,
+2025-09-10,LLM,Anthropic APIs & claude.ai down,Status updates: Identified, Monitoring,
+2025-09-10,LLM,Google Gemini outage reports,,
+2025-09-10,LLM,OpenAI Batch API errors,,
+2025-09-10,LLM,OpenAI File Search broken,,
+2025-09-10,NETWORK,Azure East US 2 allocator incident,VM/service management degraded,
+2025-09-10,VIOLENCE,Fatal shooting,"Burnaby, BC (CA), IHIT investigating",
+2025-09-11,LLM,Anthropic Claude Opus 4.1 elevated errors,,
+2025-09-11,LLM,OpenAI Deep Research degraded,,
+2025-09-11,LLM,OpenAI Fine-tuning jobs delayed,,
+2025-09-12,ELECTRONICS,RC helicopter failure,"SAB Goblin, one-way bearing failure",
+2025-09-12,LLM,Anthropic Claude Sonnet 3.7 elevated errors,,
+2025-09-12,LLM,OpenAI GPT-5 + Agent double-reply bug,,
+2025-09-12,NETWORK,Cloudflare dashboard/API outage,,
+2025-09-13,ELECTRONICS,RC helicopter failure,"OMP M2 MK2, runaway head speed",
+2025-09-11,LLM,Anthropic Claude Opus 4.1 elevated errors,,
+2025-09-11,LLM,OpenAI Fine-tuning jobs delayed,,
+2025-09-12,ELECTRONICS,RC helicopter failure,SAB Goblin one-way bearing (OW) failure,
+2025-09-12,LLM,Anthropic Claude Sonnet 3.7 elevated errors,,
+2025-09-12,LLM,OpenAI GPT-5 bug,Agent double-reply bug,
+2025-09-12,NETWORK,Cloudflare outage,Dashboard and API outage,
+2025-09-12,VIOLENCE,Mass shooting,"Chicago, IL (S. Halsted)",
+2025-09-13,ELECTRONICS,RC helicopter failure,OMP M2 MK2 runaway head speed,
+2025-09-14,ACTofGOD,Geomagnetic storm,G3 (Strong) storm begins,
+2025-09-14,LLM,OpenAI API elevated errors,,
+2025-09-14,VIOLENCE,NYC CompStat weekly report,"Week ending 2025-09-14; murders, shootings, major crimes",
+2025-09-15,ACTofGOD,Geomagnetic storm,G3 (Strong) storm ongoing,
+2025-09-15,ELECTRONICS,Multiple device anomalies,"PC shutdowns; iPhone glitches",
+2025-09-15,LLM,Anthropic Claude Opus 4.1 elevated errors,Occurred overnight,
+2025-09-15,LLM,Google Gemini image-gen bug,Defaults to square aspect ratio,
+2025-09-15,LLM,Mistral service degradation,Includes OCR API downtime,
+2025-09-15,NETWORK,Reddit outage,U.S. region,
+2025-09-15,NETWORK,Starlink outage,"Affected ~43,000 users",
+2025-09-15,NETWORK,UniFi network anomalies,Reported network loops,
+2025-09-15,TRANSIT,Tesla hardware anomaly,Door handle malfunction,
+2025-09-15,VIOLENCE,Mass shooting,"Minneapolis, MN (near encampment)",
+2025-09-16,ACTofGOD,Geomagnetic storm,G3 (Strong) storm continues,
+2025-09-16,ELECTRONICS,Power brick failure,,
+2025-09-16,ELECTRONICS,RC helicopter GPS anomaly,Phantom home points reported,
+2025-09-16,LLM,OpenAI GPT Store errors,,
+2025-09-16,VIOLENCE,Mass shooting,"Minneapolis, MN (second incident near encampment)",
+2025-09-16,LLM,OpenAI SSO Login Errors,Users reported issues with Single Sign-On functionality,
+2025-09-17,VIOLENCE,Stabbing Incident,"Grafton, NSW (AU): Man dies after stabbing",
+2025-09-18,VIOLENCE,Stabbing Incident,"NSW (AU): Double stabbing at rail station",
+2025-08-26,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-08-27,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-08-28,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",
+2025-08-29,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-08-30,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-08-31,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",
+2025-09-01,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-09-02,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-09-03,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",
+2025-09-04,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-09-05,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 2)",2025-08-05,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",
+2025-08-06,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-07,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-08,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",
+2025-08-09,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-10,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-11,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",
+2025-08-12,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-13,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-14,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",
+2025-08-15,LLM,Anthropic Model Quality Degradation,"Prolonged issue with model output quality (Issue Window 1)",2025-08-16,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window, 2025-08-17,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-08-18,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-19,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-20,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-08-21,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-22,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-23,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-08-24,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-25,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-26,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-08-27,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-28,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-29,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-08-30,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-08-31,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-09-01,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-09-02,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-09-03,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window,2025-09-04,LLM,Anthropic Model Degradation,Model output quality issues,Resolved issue 1 window
+2025-09-04,LLM,Anthropic API/Connectors,Unable to connect to MCP (Connectors),
+2025-01-15,ACTofGOD,Tonga Eruption (Geomagnetic Effect),"Schumann resonance band anomalies observed; ~4x increase in local lightning","Source: Nickolaenko et al., 2022"
+2025-09-05,LLM,Google AI Studio/Gemini API,API key requests may fail for some users,Resolved
+2025-09-04,LLM,Google AI Studio/Gemini UI,AI Studio may not load for some users,Resolved
+2025-09-02,LLM,Google AI Studio/Gemini API,API key requests may fail for some users,Resolved
+2025-09-04,LLM,Google - AI Studio / Gemini,"ListModels requests fail for all users",Resolved
+2025-09-03,LLM,Google - AI Studio / Gemini,"Billing bug charging 'Gemini 2.5 Flash Native Image Generation'",Resolved
+2025-09-02,LLM,Google - AI Studio / Gemini,"API key requests may fail for some users",Resolved
+2025-08-30,LLM,OpenAI - ChatGPT,"Elevated errors on ChatGPT",
+2025-08-26,LLM,OpenAI - API,"Elevated Error and Latency for API",
+2025-08-23,LLM,OpenAI - ChatGPT Voice,"Voice conversations dropping previous messages",
+2025-08-22,LLM,OpenAI - API,"Elevated API errors and latencies",
+2025-08-20,LLM,OpenAI - ChatGPT,"Conversation Errors",
+2025-08-20,LLM,OpenAI - Sora,"Elevated error rates and increased latency",
+2025-08-19,LLM,OpenAI - Vector Stores,"Elevated Errors for File Uploads to Vector Stores",
+2025-08-18,LLM,OpenAI - GPTs,"GPTs with custom actions stuck processing",
+2025-08-15,LLM,OpenAI - ChatGPT,"Increased errors in Chat Conversation",
+2025-08-15,LLM,OpenAI - ChatGPT Connectors,"ChatGPT connector errors",
+2025-08-14,LLM,OpenAI - Codex,"Codex errors",
+2025-08-13,LLM,OpenAI - Compliance API,"Increased Errors on Compliance API",
+2025-08-13,LLM,OpenAI - Image Generation,"Increased Errors in Image Generation",
+2025-08-08,LLM,OpenAI - GPT-5,"Users encountering rate limit or model not found errors",
+2025-08-05,LLM,ChatGPT Conversation Errors (Paid Users),Elevated errors on ChatGPT conversations for paid users,
+2025-08-05,LLM,ChatGPT General Issues,We identified Issues on ChatGPT,
+2025-08-08,LLM,ChatGPT Partial Search Outage,Search is Partially Down for ChatGPT Users,
+2025-08-08,LLM,ChatGPT 4.5 Elevated Errors,Elevated errors on the ChatGPT 4.5 model,
+2025-08-11,LLM,ChatGPT Partial Search Outage,Partial Search Outage for ChatGPT Users,
+2025-08-11,LLM,OpenAI Codex Task Failures,Increased failure rate for Codex tasks,
+2025-08-12,LLM,ChatGPT Image Generation Errors,Image generation errors for free ChatGPT users,
+2025-08-14,LLM,OpenAI Codex Errors,Codex errors,
+2025-08-15,LLM,ChatGPT Connector Errors,ChatGPT connector errors,
+2025-08-18,LLM,ChatGPT Apple Login Errors,Errors logging into ChatGPT with Apple,
+2025-08-20,LLM,ChatGPT Elevated Error Rate,ChatGPT elevated error rate,
+2025-08-20,LLM,ChatGPT Subscription Loading Failure,Failed To Load Subscription Issue,
+2025-08-20,LLM,OpenAI Help Center Login Down,Help Center login is down,
+2025-08-25,LLM,ChatGPT Voice Errors,Elevated errors in ChatGPT Voice,
+2025-08-26,LLM,OpenAI API Error/Latency,Elevated Error and Latency for API,
+2025-08-27,LLM,ChatGPT Search Failure,Search in ChatGPT failing for some free users,
+2025-08-28,LLM,OpenAI Login/Signup Errors,Increased login and signup errors,
+2025-09-12,LLM,ChatGPT GPT-5/Agent Response Issue,"Users may see both a GPT-5 response and an agent response when running agent tasks",
+2025-08-04,LLM,OpenAI API & Image Generation Errors,"High API Error Rates for o3; Errors in ChatGPT Image Generation",
+2025-08-05,LLM,ChatGPT Conversation Error,Elevated errors on ChatGPT conversations for paid users,
+2025-08-07,LLM,OpenAI Platform-wide Issues,"Multiple services affected: Deep Research errors, GPT-5 conversation errors, file upload latency/errors, ChatGPT Agent issues for PlusPro users, API sign-up credit card failures",
+2025-08-08,LLM,OpenAI Service Disruption,"ChatGPT Search partially down; Elevated errors on the ChatGPT 4.5 model",
+2025-09-04,LLM,OpenAI File API Error,Errors reported with File API,
+2025-09-05,LLM,OpenAI Responses API Error,Increased error rates in Web Search tools,
+2025-09-09,LLM,ChatGPT Agent Error,Elevated error rate for ChatGPT Agent,
+2025-09-10,LLM,OpenAI API Issues,"Errors with Batch API; File Search not working across Responses and Assistance API",
+2025-09-11,LLM,OpenAI Service Disruption,"Deep Research elevated errors; Fine-tuning jobs experiencing delays",
+2025-09-12,LLM,OpenAI Model & Agent Issues,"Increased rate limit errors with GPT-4o; Agent tasks showing both GPT-5 and agent responses",
+2025-09-16,LLM,OpenAI Login Error,Elevated errors with SSO login,
+2025-09-17,LLM,OpenAI Service Disruption,"Errors for Conversations with Images for Free Users; Elevated errors in GPT Store",
+2025-07-22,ACTofGOD,Solar Event,25-hour blackout period started,
+2025-07-22,NETWORK,Cloud Service Disruption,Multi-region errors reported,
+2025-07-22,NETWORK,ISP Shutdown,"Q2 shutdowns reported in Libya, etc.",
+2025-07-23,ACTofGOD,Solar Event,25-hour blackout period ended,
+2025-07-23,LLM,AI Hallucination,Major liability case reported,
+2025-08-01,ACTofGOD,Solar Event,24-hour blackout period ended,
+2025-08-01,NETWORK,Global Internet Outage,1.5-hour duration,
+2025-08-01,TRANSIT,Vehicle Recall,"312,120 vehicles recalled for electronic brake booster issue",
+2025-08-01,CIVIL/SOCIAL,Social Media Trends,Global trends service outage,
+2025-08-01,VIOLENCE,Crime Rate Report,Continued drop in violence reported in U.S. cities,
+2025-08-02,VIOLENCE,Simple Assault,"Reported in Wawarsing, NY",
+2025-08-06,LLM,OpenAI,502 Gateway Errors,
+2025-08-06,LLM,OpenAI ChatGPT,Elevated errors on conversations,
+2025-08-07,LLM,OpenAI Deep Research,Elevated error rates for free users,
+2025-09-01,LLM,OpenAI ChatGPT,Elevated errors,
+2025-09-03,LLM,OpenAI ChatGPT,Not displaying responses,
+2025-09-10,LLM,OpenAI Batch API,Errors reported,
+2025-09-14,LLM,OpenAI API Platform,Elevated error rates,
+2025-09-15,LLM,OpenAI file_search,Impact in retrieval quality,
+2025-07-17,NETWORK,Xfinity ISP outage,"Duration: 12 hours, U.S.",
+2025-07-22,NETWORK,Government-directed internet shutdown,"Q2 shutdowns in Libya and other locations",
+2025-07-23,NETWORK,Extended blackout,"Tomsk, Russia. Data: >40,25",
+2025-07-30,ANIMALS,Aggressive baboon behavior,Led to euthanasia,
+2025-08-01,TRANSIT,Vehicle recall - electronic brake booster,"312,120 vehicles affected",
+2025-08-01,NETWORK,Global network outage,"Duration: 1.5 hours",
+2025-08-01,CIVIL/SOCIAL,UK Summer Riots & Disinformation Spike,"Spike in hate speech on X/Telegram linking unrest to Israel-Hamas conflict","[22]"
+2025-08-04,NETWORK,Network outage,"Duration: 25 minutes",
+2025-08-05,LLM,AI model picker failure,"Duration: 06:32 AM - 12:54 PM",
+2025-08-05,LLM,AI model quality degradation,"Long-term issue lasting from Aug 5 to Sep 4",
+2025-08-06,ACTofGOD,Schumann Resonance Anomaly,"Frequency <7.83 Hz, global, Thetadelta frequencies, no energy >25 Hz, anomaly concluded",
+2025-08-06,LLM,AI model memory issue,"Unsolved memory problem, not fixable by fine-tuning",
+2025-08-06,ELECTRONICS,Government website glitch,"Affected a ""Constitution"" website",
+2025-08-07,NETWORK,Network failure (US/Mexico),"Duration: 27 minutes",
+2025-08-07,VIOLENCE,Decrease in violence reported,"Oakland, first half of the year",
+2025-08-08,NETWORK,Security breach - stolen authentication tokens,"Incident lasted from Aug 8 to Aug 18",
+2025-08-15,NETWORK,Global ISP peak outage,"Affecting 44 U.S. ISPs",
+2025-07-17,NETWORK,Xfinity Outage,"12-hour outage in the U.S.",
+2025-07-18,LLM,Service Outage,"1-hour outage in US/Canada",
+2025-07-22,NETWORK,Multi-region errors,,
+2025-08-04,NETWORK,Network Outage,25-minute duration,
+2025-08-05,LLM,Model Picker Issues,"Duration: 06:32 AM - 12:54 PM",
+2025-08-12,ELECTRONICS,Windows Update Failure,Update KB5063878 breaks recovery tools,
+2025-08-16,LLM,LLM Glitches,Unspecified glitches reported,
+2025-09-04,ELECTRONICS,Product Malfunction,Tajarly insoles reported overheating,
+2025-09-04,ELECTRONICS,Product Malfunction,Defective power stations causing battery explosions,
+2025-09-04,ELECTRONICS,Software/Game Crash,"Hollow Knight launch causes crashes on Steam, Xbox, PlayStation, Nintendo",
+2025-09-04,LLM,Regional Outage,EMEA region inaccessible,
+2025-09-04,VIOLENCE,Violent Incident,"Location: 700 block W. Tennyson Road",
+2025-09-04,VIOLENCE,Violent Incident,"Location: 50 block Trestle Drive",
+2025-09-04,TRANSIT,Vehicle Recall,Recall of 7301 vehicles due to window safety system issue,
+2025-09-05,LLM,Anthropic Claude Degraded Responses,Model providing degraded quality responses,
+2025-09-06,LLM,Hallucination Research/Report,Video released regarding hallucination factors,
+2025-09-09,LLM,Elevated Errors,"Duration: 07:00 PM - 08:02 PM",
+2025-09-10,NETWORK,Network Outage,14-minute duration,
+2025-09-10,NETWORK,Comcast Outage,23-hour duration,
+2025-09-10,LLM,Service Outage,"Duration: 16:28 - 17:36 UTC",
+2025-08-26,NETWORK,Major network outage,"3+ hour outage, 11000+ reports (Aug 26-27)",
+2025-08-26,LLM,Sustained quality degradation,Reported quality problems from Aug 26 to Sep 5,
+2025-09-03,NETWORK,Recurring daily network shutdowns,1.25-hour shutdowns daily from Sep 3 to Sep 8,
+2025-09-04,TRANSIT,Vehicle recall - power steering,17334 vehicles affected,
+2025-09-04,TRANSIT,Vehicle recall - highway assist software,24214 vehicles affected,
+2025-09-04,TRANSIT,Vehicle recall - door lock malfunction,197432 vehicles affected,
+2025-09-04,TRANSIT,Vehicle recall - dashboard display glitch,591000 vehicles affected,
+2025-09-11,LLM,General model errors and incidents,Event duration: Sep 11 - Sep 15,
+2025-08-16,LLM,Apple LLM reasoning paper reports glitches,"Source: Reddit r/MachineLearning",
+2025-08-17,NETWORK,European BGP routing mishaps,"Affected television services; Source: Kentik",
+2025-08-18,NETWORK,TP-Link device tethering issues,"Discussion during outages; Source: Reddit r/outages",
+2025-08-20,LLM,Major LLM elevated error rate,Mitigations required to stabilize service,
+2025-08-26,LLM,Sustained LLM quality degradation,Ongoing quality issues reported,
+2025-08-27,LLM,Sustained LLM quality degradation,Ongoing quality issues reported,
+2025-08-28,LLM,Sustained LLM quality degradation,Ongoing quality issues reported,
+2025-08-29,LLM,Sustained LLM quality degradation,Ongoing quality issues reported,
+2025-08-30,LLM,Sustained LLM quality degradation,Ongoing quality issues reported,
+2025-08-31,LLM,Sustained LLM quality degradation,Ongoing quality issues reported,
+2025-09-01,LLM,Sustained LLM
+2025-09-15,ACTofGOD,Geomagnetic K-Index Warning,"08:54 UTC - Extended warning: Geomagnetic K-index of 6 expected",WARK06
+2025-09-15,ACTofGOD,Geomagnetic K-Index Warning,"08:54 UTC - Extended warning: Geomagnetic K-index of 5 expected",WARK05
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,"08:06 UTC - Alert: Geomagnetic K-index of 5",ALTK05
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,"03:32 UTC - Alert: Geomagnetic K-index of 5",ALTK05
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,"02:59 UTC - Alert: Geomagnetic K-index of 7",ALTK07
+2025-09-15,ACTofGOD,Geomagnetic K-Index Warning,"02:55 UTC - Warning: Geomagnetic K-index of 7 or greater expected",WARK07
+2025-09-15,ACTofGOD,Geomagnetic K-Index Alert,"02:10 UTC - Alert: Geomagnetic K-index of 6",ALTK06
+2025-09-15,ACTofGOD,Geomagnetic K-Index Warning,"00:55 UTC - Warning: Geomagnetic K-index of 6 expected",WARK06
+2025-09-14,ACTofGOD,Geomagnetic K-Index Alert,"23:47 UTC - Alert: Geomagnetic K-index of 5",ALTK05
+2025-09-14,ACTofGOD,Geomagnetic K-Index Warning,"23:29 UTC - Warning: Geomagnetic K-index of 5 expected",WARK05
+2025-09-14,ACTofGOD,Geomagnetic K-Index Alert,"23:22 UTC - Alert: Geomagnetic K-index of 4",ALTK04
+2025-09-14,ACTofGOD,Geomagnetic K-Index Warning,"20:17 UTC - Warning: Geomagnetic K-index of 4 expected",WARK04
+2025-09-14,ACTofGOD,Electron Flux Alert,"18:51 UTC - Continued alert: Electron 2MeV integral flux exceeded 1000 pfu",ALTEF3
+2025-09-14,ACTofGOD,Geomagnetic Storm Watch,"18:46 UTC - Watch: Geomagnetic storm category G1 predicted",WATA20
+2025-09-13,ACTofGOD,Electron Flux Alert,"19:02 UTC - Alert: Electron 2MeV integral flux exceeded 1000 pfu",ALTEF3
+2025-09-13,ACTofGOD,Geomagnetic Storm Watch,"14:42 UTC - Watch: Geomagnetic storm category G1 predicted",WATA20
+2025-09-11,ACTofGOD,Geomagnetic K-Index Alert,"02:51 UTC - Alert: Geomagnetic K-index of 4",ALTK04
+2025-09-11,ACTofGOD,Geomagnetic K-Index Warning,"01:08 UTC - Warning: Geomagnetic K-index of 4 expected",WARK04
+2025-09-10,ACTofGOD,Geomagnetic K-Index Warning,"09:08 UTC - Warning: Geomagnetic K-index of 5 expected",WARK05
+2025-09-10,ACTofGOD,Geomagnetic K-Index Warning Cancelled,"09:06 UTC - Cancel warning: Geomagnetic K-index of 5 expected",WARK05
+2025-09-10,ACTofGOD,Geomagnetic K-Index Warning,"05:46 UTC - Extended warning: Geomagnetic K-index of 4 expected",WARK04
+2025-09-10,ACTofGOD,Geomagnetic K-Index Warning,"05:46 UTC - Extended warning: Geomagnetic K-index of 5 expected",WARK05
+2025-09-09,ACTofGOD,Geomagnetic K-Index Alert,"23:28 UTC - Alert: Geomagnetic K-index of 6",ALTK06
+2025-09-09,ACTofGOD,Geomagnetic K-Index Warning,"23:18 UTC - Warning: Geomagnetic K-index of 6 expected",WARK06
+2025-09-09,ACTofGOD,Geomagnetic K-Index Alert,"23:18 UTC - Alert: Geomagnetic K-index of 5",ALTK05
+2025-09-09,TRANSIT,"Railway Signal System Malfunction","Widespread signal failures reported on the Northeast Corridor, causing significant delays.",AMTRAK_ALERT_NEC
+2025-09-09,ACTofGOD,"Geomagnetic K-index 5 Warning","2240 UTC",WARK05
+2025-09-09,ACTofGOD,"Geomagnetic K-index 4 Alert","2202 UTC",ALTK04
+2025-09-09,ACTofGOD,"Geomagnetic K-index 4 Warning","2201 UTC",WARK04
+2025-09-09,ACTofGOD,"Electron >2MeV Flux Alert (>1000 pfu)","1431 UTC",ALTEF3
+2025-09-09,ACTofGOD,"Geomagnetic K-index 4 Extended Warning","0855 UTC",WARK04
+2025-09-09,ACTofGOD,"Geomagnetic K-index 4 Warning","0210 UTC",WARK04
+2025-09-08,LLM,"OpenAI API Latency Issues","Users reported elevated latency and 5xx errors for GPT-4 models across multiple regions.",STATUS_DEGRADED
+2025-09-08,ACTofGOD,"Geomagnetic K-index 4 Alert","0508 UTC",ALTK04
+2025-09-08,ACTofGOD,"Geomagnetic K-index 4 Warning","0129 UTC",WARK04
+2025-09-07,ACTofGOD,"Geomagnetic Storm G1 Watch Canceled","1801 UTC",WATA20
+2025-09-06,NETWORK,"Cloudflare DNS Outage","Partial outage affecting DNS resolution in North America and Europe.",CF-STATUS-1138
+2025-09-06,ACTofGOD,"Geomagnetic K-index 4 Extended Warning","2228 UTC",WARK04
+2025-09-06,ACTofGOD,"Geomagnetic K-index 5 Alert","1645 UTC",ALTK05
+2025-09-06,ACTofGOD,"Geomagnetic K-index 5 Warning","1529 UTC",WARK05
+2025-09-06,ACTofGOD,"Geomagnetic K-index 4 Alert","0241 UTC",ALTK04
+2025-09-06,ACTofGOD,"Geomagnetic K-index 4 Warning","0234 UTC",WARK04
+2025-09-05,ACTofGOD,"Geomagnetic Storm G1 Watch","2112 UTC",WATA20
+2025-09-04,ACTofGOD,"Geomagnetic Storm G1 Watch","1917 UTC",WATA20
+2025-09-03,ACTofGOD,"Geomagnetic Storm G1 Watch","2059 UTC",WATA20
+2025-09-03,ACTofGOD,"Geomagnetic K-index 4 Extended Warning","0556 UTC",WARK04
+2025-09-03,ACTofGOD,"Geomagnetic K-index 5 Extended Warning","0556 UTC",WARK05
+2025-09-03,ACTofGOD,"Geomagnetic K-index 5 Alert","0301 UTC",ALTK05
+2025-09-02,ELECTRONICS,"Starlink User Terminal Glitches","Reports of intermittent connectivity and terminal reboots from users in high-latitude regions.",FIRMWARE_v2.1.5
+2025-09-02,ACTofGOD,"Geomagnetic K-index 5 Alert","2048 UTC",ALTK05
+2025-09-02,ACTofGOD,"Geomagnetic K-index 6 Warning","1701 UTC",WARK06
+2025-09-02,ACTofGOD,"Geomagnetic K-index 5 Extended Warning","1701 UTC",WARK05
+2025-09-02,ACTofGOD,"Geomagnetic K-index 4 Extended Warning","1659 UTC",WARK04
+2025-09-02,ACTofGOD,"Geomagnetic Storm G1 Watch","1657 UTC",WATA20
