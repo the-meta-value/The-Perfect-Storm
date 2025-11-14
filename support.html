@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support The Perfect Storm Research</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0c10;
+            --bg-elev: #0f1117;
+            --text: #e6e9ef;
+            --muted: #a9b1bc;
+            --line: #1a2030;
+            --accent-1: #7c5cff;
+            --accent-2: #00e5ff;
+            --accent-3: #3de38a;
+            --radius-lg: 18px;
+            --radius-md: 14px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 700px;
+            background: var(--bg-elev);
+            border: 1px solid var(--line);
+            border-radius: var(--radius-lg);
+            padding: 3rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .container::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-1), var(--accent-2), var(--accent-3));
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            color: var(--muted);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            line-height: 1.8;
+        }
+
+        .research-info {
+            background: var(--bg);
+            border-left: 3px solid var(--accent-3);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+
+        .research-info p {
+            color: var(--text);
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+        }
+
+        .research-info strong {
+            color: var(--accent-2);
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            color: var(--accent-2);
+            margin: 2rem 0 1rem 0;
+            font-weight: 600;
+        }
+
+        .support-list {
+            list-style: none;
+            margin: 1.5rem 0;
+        }
+
+        .support-list li {
+            padding: 0.75rem 0;
+            padding-left: 2rem;
+            position: relative;
+            color: var(--muted);
+        }
+
+        .support-list li::before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: var(--accent-3);
+            font-weight: 700;
+        }
+
+        .payment-buttons {
+            display: flex;
+            gap: 1rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .payment-btn {
+            flex: 1;
+            min-width: 200px;
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: var(--radius-md);
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+
+        .cashapp-btn {
+            background: linear-gradient(135deg, #00d54b, #00b33c);
+            color: white;
+        }
+
+        .venmo-btn {
+            background: linear-gradient(135deg, #3d95ce, #2d7ab8);
+            color: white;
+        }
+
+        .payment-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        }
+
+        .footer-links {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--line);
+            text-align: center;
+        }
+
+        .footer-links a {
+            color: var(--accent-1);
+            text-decoration: none;
+            margin: 0 1rem;
+            font-size: 0.9rem;
+        }
+
+        .footer-links a:hover {
+            color: var(--accent-2);
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 2rem 1.5rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .payment-buttons {
+                flex-direction: column;
+            }
+
+            .payment-btn {
+                min-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Support The Perfect Storm Research</h1>
+        
+        <p class="subtitle">
+            Independent research investigating correlations between solar weather events and AI system behavior. 
+            All data, analysis, and findings are published openly for the scientific community.
+        </p>
+
+        <div class="research-info">
+            <p><strong>Current Findings:</strong> 110% increase in AI incidents during geomagnetic storms</p>
+            <p><strong>Statistical Significance:</strong> p = 0.0059 (less than 0.6% chance of random occurrence)</p>
+            <p><strong>Key Discovery:</strong> 24-48 hour lag effect with predictive capability</p>
+        </div>
+
+        <h2>What Your Support Enables</h2>
+        <ul class="support-list">
+            <li>Continued daily monitoring and data collection across multiple AI platforms</li>
+            <li>Access to APIs and tools for automated incident tracking</li>
+            <li>Statistical analysis software and validation testing</li>
+            <li>Time dedicated to research documentation and methodology refinement</li>
+            <li>Public dataset maintenance and regular updates</li>
+            <li>Educational content creation and research communication</li>
+        </ul>
+
+        <h2>Support This Work</h2>
+        <p class="subtitle" style="margin-bottom: 1rem; font-size: 0.95rem;">
+            All contributions directly support ongoing independent research. No institutional funding, no paywalls—just open science.
+        </p>
+
+        <div class="payment-buttons">
+            <a href="https://cash.app/$mercilessartist" target="_blank" class="payment-btn cashapp-btn">
+                💚 Cash App
+            </a>
+            <a href="https://venmo.com/mercilessartist" target="_blank" class="payment-btn venmo-btn">
+                💙 Venmo
+            </a>
+        </div>
+
+        <div class="footer-links">
+            <a href="https://github.com/the-meta-value/The-Perfect-Storm" target="_blank">View Research</a>
+            <a href="https://artificiallyintelligentspace.substack.com/" target="_blank">Read Blog</a>
+        </div>
+    </div>
+</body>
+</html>
