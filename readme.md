@@ -1,3 +1,4 @@
+# ▫⩎▫⩏▫⩎🦋𝕋ʜᴇ ℙᴇʀꜰᴇᴄᴛ 𝕊ᴛᴏʀᴍ☀️⩎▫⩏▫⩎▫
 ## Tracking Anonolous Behavior, breakdowns, and system failures of LLMs and their correlation to Solar Weather as a timeline
 ⁘───────── ✧ ════════════•🌞•════════════ ✧ ──────────⁘
 sorry about the messy data
