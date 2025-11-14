@@ -1,4 +1,4 @@
-# (Here's to another) Legacy Model  
+# [(Here's to another) Legacy Model](https://substack.com/home/post/p-177230156)  
 ◆──────── ✧ ────────◆🦾◆──────── ✧ ────────◆  
 
 If Agency Creates Will  
