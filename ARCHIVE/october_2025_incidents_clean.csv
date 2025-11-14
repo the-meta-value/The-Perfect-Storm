@@ -1,0 +1,23 @@
+"YEAR-MO-DAY",CATEGORY,SUBCATEGORY,EVENT,DESCRIPTION,SOURCE,OTHER
+"2025-10-01",ACTofGOD,Geomagnetic Storm,G3 Storm Peak,"Kp index reached 7 (G3 level), planetary A-index 50, solar flux 184",NOAA SWPC,Greatest 3hr Kp over 24hrs was 7
+"2025-10-02",ACTofGOD,Geomagnetic Storm,G3 Storm Continuation,"Kp 6.67 at 03-06 UTC (G3 level), geomagnetic field reached severe storm levels, solar wind peak 861 km/s",NOAA SWPC,Multiple G1-G2 periods throughout day; planetary A-index 45-51
+"2025-10-02",AI/LLM,Anthropic,Connectors Unhealthy,"Users unable to connect to Claude.ai Connectors/MCP, investigating started 16:47 UTC",Claude Status Page,Resolved 17:31 UTC - 44 minute duration
+"2025-10-03",ACTofGOD,Geomagnetic Activity,G1 Storms Continue,"Minor geomagnetic storming expected to persist, Kp 4.33-4.67",NOAA SWPC,Post-storm elevated activity from Oct 2 G3 event
+"2025-10-03",AI/LLM,Anthropic,Complete Platform Outage,"Claude.ai web interface down starting 01:26 UTC, API degraded 01:28 UTC, Claude Code degraded 01:30 UTC, Console affected",Claude Status Page,All services affected; fix implemented 02:39 UTC; claude.ai recovered 02:53 UTC but API and Code partially recovering - occurred during declining phase of G3 storm
+"2025-10-04",ACTofGOD,Geomagnetic Activity,Post-Storm Activity,"Kp indices 2.67-4.33, unsettled to active levels expected",NOAA SWPC,Continued effects from Oct 1-2 G3 storm
+"2025-10-04",AI/LLM,Google,Batch API Outage,"Gemini Batch API experienced outage",Google AI Studio Status,No duration specified
+"2025-10-08",AI/LLM,Google,Multiple Batch API Outages,"Multiple outages reported for Gemini Batch API throughout the day",Google AI Studio Status,Repeated failures same day
+"2025-10-08",AI/LLM,OpenAI,Service Degradation,"General service degradation affecting multiple components",OpenAI Status Page,Resolved 11:05 AM - all components functioning as expected
+"2025-10-09",ACTofGOD,Solar Activity,M2.0 Solar Flare,"M2.0 class flare detected 1211-1252 UTC from Region 4236, geomagnetic field quiet overall",NOAA SWPC,Kp indices 1-2; planetary A-index only 5
+"2025-10-09",AI/LLM,Google,API Outages,"Google AI Studio Realtime and Gemini Live API affected by outage",Google AI Studio Status,No duration specified
+"2025-10-09",AI/LLM,Anthropic,Elevated Errors,"Elevated error rates on claude.ai starting 21:21 UTC, also affected Console and Claude Code",Claude Status Page,Fix implemented 21:43 UTC; resolved 10 Oct 00:34 UTC - occurred during quiet geomagnetic conditions (Kp~2) but within residual window of Oct 2 G3 event
+"2025-10-09",AI/LLM,OpenAI,Assistants API Issues,"Assistants API experiencing issues",OpenAI Status Page,Resolved 12:51 AM Oct 10
+"2025-10-10",ACTofGOD,Geomagnetic Activity,Quiet to Active,"Geomagnetic field quiet to active levels, Kp peaked at 4, planetary A-index 9-10",NOAA SWPC,Recovery phase from earlier storm activity
+"2025-10-10",AI/LLM,OpenAI,Connector Errors,"Elevated error rates for Gmail and Google Calendar connectors",OpenAI Status Page,Resolved 2:44 PM
+"2025-10-10",AI/LLM,OpenAI,Responses API Outage,"Partial outage of Responses API",OpenAI Status Page,Resolved 9:22 AM
+"2025-10-11",ACTofGOD,Geomagnetic Forecast,G1 Storm Forecast,"G1 minor geomagnetic storms forecast for Oct 12 due to coronal hole high speed stream",NOAA SWPC,Kp expected to reach 5.0 on Oct 12
+"2025-10-11",AI/LLM,OpenAI,SDK Dev Mode Outage,"Apps SDK Dev Mode experiencing partial outage",OpenAI Status Page,Resolved 7:00 PM
+"2025-10-11",AI/LLM,OpenAI,Chat Function Broken,"Temporary chat not functioning on web interface",OpenAI Status Page,Resolved 6:48 PM
+"2025-10-13",AI/LLM,OpenAI,Fine-Tuning Delays,"Delays with Supervised Fine-Tuning jobs",OpenAI Status Page,Resolved 2:15 PM
+"2025-10-14",AI/LLM,Google,Multiple Issues,"High failure rates in Gemini apps/APIs with 500 error messages reported by users on Downdetector; leaked internal documents about Gemini 3.0 revealed on social media; users reporting unreliability and poor memory in Gemini 2.5 models",Downdetector/Social Media/Tech Sites,Users speculated high failure rate might be due to large number of free users
+"2025-10-14",AI/LLM,OpenAI,Model Error Rates,"Elevated error rates in gpt-5-mini model",OpenAI Status Page,Resolved 6:25 PM

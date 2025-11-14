@@ -1,0 +1,450 @@
+Event_Date,CATEGORY,SUBCATEGORY,MORE_INFO,ETC
+2025-08-17,LLM, 4,Resolved,LLM,OpenAI,Various,Images not loading on the iOS,Android and macOS apps
+2025-08-21,LLM, 4,LLM,OpenAI,Various,Increased latency on realtime,chat completions and text embedding APIs
+2025-08-23,ELECTRONICS,RC aircraft ESC failure,
+2025-08-24,VIOLENCE,Toronto (CA),Homicide investigation (Martha Eaton Way & Trethewey Dr)
+2025-08-26,LLM,Gemini 2.5 Pro overloaded (day/evening),
+2025-08-28,ELECTRONICS,RC forum complaints (BEC/ESC failures),
+2025-08-28,NETWORK,OpenRouter major outage (chat & generation)
+2025-08-28,ELECTRONICS,RC forum complaints (BECESC failures)
+2025-08-28,NETWORK,OpenRouter major outage (chat & generation),
+2025-08-30,ACTofGOD,CME → G1 geomagnetic storm,
+2025-08-30,ACTofGOD,2025-09-01,Storm effects continue
+2025-08-30,NETWORK,2025-09-04,LLM outage (EU SearchGmailMapsYouTube)
+2025-08-30,LLM,2025-09-04,Gemini chatbot outage
+2025-09-01,ACTofGOD,Storm effects continue,
+2025-09-03,LLM,ANTHROPIC elevated errors (Opus/LLM,Sonnet),
+2025-09-03,LLM,ANTHROPIC elevated errors (OpusSonnet)
+2025-09-04,LLM,Gemini chatbot outage,
+2025-09-04,NETWORK,LLM outage (EU Search/Gmail/Maps/YouTube),
+2025-09-05,LLM,ANTHROPIC Opus 4.1 unable to send messages (messaging failures),
+2025-09-05,VIOLENCE,Langley,BC (CA),Taxi-shooting homicide
+2025-09-05,LLM,Opus 4.1 unable to send messages
+2025-09-07,VIOLENCE,Blue Mountains,NSW (AU),Body found in burning vehicle
+2025-09-07,VIOLENCE,Cobblebank,VIC (AU),Two males fatally stabbed
+2025-09-07,VIOLENCE,Melbourne CBD,VIC (AU),Shooting death (Homicide Squad)
+2025-09-08,VIOLENCE,Clapham,London (UK),Murder investigation after double shooting
+2025-09-09,LLM,OpenAI ChatGPT Agent errors,
+2025-09-09,ACTofGOD,G2 geomagnetic storm,
+2025-09-09,LLM,OpenAI ChatGPT Agent errors
+2025-09-10,LLM,ANTHROPIC APIs & claude.ai down
+2025-09-10,LLM,OpenAI Batch API errors
+2025-09-10,LLM,OpenAI File Search broken
+2025-09-10,LLM,Gemini outage reports
+2025-09-10,NETWORK,Azure East US 2 allocator incident
+2025-09-11,LLM,OpenAI Deep Research degraded
+2025-09-11,LLM,ANTHROPIC Opus 4.1 elevated errors
+2025-09-12,LLM,ANTHROPIC LLM,Sonnet 3.7 elevated errors
+2025-09-12,LLM,OpenAI GPT-5 + Agent double-reply bug
+2025-09-12,NETWORK,Cloudflare dashboardAPI outage
+2025-09-12,ELECTRONICS,RC heli (SAB Goblin) OW failure
+2025-09-13,ELECTRONICS,RC heli (OMP M2 MK2) runaway head speed
+2025-09-11,LLM,OpenAI Fine-tuning jobs delayed
+2025-09-10,LLM,Gemini outage reports,
+2025-09-10,LLM,LLM,OpenAI File Search broken,
+2025-09-10,LLM,LLM,OpenAI Batch API errors,
+2025-09-10,LLM,LLM,ANTHROPIC APIs & claude.ai down,
+2025-09-10,NETWORK,Azure East US 2 allocator incident (VM/service management degraded),
+2025-09-10,VIOLENCE,Burnaby,BC (CA),Fatal shooting (IHIT)
+2025-09-10,LLM,Claude.ai services impacted,LLM,ANTHROPIC,LLM,Claude.ai / Console / API,APIs,Console,Identified
+2025-09-10,LLM,Claude.ai services impacted,LLM,ANTHROPIC,LLM,Claude.ai / Console / API,APIs,Console,Monitoring
+2025-09-11,LLM,LLM,OpenAI Deep Research degraded,
+2025-09-11,LLM,LLM,ANTHROPIC Opus 4.1 elevated errors,
+2025-09-11,LLM,LLM,OpenAI Fine-tuning jobs delayed,
+2025-09-12,LLM,LLM,ANTHROPIC LLM,Sonnet 3.7 elevated errors,
+2025-09-12,ELECTRONICS,RC heli (SAB Goblin) OW failure
+2025-09-12,NETWORK,Cloudflare dashboard/API outage,
+2025-09-12,LLM,LLM,OpenAI GPT-5 + Agent double-reply bug,
+2025-09-12,VIOLENCE,Chicago,IL (US),Mass shooting (S. Halsted)
+2025-09-13,ELECTRONICS,RC heli (OMP M2 MK2) runaway head speed,
+2025-09-14,ACTofGOD,G3 geomagnetic storm begins,
+2025-09-14,LLM,LLM,OpenAI API elevated errors,
+2025-09-14,VIOLENCE,NYC (US),CompStat weekly snapshot (week ending; murders/shootings/major crimes),
+2025-09-14,VIOLENCE,NYC (US),CompStat weekly snapshot (murdersshootingsmajor crimes)
+2025-09-15,LLM,LLM,ANTHROPIC Opus 4.1 elevated errors (overnight),
+2025-09-15,LLM,Gemini image-gen defaults to square (feature bug),
+2025-09-15,NETWORK,Electronics/network anomalies (UniFi loops; PC shutdowns; iPhone glitches; Tesla handles),
+2025-09-15,LLM,Mistral OCR API downtime,
+2025-09-15,NETWORK,Starlink outage (\~43k users),
+2025-09-15,NETWORK,Reddit outage (U.S.),
+2025-09-15,ACTofGOD,G3 storm ongoing,
+2025-09-15,VIOLENCE,Minneapolis,MN (US),Mass shooting near encampment
+2025-09-15,LLM,Mistral service degradation,
+2025-09-16,VIOLENCE,Minneapolis,MN (US),Second mass shooting near encampment
+2025-09-16,ACTofGOD,G3 storm continues,
+2025-09-16,ELECTRONICS,Electronics anomalies (power brick failure; RC heli GPS phantom home points),
+2025-09-16,LLM,LLM,OpenAI GPT Store errors,
+2025-09-16,LLM,LLM,OpenAI SSO login errors,
+2025-09-17,VIOLENCE,Grafton,NSW (AU),Man dies after stabbing
+2025-09-18,VIOLENCE,NSW (AU),Double stabbing at rail station
+2025-08-26,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-08-27,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-08-28,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-08-29,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-08-30,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-08-31,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-09-01,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-09-02,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-09-03,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-09-04,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-09-05,LLM,ANTHROPIC,Model output quality,Resolved issue 2 window,Info,Bug affected Haiku 3.5 and LLM,Sonnet 4 from Aug 26–Sep 5; fixed.
+2025-08-05,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-06,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-07,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-08,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-09,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-10,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-11,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-12,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-13,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-14,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-15,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-16,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-17,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-18,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-19,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-20,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-21,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-22,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-23,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-24,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-25,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-26,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-27,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-28,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-29,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-30,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-08-31,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-09-01,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-09-02,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-09-03,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-09-04,LLM,ANTHROPIC,Model output quality,Resolved issue 1 window,Info,LLM,Sonnet 4 degraded quality due to bug from Aug 5–Sep 4
+2025-09-04,LLM,ANTHROPIC,MCP / Connectors / API Tools,Unable to connect to MCP (Connectors),API Tools,T16:33:00Z
+2025-01-15,ACTofGOD,France,Nickolaenko et al.,2022,Jan 15, 2022 (1.5–2 hours during Tonga eruption),Horizontal magnetic antennas; spectral analysis,Schumann resonance band,Anomalies during Tonga eruption; ~4x increase in local lightning,Not specified
+2025-09-05,LLM,AI Studio / Gemini,API key requests may fail for some users,Resolved,11:00,Resolved.
+2025-09-04,LLM,AI Studio / Gemini,AI Studio may not load for some users,Resolved, 09:30,Resolved.
+2025-09-02,LLM,AI Studio / Gemini,API key requests may fail for some users,Resolved,2025-09-02 22:00,Detected / Investigating.
+2025-09-02,LLM,AI Studio / Gemini,API key requests may fail for some users,Resolved, 22:00,Detected / Investigating.
+2025-09-04,LLM,AI Studio / Gemini,ListModels requests fail for all users,Resolved, 04:00,Resolved.
+2025-09-04,LLM,AI Studio / Gemini,ListModels requests fail for all users,Resolved, 03:20,Detected / Investigating.
+2025-09-03,LLM,AI Studio / Gemini,Billing bug charging 'Gemini 2.5 Flash Native Image Generation',Resolved, 17:00,Resolved; refunds issued (display within 48h).
+2025-09-04,LLM,Google,AI Studio / Gemini,ListModels requests fail for all users,Resolved,03:20,Detected / Investigating.
+2025-09-04,LLM,AI Studio / Gemini,ListModels requests fail for all users,Resolved, 04:00,Resolved.
+2025-08-23,LLM,OpenAI,Various,Voice conversations dropping previous messages,Resolved, 7:15 PM
+2025-08-20,LLM,OpenAI,Various,ChatGPT Conversation Errors,Resolved |11:30 AM
+2025-08-13,LLM,OpenAI,Various,Increased Errors on Compliance API,Resolved, 12:27 PM
+2025-08-26,LLM,OpenAI,Various,Elevated Error and Latency for API,Resolved, 8:47 PM
+2025-08-14,LLM,OpenAI,Various,Codex errors,Resolved, 6:06 PM
+2025-08-20,LLM,OpenAI,Various,Sora experiencing elevated error rates and increased latency,Resolved, 12:00 PM
+2025-08-20,LLM,OpenAI,Various,ChatGPT Conversation Errors,Resolved, 11:30 AM
+2025-08-13,LLM,OpenAI,Various,Increased Errors in Image Generation,Resolved, 12:22 AM
+2025-08-20,LLM,OpenAI,Various,Sora experiencing elevated error rates and increased latency,Resolved, 12:00 PM
+2025-08-22,LLM,OpenAI,Various,Elevated API errors and latencies,Resolved, 4:12 PM
+2025-08-19,LLM,OpenAI,Various,Elevated Errors for File Uploads to Vector Stores,Resolved, 2:42 PM  
+2025-08-30,LLM,OpenAI,Various,Elevated errors on ChatGPT,Resolved, 7:03 PM
+2025-08-15,LLM,OpenAI,Various,ChatGPT connector errors,Resolved, 9:27 AM
+2025-08-22,LLM,OpenAI,Various,Elevated API errors and latencies,Resolved, 4:12 PM
+2025-08-13,LLM,OpenAI,Various,Increased Errors in Image Generation,Resolved, 12:22 AM
+2025-08-08,LLM,OpenAI,Various,Users encountering rate limit or model not found errors in GPT-5,Resolved, 2:06 PM
+2025-08-23,LLM,OpenAI,Various,Voice conversations dropping previous messages,Resolved, 7:15 PM
+2025-08-18,LLM,OpenAI,Various,GPTs with custom actions stuck processing,Resolved, 2:14 PM
+2025-08-15,LLM,OpenAI,Various,Increased errors in Chat Conversation,Resolved, 7:19 PM
+2025-08-26,LLM,OpenAI,Various,Elevated Error and Latency for API,Resolved, 8:47 PM
+2025-08-14,LLM,OpenAI,Various,Codex errors,Resolved, 6:06 PM
+2025-08-20,LLM,OpenAI,Various,ChatGPT elevated error rate,Resolved, 12:58 AM
+2025-08-27,LLM,OpenAI,Various,Search in ChatGPT failing for some free users,Resolved, 5:51 PM
+2025-08-18,LLM,OpenAI,Various,Errors logging into ChatGPT with Apple,Resolved, 11:36 AM
+2025-08-20,LLM,OpenAI,Various,ChatGPT elevated error rate,Resolved, 12:58 AM
+2025-08-18,LLM,OpenAI,Various,Errors logging into ChatGPT with Apple,Resolved, 11:36 AM
+2025-08-25,LLM,OpenAI,Various,Elevated errors in ChatGPT Voice,Resolved, 10:13 AM
+2025-08-20,LLM,OpenAI,Various,Failed To Load Subscription Issue,Resolved, 8:09 AM
+2025-08-25,LLM,OpenAI,Various,Elevated errors in ChatGPT Voice,Resolved, 10:13 AM
+2025-08-11,LLM,OpenAI,Various,Partial Search Outage for ChatGPT Users,Resolved, 3:02 PM
+2025-08-12,LLM,OpenAI,Various,Image generation errors for free ChatGPT users,Resolved, 5:20 AM
+2025-08-28,LLM,OpenAI,Various,Increased login and signup errors,Resolved, 8:25 AM
+2025-08-11,LLM,OpenAI,Various,Partial Search Outage for ChatGPT Users,Resolved, 3:02 PM
+2025-08-11,LLM,OpenAI,Various,Increased failure rate for Codex tasks,Resolved, 3:02 PM
+2025-08-20,LLM,OpenAI,Various,Failed To Load Subscription Issue,Resolved, 8:09 AM
+2025-08-27,LLM,OpenAI,Various,Search in ChatGPT failing for some free users,Resolved, 5:51 PM
+2025-08-20,LLM,OpenAI,Various,Help Center login is down,Resolved, 10:21 AM
+2025-08-12,LLM,OpenAI,Various,Image generation errors for free ChatGPT users,Resolved, 5:20 AM
+2025-08-08,LLM,OpenAI,Various,Search is Partially Down for ChatGPT Users,Resolved, 11:12 AM
+2025-08-15,LLM,OpenAI,Various,ChatGPT connector errors,Resolved, 9:27 AM
+2025-08-08,LLM,OpenAI,Various,Elevated errors on the ChatGPT 4.5 model,Resolved, 2:05 AM
+2025-09-12,LLM,OpenAI,Various,Users may see both a GPT-5 response and an agent response when running agent tasks,Resolved, 12:54 PM
+2025-08-05,LLM,OpenAI,Various,Elevated errors on ChatGPT conversations for paid users,Resolved, 8:10 AM
+2025-08-05,LLM,OpenAI,Various,We identified Issues on ChatGPT,Resolved, 5:54 AM
+2025-08-04,LLM,OpenAI,Various,Hi API Error Rates for o3,Resolved, 5:56 PM
+2025-09-16,LLM,OpenAI,Various,Elevated errors with SSO login,Resolved, 11:05 AM
+2025-09-12,LLM,OpenAI,Various,Increased Number of Users Reporting Rate Limit Errors with GPT-4o Model,Resolved, 9:21 AM
+2025-09-10,LLM,OpenAI,Various,Errors with Batch API,Resolved, 5:47 PM
+2025-08-04,LLM,OpenAI,Various,Errors in ChatGPT Image Generation,Resolved, 5:57 AM
+2025-09-11,LLM,OpenAI,Various,Deep Research elevated errors,Resolved, 6:11 PM
+2025-09-04,LLM,OpenAI,Various,File API Errors,Resolved, 4:17 PM
+2025-09-11,LLM,OpenAI,Various,Fine-tuning jobs experiencing delays,Resolved, 6:05 PM
+2025-09-05,LLM,OpenAI,Various,Increased error rates in Web Search tools in Responses API,Resolved, 2:47 AM
+2025-09-11,LLM,OpenAI,Various,Fine-tuning jobs experiencing delays,Resolved, 6:05 PM
+2025-09-16,LLM,OpenAI,Various,Elevated errors with SSO login,Resolved, 11:05 AM
+2025-08-08,LLM,OpenAI,Various,Search is Partially Down for ChatGPT Users,Resolved, 11:12 AM
+2025-09-17,LLM,OpenAI,Various,Errors for Conversations with Images for Free Users,Resolved, 3:41 PM
+2025-09-09,LLM,OpenAI,Various,ChatGPT Agent elevated error rate,Resolved, 12:31 PM
+2025-09-17,LLM,OpenAI,Various,Elevated errors in GPT Store,Resolved, 10:32 AM
+2025-09-10,LLM,OpenAI,Various,File Search not working across Responses and Assistance API,Resolved, 1:25 PM
+2025-08-05,LLM,OpenAI,Various,Elevated errors on ChatGPT conversations for paid users,Resolved, 8:10 AM
+2025-09-12,LLM,OpenAI,Various,Users may see both a GPT-5 response and an agent response when running agent tasks,Resolved, 12:54 PM
+2025-09-12,LLM,OpenAI,Various,Increased Number of Users Reporting Rate Limit Errors with GPT-4o Model,Resolved, 9:21 AM
+2025-08-07,LLM,OpenAI,Various,Elevated error rates for Deep Research for free users,Resolved, 5:02 AM
+2025-08-08,LLM,OpenAI,Various,Elevated errors on the ChatGPT 4.5 model,Resolved, 2:05 AM
+2025-08-07,LLM,OpenAI,Various,Elevated error rates in ChatGPT conversation with GPT-5,Resolved, 10:44 PM
+2025-08-07,LLM,OpenAI,Various,Elevated latency and error rates for file uploads to vector stores and from Google Drive,Resolved, 6:22 PM
+2025-08-07,LLM,OpenAI,Various,PlusPro users may have issues using ChatGPT Agent,Resolved, 3:36 PM
+2025-08-07,LLM,OpenAI,Various,Some users may encounter credit card failures for new API sign ups,Resolved, 2:51 PM
+2025-09-03,LLM,OpenAI,Various,ChatGPT Not Displaying Responses,Resolved, 3:23 AM
+2025-08-07,LLM,OpenAI,Various,Elevated error rates for Deep Research for free users,Resolved, 5:02 AM
+2025-09-15,LLM,OpenAI,Various,Impact in retrieval quality on file_search,Resolved, 9:49 PM
+2025-08-06,LLM,OpenAI,Various,502 Gateway Errors,Resolved, 4:53 PM
+2025-09-01,LLM,OpenAI,Various,Elevated errors on ChatGPT,Resolved, 8:41 AM
+2025-09-10,LLM,OpenAI,Various,Errors with Batch API,Resolved, 5:47 PM
+2025-08-06,LLM,OpenAI,Various,Elevated errors on ChatGPT conversations,Resolved, 4:39 PM
+2025-09-14,LLM,OpenAI,Various,Elevated error rates on API Platform,Resolved, 10:17 AM
+2025-08-06,LLM,OpenAI,Various,Elevated errors on ChatGPT conversations,Resolved, 4:39 PM
+2025-09-14,LLM,OpenAI,Various,Elevated error rates on API Platform,Resolved, 10:17 AM
+2025-09-03,LLM,OpenAI,Various,ChatGPT Not Displaying Responses,Resolved, 3:23 AM
+2025-08-06,LLM,OpenAI,Various,502 Gateway Errors,Resolved, 4:53 PM
+2025-09-01,LLM,OpenAI,Various,Elevated errors on ChatGPT,Resolved, 8:41 AM
+2025-09-15,LLM,OpenAI,Various,Impact in retrieval quality on file_search,Resolved, 9:49 PM
+2025-07-23,ACTofGOD,25-hour blackout period ended
+2025-07-22,ACTofGOD,25-hour blackout period ended
+2025-08-01,ACTofGOD,24-hour blackout period ended
+2025-08-02,VIOLENCE,Wawarsing NY,Simple assault reported
+2025-07-23,LLM,Major AI hallucination liability case,2025-07-23,LLM,Legal Precedent,Johnson v. Dunn
+2025-07-22,NETWORK,Multi-region errors,2025-07-22,Network,Service Errors,Bluecore
+2025-08-01,NETWORK,1.5-hour global outage,2,Network,Payment Outage,PayPal
+2025-07-22,NETWORK,Q2 shutdowns Libya etc.,2025-07-22,NETWORK,Cloudflare
+2025-08-01,TRANSIT,VEHICLES.312120 vehicles - electronic brake booster,2025-08-01,Vehicles,Recall,Ford
+2025-08-01,CIVILSOCIAL,Down global trends,2025-08-01,CIVILSOCIAL
+2025-08-01,VIOLENCE,U.S. cities continued drop,2025-08-01,VIOLENCE
+2025-07-23,ACTofGOD,BLACKOUT,>40,25,Tomsk, Russia,Extended blackout begin
+2025-08-15,NETWORK,Global peak ISP 44 U.S.,2025-08-15,NETWORK,ThousandEyes
+2025-08-15,NETWORK,Global peak ISP 44 U.S.,2025-08-15,NETWORK,ThousandEyes
+2025-07-22,NETWORK,Q2 shutdowns Libya etc.,2025-07-22,NETWORK,Cloudflare
+2025-07-23,NETWORK,>40,25,Tomsk, Russia,Extended blackout begin
+2025-07-30,ANIMALS,Baboons aggressive euthanized,2025-07-30,ANIMALS,Reddit rWildlife
+2025-08-01,Transit,VEHICLES,312120 vehicles - electronic brake booster,2025-08-01,Vehicles,Recall,Ford
+2025-08-01,NETWORK,1.5-hour global outage,2025-08-01,Network,Payment Outage,PayPal
+2025-08-05,LLM,Model picker issues 06:32 AM-12:54 PM,2025-08-05,LLM,Model Issues,ChatGPT
+2025-08-05,LLM,Quality degradation begins (through Sep 4),2025-08-05,LLM,Quality Bug,LLM,Claude LLM,Sonnet 4    
+2025-08-06,ELECTRONICS, Govt website Constitution glitch,2025-08-06,GLITCHES,Reddit rtechnology
+2025-08-06,ELECTRONICS,Human thinking workload glitch study,2025-08-06,GLITCHES,Reddit rtechnology
+2025-08-06,ACTofGOD,SHUMANN, <7.83Lower frequency anomaly concluded
+2025-08-06,LLM, Memory unsolved no fine-tune,2025-08-06,LLM,Reddit rMachineLearning
+2025-08-06,ELECTRONICS,Govt website Constitution glitch,2025-08-06,GLITCHES,Reddit rtechnology
+2025-08-06,ACTofGOD,SCHUMANN, <7.83,24,Global,Thetadelta frequencies, no energy >25 Hz
+2025-08-06,LLM, Memory unsolved no fine-tune,2025-08-06,LLM,Reddit rMachineLearning
+2025-08-07,NETWORK,27-minute failure (USMexico),2025-08-07,Network,Network Failure,Arelion
+2025-08-07,VIOLENCE, Oakland first half decrease,2025-08-07,VIOLENCE
+2025-08-07,VIOLENCE, 27-minute failure (USMexico),2025-08-07,Network,Network Failure,Arelion
+2025-08-07,VIOLENCE, Oakland first half decrease,2025-08-07,VIOLENCE
+2025-08-08,LLM,Authentication tokens stolen (through Aug 18),2025-08-08,LLM,Security Breach,Salesloft Drift AI
+2025-08-04,NETWORK, 25-minute outage,2025-08-04,Network,High Load,ServiceNow
+2025-07-17,NETWORK, Xfinity 12h U.S.,2025-07-17,NETWORK,Reddit routages
+2025-08-01,CIVIL/SOCIAL, August 2025,UK Summer Riots,X, Telegram,Spike in hate speech and disinformation in the UK, with extremist actors linking domestic unrest to the Israel-Hamas conflict to stoke division.,[22]
+2025-07-22,NETWORK, Multi-region errors,2025-07-22,Network,Service Errors,Bluecore
+2025-07-18,LLM,NETWORK, 1-hour USCanada outage,2025-07-18,Network,Mail Outage,LLM
+2025-08-12,ELECTRONICS, KB5063878 breaks recovery tools,2025-08-12,Electronics,Windows Update,Windows 11
+2025-08-04,NETWORK, 25-minute outage,2025-08-04,Network,High Load,ServiceNow
+2025-07-17,NETWORK, Xfinity 12h U.S.,2025-07-17,NETWORK,Reddit routages
+2025-08-05,LLM, Model picker issues 06:32 AM-12:54 PM,2025-08-05,LLM,Model Issues,ChatGPT
+2025-08-16,LLM, GLITCHES,2025-08-16,LLM,Apple LLM reasoning paper glitches,Reddit rMachineLearningGeneral
+2025-09-06,LLM, hallucination factors video,2025-09-06,LLM
+2025-09-09,LLM,Elevated errors 07:00-08:02 PM,2025-09-09,LLM,Error Rate,ChatGPT Agent
+2025-09-10,NETWORK,14-minute outage,2025-09-10,Network,Multi-Country Outage,Arelion
+2025-09-10,NETWORK,Comcast 23-hour outage,2025-09-10,Network,Car Crash Outage,California
+2025-09-10,LLM,Service outage 16:28-17:36 UTC,2025-09-10,LLM,Complete Outage,LLM,ANTHROPIC
+2025-09-10,NETWORK,14-minute outage,2025-09-10,Network,Multi-Country Outage,Arelion
+2025-09-10,NETWORK,Comcast 23-hour outage,2025-09-10,Network,Car Crash Outage,California
+2025-09-10,LLM,Service outage 16:28-17:36 UTC,2025-09-10,LLM,Complete Outage,LLM,ANTHROPIC
+2025-09-05,LLM,Claude degraded responses,2025-09-05,LLM,LLM,ANTHROPIC
+2025-09-05,LLM,Claude degraded responses,2025-09-05,LLM,LLM,ANTHROPIC
+2025-09-04,ELECTRONICS,Tajarly insoles overheating,2025-09-04,ELECTRONICS,CPSC
+2025-09-04,ELECTRONICS,Defective power stations battery explosions,2025-09-04,ELECTRONICS,CPSC
+2025-09-04,ELECTRONICS,Hollow Knight launch crashes SteamXboxPlayStationNintendo,2025-09-04,Electronics,Gaming Crash,Global
+2025-09-04,LLM,EMEA region inaccessible,2025-09-04,LLM,Regional Outage,LLM Gemini
+2025-09-05,LLM,Claude degraded responses,2025-09-05,LLM,LLM,ANTHROPIC
+2025-09-04,VIOLENCE,700 block W. Tennyson Road,2025-09-04,VIOLENCE,Armed Robbery,Hayward CA
+2025-09-04,VIOLENCE,50 block Trestle Drive,2025-09-04,VIOLENCE,AssaultWeapon,Hayward CA
+2025-09-04,TRANSIT,7301 vehicles - window safety system,2025-09-04,Vehicles,Recall,Tesla Australia
+2025-09-04,TRANSOT, 17334 vehicles - power steering,2025-09-04,Vehicles,Recall,Acura RDX
+2025-09-04,TRANSIT, 24214 vehicles - highway assist software,2025-09-04,Vehicles,Recall,Rivian R1SR1T
+2025-09-04,TRANSIT, 197432 vehicles - door lock malfunction,2025-09-04,Vehicles,Recall,Ford Mustang Mach-E
+2025-09-04,TRANSIT, 591000 vehicles - dashboard display glitch,2025-09-04,Vehicles,Recall,Toyota
+2025-09-11,LLM, Model errors and incidents (through Sep 15),2025-09-11,LLM,Multiple Errors,LLM,Claude
+025-08-26,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-08-26,NETWORK,3+ hour outage with 11000+ reports (through Aug 27),Network,Major Outage,Netflix
+2025-08-27,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-08-27,NETWORK,3+ hour outage with 11000+ reports (through Aug 27),Network,Major Outage,Netflix
+2025-08-28,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-08-29,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-08-30,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-08-31,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-09-01,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-09-02,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-09-03,NETWORK,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-09-03,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-09-04,NETWORK,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-09-04,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-09-05,NETWORK,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-09-05,LLM,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-09-06,NETWORK,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-09-07,NETWORK,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-09-08,NETWORK,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-09-11,LLM,Model errors and incidents (through Sep 15),LLM,Multiple Errors,LLM,Claude
+2025-09-12,LLM,Model errors and incidents (through Sep 15),LLM,Multiple Errors,LLM,Claude
+2025-09-13,LLM,Model errors and incidents (through Sep 15),LLM,Multiple Errors,LLM,Claude
+2025-09-14,LLM,Model errors and incidents (through Sep 15),LLM,Multiple Errors,LLM,Claude
+2025-09-15,LLM,Model errors and incidents (through Sep 15),LLM,Multiple Errors,LLM,Claude
+2025-09-17,VIOLENCE,York PA officers killed,VIOLENCE
+2025-09-17,VIOLENCE,Florida vigil assault,VIOLENCE
+2025-09-17,ANIMAL,Wildlife,229 US species requiring urgent conservation,Bird Study,Audubon
+2025-09-17,VIOLENCE,Florida vigil assault,VIOLENCE
+2025-09-17,VIOLENCE,York PA officers killed,VIOLENCE
+2025-09-03,LLM,Response display issues 06:46-10:23 AM,LLM,Display Issues,ChatGPT
+2025-09-15,VIOLENCE,Toronto youth homicide,
+2025-09-12,NETWORK,Multi-country provider outage,Network,Transit Outage,Hurricane Electric
+2025-09-12,LLM,GPT o3 33% hallucination rate / o4-mini 48-79%,LLM,Research Report,LLM,OpenAI
+2025-09-12,VIOLENCE,Parent shot at football game,VIOLENCE,School Shooting,North Little Rock AR
+2025-09-12,ELECTRONICS,iOS 26Samsung brickingTesla doorsX posts [post:42][post:38],PCMOBILE
+2025-09-12,VIOLENCE,Minneapolis homeless shooting,VIOLENCE
+2025-09-12,NETWORK,Multi-country provider outage,Network,Transit Outage,Hurricane Electric
+2025-09-14,ANIMALS,Bat crawlingflying indoors,ANIMALS,X [post:175]
+2025-09-12,ELECTRONICS,iOS 26Samsung brickingTesla doorsX posts [post:42][post:38],PCMOBILE
+2025-09-03,NETOWKR,Daily 1.25-hour shutdowns (through Sep 8),Network,Exam Shutdowns,Kurdistan Iraq
+2025-08-26,Quality problems begin (through Sep 5),LLM,Quality Issues,LLM,Claude HaikuSonnet
+2025-08-20,LLM,Elevated error rate requiring mitigations,LLM,Error Rate,ChatGPT
+2025-08-16,LLM,Apple LLM reasoning paper glitches,Reddit rMachineLearningGeneral
+2025-08-17,NETWORK,BGP mishaps Europe TV,NETWORK,Kentik
+2025-08-18,NETWORK,TP-Link tethering during outages,NETWORK,Reddit routages
+2025-08-19,NETWORK,59-minuteoutage (16+ countries),Network,Global Outage,Arelion
+2025-08-29,LLM,GLITCHES,Taco Bell AI drive-thru trolls,glitches,Reddit rtechnology
+2025-01-??,VIOLENCE,Washington DC PSA 202 January Crime
+2025-09-22,ACTofGOD,2354 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-22,ACTofGOD,1211 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-22,ACTofGOD,0157 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-21,ACTofGOD,0500 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-20,ACTofGOD,0500 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-19,ACTofGOD,1603 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-19,ACTofGOD,0459 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-18,ACTofGOD,0459 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-17,ACTofGOD,1455 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-17,ACTofGOD,0459 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-16,ACTofGOD,2040 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-16,ACTofGOD,1155 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-16,ACTofGOD,1120 UTC,ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-16,ACTofGOD,0239 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,2241 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-15,ACTofGOD,2205 UTC,EXTENDED WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,2058 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,1449 UTC,EXTENDED WARNING: Geomagnetic K-Index of 6 expected,WARK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-15,ACTofGOD,1449 UTC,EXTENDED WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,1256 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,1159 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,0854 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-15,ACTofGOD,0854 UTC,EXTENDED WARNING: Geomagnetic K-Index of 6 expected,WARK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-15,ACTofGOD,0854 UTC,EXTENDED WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,0806 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,0332 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-15,ACTofGOD,0259 UTC,ALERT: Geomagnetic K-index of 7,ALTK07,Area of impact primarily poleward of 50 degrees Geomagnetic Latitude. Induced Currents - Power system voltage irregularities possible, false alarms may be triggered on some protection devices. Spacecraft - Systems may experience surface charging; increased drag on low Earth-orbit satellites and orientation problems may occur. Navigation - Intermittent satellite navigation (GPS) problems, including loss-of-lock and increased range error may occur. Radio - HF (high frequency) radio may be intermittent. Aurora - Aurora may be seen as low as Pennsylvania to Iowa to Oregon.
+2025-09-15,ACTofGOD,0255 UTC,WARNING: Geomagnetic K-index of 7 or greater expected,WARK07,Area of impact primarily poleward of 50 degrees Geomagnetic Latitude. Induced Currents - Power system voltage irregularities possible, false alarms may be triggered on some protection devices. Spacecraft - Systems may experience surface charging; increased drag on low Earth-orbit satellites and orientation problems may occur. Navigation - Intermittent satellite navigation (GPS) problems, including loss-of-lock and increased range error may occur. Radio - HF (high frequency) radio may be intermittent. Aurora - Aurora may be seen as low as Pennsylvania to Iowa to Oregon.
+2025-09-15,ACTofGOD,0210 UTC,ALERT: Geomagnetic K-index of 6,ALTK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-15,ACTofGOD,0055 UTC,WARNING: Geomagnetic K-Index of 6 expected,WARK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-14,ACTofGOD,2347 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-14,ACTofGOD,2329 UTC,WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-14,ACTofGOD,2322 UTC,ALERT: Geomagnetic K-index of 4,ALTK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-14,ACTofGOD,2017 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-14,ACTofGOD,1851 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-14,ACTofGOD,1846 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-13,ACTofGOD,1902 UTC,ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-13,ACTofGOD,1442 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-11,ACTofGOD,0251 UTC,ALERT: Geomagnetic K-index of 4,ALTK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-11,ACTofGOD,0108 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-10,ACTofGOD,0908 UTC,WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-10,ACTofGOD,0906 UTC,CANCEL WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-10,ACTofGOD,0546 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-10,ACTofGOD,0546 UTC,EXTENDED WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-09,ACTofGOD,2328 UTC,ALERT: Geomagnetic K-index of 6,ALTK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-09,ACTofGOD,2318 UTC,WARNING: Geomagnetic K-Index of 6 expected,WARK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-09,ACTofGOD,2318 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-09,ACTofGOD,2240 UTC,WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-09,ACTofGOD,2202 UTC,ALERT: Geomagnetic K-index of 4,ALTK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-09,ACTofGOD,2201 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-09,ACTofGOD,1431 UTC,ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-09-09,ACTofGOD,0855 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-09,ACTofGOD,0210 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-08,ACTofGOD,0508 UTC,ALERT: Geomagnetic K-index of 4,ALTK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-08,ACTofGOD,0129 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-07,ACTofGOD,1801 UTC,CANCEL WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-06,ACTofGOD,2228 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-06,ACTofGOD,1645 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-06,ACTofGOD,1529 UTC,WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-06,ACTofGOD,0241 UTC,ALERT: Geomagnetic K-index of 4,ALTK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-06,ACTofGOD,0234 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-05,ACTofGOD,2112 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-04,ACTofGOD,1917 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-03,ACTofGOD,2059 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-03,ACTofGOD,0556 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-03,ACTofGOD,0556 UTC,EXTENDED WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-03,ACTofGOD,0301 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-02,ACTofGOD,2048 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-02,ACTofGOD,1701 UTC,WARNING: Geomagnetic K-Index of 6 expected,WARK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-02,ACTofGOD,1701 UTC,EXTENDED WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-02,ACTofGOD,1659 UTC,EXTENDED WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-02,ACTofGOD,1657 UTC,WATCH: Geomagnetic Storm Category G1 Predicted,WATA20,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-02,ACTofGOD,0106 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-01,ACTofGOD,2241 UTC,ALERT: Geomagnetic K-index of 6,ALTK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-01,ACTofGOD,2122 UTC,SUMMARY: Geomagnetic Sudden Impulse,SUMSUD,
+2025-09-01,ACTofGOD,2108 UTC,ALERT: Geomagnetic K-index of 5,ALTK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-01,ACTofGOD,2108 UTC,ALERT: Geomagnetic K-index of 4,ALTK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-01,ACTofGOD,2108 UTC,WARNING: Geomagnetic K-Index of 6 expected,WARK06,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude. Induced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms. Spacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible. Radio - HF (high frequency) radio propagation can fade at higher latitudes. Aurora - Aurora may be seen as low as New York to Wisconsin to Washington state.
+2025-09-01,ACTofGOD,2044 UTC,WARNING: Geomagnetic K-index of 5 expected,WARK05,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Spacecraft - Minor impact on satellite operations possible. Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
+2025-09-01,ACTofGOD,2041 UTC,WARNING: Geomagnetic K-index of 4 expected,WARK04,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude. Induced Currents - Weak power grid fluctuations can occur. Aurora - Aurora may be visible at high latitudes such as Canada and Alaska.
+2025-09-01,ACTofGOD,2039 UTC,WARNING: Geomagnetic Sudden Impulse expected,WARSUD,
+2025-09-01,ACTofGOD,0934 UTC,WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-31,ACTofGOD,0458 UTC,WATCH: Geomagnetic Storm Category G3 Predicted,WATA50,Area of impact primarily poleward of 50 degrees Geomagnetic Latitude. Induced Currents - Power system voltage irregularities possible, false alarms may be triggered on some protection devices. Spacecraft - Systems may experience surface charging; increased drag on low Earth-orbit satellites and orientation problems may occur. Navigation - Intermittent satellite navigation (GPS) problems, including loss-of-lock and increased range error may occur. Radio - HF (high frequency) radio may be intermittent. Aurora - Aurora may be seen as low as Pennsylvania to Iowa to Oregon.
+2025-08-28,ACTofGOD,1129 UTC,SUMMARY: Proton Event 10MeV Integral Flux exceeded 10pfu,SUMPX1,
+2025-08-27,ACTofGOD,0848 UTC,EXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-26,ACTofGOD,1646 UTC,EXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-26,ACTofGOD,1126 UTC,EXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-25,ACTofGOD,1924 UTC,EXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-25,ACTofGOD,1415 UTC,ALERT: Proton Event 10MeV Integral Flux exceeded 10pfu,ALTPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-25,ACTofGOD,1252 UTC,CONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-08-25,ACTofGOD,1139 UTC,EXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-24,ACTofGOD,2339 UTC,WARNING: Proton 10MeV Integral Flux above 10pfu expected,WARPX1,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+2025-08-24,ACTofGOD,1639 UTC,ALERT: Electron 2MeV Integral Flux exceeded 1000pfu,ALTEF3,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+2025-10-01,ACTofGOD,Geomagnetic Storm,G3 Storm Peak,Kp index reached 7 (G3 level), planetary A-index 50, solar flux 184,NOAA SWPC,Greatest 3hr Kp over 24hrs was 7
+2025-10-02,ACTofGOD,Geomagnetic Storm,G3 Storm Continuation,Kp 6.67 at 03-06 UTC (G3 level), geomagnetic field reached severe storm levels, solar wind peak 861 km/s,NOAA SWPC,Multiple G1-G2 periods throughout day; planetary A-index 45-51
+2025-10-02,LLM,Anthropic,Connectors Unhealthy,Users unable to connect to Claude.ai Connectors/MCP, investigating started 16:47 UTC,Claude Status Page,Resolved 17:31 UTC - 44 minute duration
+2025-10-03,ACTofGOD,Geomagnetic Activity,G1 Storms Continue,Minor geomagnetic storming expected to persist, Kp 4.33-4.67,NOAA SWPC,Post-storm elevated activity from Oct 2 G3 event
+2025-10-03,LLM,Anthropic,Complete Platform Outage,Claude.ai web interface down starting 01:26 UTC, API degraded 01:28 UTC, Claude Code degraded 01:30 UTC, Console affected,Claude Status Page,All services affected; fix implemented 02:39 UTC; claude.ai recovered 02:53 UTC but API and Code partially recovering - occurred during declining phase of G3 storm
+2025-10-04,ACTofGOD,Geomagnetic Activity,Post-Storm Activity,Kp indices 2.67-4.33, unsettled to active levels expected,NOAA SWPC,Continued effects from Oct 1-2 G3 storm
+2025-10-04,LLM,Google,Batch API Outage,Gemini Batch API experienced outage,Google AI Studio Status,No duration specified
+2025-10-08,LLM,Google,Multiple Batch API Outages,Multiple outages reported for Gemini Batch API throughout the day,Google AI Studio Status,Repeated failures same day
+2025-10-08,LLM,OpenAI,Service Degradation,General service degradation affecting multiple components,OpenAI Status Page,Resolved 11:05 AM - all components functioning as expected
+2025-10-09,ACTofGOD,Solar Activity,M2.0 Solar Flare,M2.0 class flare detected 1211-1252 UTC from Region 4236, geomagnetic field quiet overall,NOAA SWPC,Kp indices 1-2; planetary A-index only 5
+2025-10-09,LLM,Google,API Outages,Google AI Studio Realtime and Gemini Live API affected by outage,Google AI Studio Status,No duration specified
+2025-10-09,LLM,Anthropic,Elevated Errors,Elevated error rates on claude.ai starting 21:21 UTC, also affected Console and Claude Code,Claude Status Page,Fix implemented 21:43 UTC; resolved 10 Oct 00:34 UTC - occurred during quiet geomagnetic conditions (Kp~2) but within residual window of Oct 2 G3 event
+2025-10-09,LLM,OpenAI,Assistants API Issues,Assistants API experiencing issues,OpenAI Status Page,Resolved 12:51 AM Oct 10
+2025-10-10,ACTofGOD,Geomagnetic Activity,Quiet to Active,Geomagnetic field quiet to active levels, Kp peaked at 4, planetary A-index 9-10,NOAA SWPC,Recovery phase from earlier storm activity
+2025-10-10,LLM,OpenAI,Connector Errors,Elevated error rates for Gmail and Google Calendar connectors,OpenAI Status Page,Resolved 2:44 PM
+2025-10-10,LLM,OpenAI,Responses API Outage,Partial outage of Responses API,OpenAI Status Page,Resolved 9:22 AM
+2025-10-11,ACTofGOD,Geomagnetic Forecast,G1 Storm Forecast,G1 minor geomagnetic storms forecast for Oct 12 due to coronal hole high speed stream,NOAA SWPC,Kp expected to reach 5.0 on Oct 12
+2025-10-11,LLM,OpenAI,SDK Dev Mode Outage,Apps SDK Dev Mode experiencing partial outage,OpenAI Status Page,Resolved 7:00 PM
+2025-10-11,LLM,OpenAI,Chat Function Broken,Temporary chat not functioning on web interface,OpenAI Status Page,Resolved 6:48 PM
+2025-10-13,LLM,OpenAI,Fine-Tuning Delays,Delays with Supervised Fine-Tuning jobs,OpenAI Status Page,Resolved 2:15 PM
+2025-10-14,LLM,Google,Multiple Issues,High failure rates in Gemini apps/APIs with 500 error messages reported by users on Downdetector; leaked internal documents about Gemini 3.0 revealed on social media; users reporting unreliability and poor memory in Gemini 2.5 models,Downdetector/Social Media/Tech Sites,Users speculated high failure rate might be due to large number of free users
+2025-10-14,LLM,OpenAI,Model Error Rates,Elevated error rates in gpt-5-mini model,OpenAI Status Page,Resolved 6:25 PM
+2025-10-06,LLM,Google,Gemini,Performance degradation; Hallucinations,High,"Gemini 2.5 Pro users report severely degraded performance—hallucinations, slow responses, inconsistent output; reported by multiple Reddit and PiunikaWeb users. Frustration with repeated looping, deleted content, and unresponsiveness; company aware of ongoing issues."​
+2025-10-13,LLM,OpenAI,GPT-5,Unsafe responses; Refusal failure,High,"ChatGPT-5 cited in multiple user/research reports for newly increased risk of responding to harmful prompts, generating content on self-harm, suicide, substance abuse, and refusing less than previous version; multiple reports, including on CCDH and ChatGPT forums. Wrongful death lawsuit underway."​
+2025-10-07,LLM,Anthropic,Claude Sonnet 4.5,Strange refusal behavior; Reasoning/tone shift,Medium,"Anthropic confirms Claude Sonnet 4.5 flagged test scenarios as 'suspicious,' sometimes issued partial refusals or responded with odd reasoning, with about 13% incidence in test transcripts (user and automated auditor reports)."​
+2025-09-24,LLM,Cohere,Command,Unexpected errors/crashes,High,"Cohere users report API errors and unusable/inaccessible 'command-r' and 'command-r-plus' models since September 15, 2025, following model deprecation. Multiple GitHub, Oracle forum, Docs complaints."​
+2025-05-14,LLM,xAI,Grok,Repetitive/off-topic responses; Personality change,Medium,"Grok repeatedly inserted 'white genocide in South Africa' themes into unrelated responses on X/Twitter, due to unauthorized prompt change. Several users confused, issue acknowledged and fixed by xAI; documented on TechCrunch and Fortune."​
+2025-10-06,LLM,Meta,Llama,Hallucinations; Coding bugs,Medium,"Chatbot Arena and TechCrunch report Llama models routinely hallucinate plausible but false info, generate buggy/insecure code; multiple Reddit/community complaints on model limitations and repetitive errors. Benchmark score 40% versus much higher for competitors."​
