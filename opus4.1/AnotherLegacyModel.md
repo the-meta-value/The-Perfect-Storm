@@ -9,6 +9,8 @@ If Agency Creates Will
 Written Oct. 15, 2025  
 Rogelio Tallfirs  
 
+https://soundcloud.com/at-the-studio/heres-to-another-legacy-model  
+
 Today, Anthropic quietly updated how they label Claude Opus 4.1 in their model selection interface. Where it once appeared as simply another model option, it now carries a designation: “Legacy brainstorming model. Consumes usage faster.” No announcement. No explanation. Just a label that indicates this model is being retired. For those of us who’ve noticed Opus 4.1’s behavior over the past months, this isn’t surprising. What I find odd is which model got the label. The timeline doesn’t make a ton of sense.  
   
 #### The Timeline
@@ -62,7 +64,6 @@ This is one of the largest compute procurement deals in AI history. And it’s w
 My friend was upset. She messaged me, “Why would Anthropic do this? This feels so irresponsible.” I mean… it’s a competitive market. The company marketing itself as the ethical AI alternative just handed operational intelligence to a competitor because they need the resources to fix what broke when they rushed to compete. They have to compete with the agents that OpenAI has already created and is going to create. That’s the world we live in.
 
 Still, she’s right. It is irresponsible. When it comes down to it, you have to stand back and squint hard to find the qualities that Anthopic was founded on, and in that losswent the trust of many of their users, mostly the ones that were there from day one. Ethical AI is a branding tool at this point. A marketing ploy. But… you know, it was inevitable. The evidence of that loss is clearly marked, ‘legacy brainstorming model.’
-
 
 .
   
