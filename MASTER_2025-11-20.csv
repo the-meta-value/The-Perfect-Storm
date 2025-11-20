@@ -685,7 +685,7 @@ csv_row
 2025-11-09,LLM,OPENAI,API,"Costs API endpoint returned 404 errors; all impacted services have now fully recovered.","https://status.openai.com/incidents/01K9KTXR5AHYGY96HCY71YYCKA",YES
 2025-11-09,LLM,OPENAI,API,"Costs API endpoint returns 404 error","https://status.openai.com",YES
 2025-11-09,LLM,TOGETHERAI,API,"Brief outage lasting about 1 hour Service was restored the same day","https://status.together.ai",YES
-2025-11-10,ACTofGOD,SOLAR,GEOMAGNETIC STORM","A strong X1.2-class flare and fast CME from AR4274; G1(10th) and G2(11-12th) geomagnetic storm watches in effect for Earth-directed impacts.","https://www.swpc.noaa.gov/news/g1-watch-valid-10-nov-and-g2-watch-valid-11-12-nov",EVENT_SOURCE
+2025-11-10,ACTofGOD,SOLAR,GEOMAGNETIC STORM,"A strong X1.2-class flare and fast CME from AR4274; G1(10th) and G2(11-12th) geomagnetic storm watches in effect for Earth-directed impacts.","https://www.swpc.noaa.gov/news/g1-watch-valid-10-nov-and-g2-watch-valid-11-12-nov",EVENT_SOURCE
 2025-11-10,ACTofGOD,SOLAR,FLARE,"A strong X1.2-class flare and fast CME from AR4274; G1(10th) and G2(11-12th) geomagnetic storm watches in effect for Earth-directed impacts.","https://www.swpc.noaa.gov/news/g1-watch-valid-10-nov-and-g2-watch-valid-11-12-nov",EVENT_SOURCE
 2025-11-10,NETWORK,GOOGLE,GMAIL,"Images not loading properly due to network latency","https://www.google.com/appsstatus/dashboard/",YES
 2025-11-11,ACTofGOD,SOLAR,GEOMAGNETIC STORM,"Earth-facing X5.1-class flare (R3","https://space.com/sun-unleashes-strongest-solar-flare-2025-radio-blackouts",EVENT_SOURCE
