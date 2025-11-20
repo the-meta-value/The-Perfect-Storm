@@ -1,8 +1,10 @@
 
+- # [Solar Activity Discussion](https://services.swpc.noaa.gov/text/discussion.txt)
+
 - [2mev electron fluence aka solar wind](https://www.solen.info/solar/images/electronfluence.png)
 - [Solar Terrestrial Activity Report](https://www.solen.info/solar)
 - [Coronal Hole History Oct. ](https://solen.info/solar/coronal_holes.html)
-- 
+
 
 <p>
 ╔═ ◆☀️◆ ═══════════════════════════════════════════════════════════════════╗<br>
