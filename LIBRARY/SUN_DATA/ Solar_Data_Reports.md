@@ -8,7 +8,7 @@
 
 <p>
 ╔═ ◆☀️◆ ═══════════════════════════════════════════════════════════════════╗<br>
-### ‖ Update on the progress of solar cycle 25 as of October 2025<br>
+‖ <b>Update on the progress of solar cycle 25 as of October 2025</b><br>
 ‖ Sunspot activity was on a decreasing trend from September 2024 until mid August 2025 (using the average solar flux over 3 <br>
 ‖ solar rotations as a proxy). Then a strong surge in activity saw solar flux peak in late August 2025 just below the largest <br>
 ‖ peaks seen in 2024. A slow decrease in activity from the August level has been observed in September and October 2025. <br>‖<br>‖
