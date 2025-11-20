@@ -19,7 +19,7 @@ LLM: Behavioral anomalies, outages, latency issues, content policy changes acros
 NETWORK: Connectivity issues, ISP outages, infrastructure failures, social media platforms
 
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────  
-# Support the Research!  <a href="https://liberapay.com/Perfect_Storm/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br>
+# Support the Research!  <br><a href="https://liberapay.com/Perfect_Storm/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br> [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/the-meta-value)<br>
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
 #### Data Structure
