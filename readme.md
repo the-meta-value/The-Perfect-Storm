@@ -18,6 +18,8 @@ LLM: Behavioral anomalies, outages, latency issues, content policy changes acros
 
 NETWORK: Connectivity issues, ISP outages, infrastructure failures, social media platforms
 
+────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────  
+# Support the Research!  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br>
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
 #### Data Structure
