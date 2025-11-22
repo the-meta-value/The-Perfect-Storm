@@ -36,3 +36,7 @@ Limitations
 Temporal bias (this is primarily 2025 data, but as we are entering a solar maxima that is predicted to last until around 2030, I plan to make this a longitudinal study)
 
 ⁘───────── ✧ ════════════•🌞•══════════════ ✧ ──────────⁘
+
+### Publications of the research
+
+Ladiosa (Worple), M. (2025). The Perfect Storm: Systemic Vulnerability of Large Language Models to Solar Weather. Zenodo. https://doi.org/10.5281/zenodo.17678248
