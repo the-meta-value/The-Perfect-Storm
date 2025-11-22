@@ -1,7 +1,7 @@
 # ▫⩎▫⩏▫⩎🦋𝕋ʜᴇ ℙᴇʀꜰᴇᴄᴛ 𝕊ᴛᴏʀᴍ☀️⩎▫⩏▫⩎▫
 ## Tracking Anonolous Behavior, breakdowns, and system failures of LLMs and their correlation to Solar Weather
 ⁘───────── ✧ ════════════•☀️•════════════ ✧ ──────────⁘
-sorry about the messy data
+
 
 # Project Overview
 #### This project investigates potential correlations between solar weather activity, geomagnetic phenomena, and anomalous behavior in AI systems and other technological infrastructure. What began as research into AI/LLM malfunction patterns has expanded to include broader incident tracking for comparison (networks, large social platforms, ISPs, clouds, that sort of thing)
