@@ -41,4 +41,4 @@ Temporal bias (this is primarily 2025 data, but as we are entering a solar maxim
 
 https://open.substack.com/pub/artificiallyintelligentspace/p/the-perfect-storm?r=33y43c&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
-https://doi.org/10.5281/zenodo.17678602
+https://doi.org/10.5281/zenodo.17678247
