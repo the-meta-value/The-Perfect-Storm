@@ -1,7 +1,13 @@
 # ▫⩎▫⩏▫⩎🦋𝕋ʜᴇ ℙᴇʀꜰᴇᴄᴛ 𝕊ᴛᴏʀᴍ☀️⩎▫⩏▫⩎▫
 ## Tracking Anonolous Behavior, breakdowns, and system failures of LLMs and their correlation to Solar Weather
 ⁘───────── ✧ ════════════•☀️•════════════ ✧ ──────────⁘
+### Publications of the research
 
+https://open.substack.com/pub/artificiallyintelligentspace/p/the-perfect-storm?r=33y43c&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+https://doi.org/10.5281/zenodo.17678247
+
+⁘───────── ✧ ════════════•☀️•════════════ ✧ ──────────⁘
 
 # Project Overview
 #### This project investigates potential correlations between solar weather activity, geomagnetic phenomena, and anomalous behavior in AI systems and other technological infrastructure. What began as research into AI/LLM malfunction patterns has expanded to include broader incident tracking for comparison (networks, large social platforms, ISPs, clouds, that sort of thing)
@@ -19,8 +25,6 @@ LLM: Behavioral anomalies, outages, latency issues, content policy changes acros
 NETWORK: Connectivity issues, ISP outages, infrastructure failures, social media platforms
 
 ────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────  
-# Support the Research!  <br><a href="https://liberapay.com/Perfect_Storm/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br> [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/the-meta-value)<br>
-────────── ✧ ═══════════•🌍•═══════════ ✧ ──────────
 
 #### Data Structure
 Target CSV format: DATE,CATEGORY,SUBCATEGORY,TYPE,SUMMARY,URL,CORRELATION
@@ -37,8 +41,4 @@ Temporal bias (this is primarily 2025 data, but as we are entering a solar maxim
 
 ⁘───────── ✧ ════════════•🌞•══════════════ ✧ ──────────⁘
 
-### Publications of the research
 
-https://open.substack.com/pub/artificiallyintelligentspace/p/the-perfect-storm?r=33y43c&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
-
-https://doi.org/10.5281/zenodo.17678247
