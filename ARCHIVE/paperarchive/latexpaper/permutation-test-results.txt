@@ -1,0 +1,74 @@
+
+==================================================
+PERMUTATION TEST RESULTS
+==================================================
+
+==================================================
+1. PERMUTATION TEST RESULTS
+==================================================
+
+
++------+---------------------+----------------+------------------------+-----------+---------+--------------------+-------------+
+|Seed  |Test Statistic       |Observed Value  |Number of Permutations  |Test Type  |p-value  |Significance Level  |Significant  |
++------+---------------------+----------------+------------------------+-----------+---------+--------------------+-------------+
+|    42|Difference in Means  |            1.42|                  50,000|two-sided  |   0.0000|              0.0500|             |
++------+---------------------+----------------+------------------------+-----------+---------+--------------------+-------------+
+
+
+
+==================================================
+2. GROUP STATISTICS
+==================================================
+
+
++---------+------+--------------------+-------+
+|Group    |Mean  |Standard Deviation  |Count  |
++---------+------+--------------------+-------+
+|Control  |  1.74|                2.14|    224|
+|Window   |  3.16|                2.69|     68|
++---------+------+--------------------+-------+
+
+
+
+==================================================
+3. EFFECT SIZE
+==================================================
+
+
++-------------+-------+----------------+
+|Effect Size  |Value  |Interpretation  |
++-------------+-------+----------------+
+|Cohen's d    |  0.623|medium          |
++-------------+-------+----------------+
+
+
+
+==================================================
+4. PERMUTATION DISTRIBUTION
+==================================================
+
+The histogram shows the distribution of test statistics from 50,000 random permutations. The red line indicates the observed difference of 1.42. The p-value (0.0000) represents the proportion of permutations where the absolute difference is greater than or equal to the observed difference.
+
+==================================================
+6. INTERPRETATION
+==================================================
+
+A two-sided permutation test was conducted to test for differences between groups 'Control' and 'Window'. The analysis with 50,000 permutations revealed a statistically significant difference between groups (observed difference = 1.42, p = 0.0000, Cohen's d = 0.623).
+
+==================================================
+7. CONCLUSION
+==================================================
+
+We reject the null hypothesis. There is sufficient evidence to conclude that there is a significant difference between the groups.
+
+==================================================
+8. GROUP COMPARISON VISUALIZATION
+==================================================
+Boxplot
+Mean Plot
+
+==================================================
+APA STYLE REPORT
+==================================================
+
+A two-sided permutation test was conducted to examine differences in value between group Control (M = 1.74, SD = 2.14, n = 224) and group Window (M = 3.16, SD = 2.69, n = 68). The analysis with 50,000 permutations revealed a statistically significant difference between the groups, observed difference = 1.42, p < .001, d = 0.62. The effect size (Cohen's d = 0.62) indicates a medium effect.
